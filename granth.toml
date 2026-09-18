@@ -1,0 +1,90 @@
+# granth.toml - this repository's identity, and the knobs the depth contract exposes.
+#
+# The master plan is the single source of truth for *what the curriculum is*: the tracks, the
+# phases and the day map all live there, between `<!-- granth:...:start -->` markers, so that a
+# human reading the plan and a script parsing it can never disagree. This file holds only what
+# the plan cannot express - where things live, and the shell commands of the local toolchain.
+#
+# Every key is optional. Delete a line to take the default.
+
+[project]
+name         = "Vaani"                # how the project is named in generated documents
+slug         = "vaani"                # lowercase, no spaces; used in skill and folder names
+topic        = "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
+plan_version = "v1.0.0"               # must match every hub's `plan_version` frontmatter
+driver       = "python granth.py"     # how generated documents tell the reader to run commands
+
+[paths]
+plan = "docs/00_MASTER_PLAN.md"
+docs = "docs"
+days = "days"
+
+[contract]
+# Directory names inside a day folder.
+parts_dir   = "parts"
+sources_dir = "sources"
+
+# The ladder every part declares. A day climbs it; a day that is all `foundation` is a tutorial,
+# and a day that opens at `production` has skipped the reader.
+levels = ["foundation", "working", "production"]
+
+# Fenced blocks whose contents are output, a diagram or a config dump. They carry no logic, so
+# the contract does not demand a walkthrough after them - demanding one would only teach padding.
+no_walkthrough_langs = [
+  "", "text", "console", "output", "traceback", "mermaid", "diff", "json", "toml", "yaml", "ini", "csv",
+]
+
+# Headings under which a code block is evidence rather than teaching.
+exempt_headings = "when it breaks|check yourself|verify|budget|ledger|the map|setup"
+
+# Every day carries at least one part whose subject is a deliberate failure. The part declares
+# itself with `failure: true` in its frontmatter, because no script can recognise one by reading.
+require_failure_part = true
+
+# A beginner English course has no citable primary sources - no papers, no specifications. Days
+# teach rules and reps, not documents. Anything a day does cite still gets a row in SOURCES.md.
+require_sources = false
+
+# The eleven part sections, in the order the contract requires them. The order is the pedagogy:
+# scene before definition, definition before mechanism, mechanism before failure, failure before
+# production. Changing it is a plan amendment, not a preference.
+part_sections = [
+  "one-line answer",
+  "the story",
+  "the idea in plain language",
+  "why this project needs it",
+  "the source behind it",
+  "the mechanism",
+  "line by line",
+  "the source in one demo",
+  "when it breaks",
+  "in production",
+  "check yourself",
+]
+
+# The eleven hub sections, numbered in the hub as `## §1 ...` through `## §11 ...`.
+hub_sections = [
+  "Where we are",
+  "The map",
+  "Setup",
+  "Build brief",
+  "The check that must be able to fail",
+  "Budget",
+  "Traps",
+  "Verify before you build",
+  "Say it out loud",
+  "Done when",
+  "Ledger & commit",
+]
+
+# This project's voice: a language lesson has a *rule*, not a mechanism, and it is used *in real
+# life*, not in production. The slots stay; only the heading text changes.
+[contract.section_patterns]
+"the mechanism" = "the rule|the mechanism"
+"in production" = "in real life|in production"
+
+[toolchain]
+# No code in this curriculum. `check` runs the depth contract and the generated documents only.
+lint         = ""
+format_check = ""
+test         = ""

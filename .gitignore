@@ -1,0 +1,38 @@
+# Secrets never touch git. This file exists before the first secret does.
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+credentials.json
+secrets.*
+
+# The learner's recordings stay on the phone and in lab/speaking/, never in git. The written
+# pieces in lab/writing/ ARE committed — the Writing Portfolio is the artifact.
+days/*/lab/speaking/
+*.m4a
+*.mp3
+*.wav
+*.ogg
+*.aac
+*.opus
+*.flac
+
+# Generated locally, never committed
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+venv/
+node_modules/
+dist/
+build/
+*.egg-info/
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+*.swp
