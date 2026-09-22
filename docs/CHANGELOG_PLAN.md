@@ -24,3 +24,14 @@ toolchain — also gets an ADR in `docs/adr/`, and the entry here links it.
   sound-video series, so the learner can hear a model and not only read a symbol. **Cost:** day 1
   already meets §12.9 and mostly meets §12.8; no rewrite. Days 2–6 are written under the new
   rules. `plan_version` in `granth.toml` and in every hub moves to v1.1.0. No IDs move.
+- 2026-09-22 — **What moved:** with days 2–6 written and only day 1 done, the learner asked for
+  days 7–16 in one sitting, because their access to the tool that writes the days is on a budget
+  they may not be able to renew. **What the plan now says (v1.2.0):** §9's writing-ahead rule
+  gains a second case: when the learner's access to the writing tool is not guaranteed, a batch
+  may be up to ten days and may start from the last *written* day, provided every day in between
+  is fully written and passes `depth`. Days are still done one at a time, in order, and
+  `docs/ERRORS.md` is read before each `done N` — `docs/adr/ADR-0004-batch-of-ten-from-the-last-written-day.md`.
+  **Cost:** days 7–16 are written with only day 1's real errors in the ledger; their failure parts
+  are generic by construction and say so. Day 17 onward needs a closed day 6 or a new ADR. The
+  day 20 gate is not written ahead. `plan_version` in `granth.toml` and in every hub moves to
+  v1.2.0. No IDs move.

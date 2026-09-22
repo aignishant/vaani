@@ -9,3 +9,8 @@ it. Cross-day lookups live in `wiki/ENTITIES.md`.
 | Day | Subject | IDs closed | Parts | Sources |
 | --- | --- | --- | --- | --- |
 | [01](wiki/day-01.md) | Short vowels: bit, bet, bat, but — saying your name aloud · The alphabet: capital a… | SND-01, WRT-01 | 6 | — |
+| [02](wiki/day-02.md) | Long vowels: beat, boot, bought — stretching the sound · Your address, your phone n… | SND-02, WRT-02 | 6 | — |
+| [03](wiki/day-03.md) | The two th sounds: think and this · The sentence: one capital letter, one full stop | SND-03, GRM-01 | 6 | — |
+| [04](wiki/day-04.md) | V and W: very, wet — teeth on the lip or not · One and many: the plural -s and the… | SND-04, GRM-02 | 6 | — |
+| [05](wiki/day-05.md) | R and L: rice, lice — where the tongue goes · A, an, the: which one and when none | SND-05, GRM-03 | 6 | — |
+| [06](wiki/day-06.md) | Final consonants: bad, bat, back — finishing the word · I am, you are, he is: the v… | SND-06, GRM-04 | 6 | — |

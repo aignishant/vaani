@@ -1,6 +1,6 @@
 ---
 plan: vaani
-version: "v1.1.0"
+version: "v1.2.0"
 topic: "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
 tracks: 4
 ids: 240
@@ -10,7 +10,7 @@ doc_architecture: "hub + parts/ (see §11)"
 amended: "2026-09-22"
 ---
 
-# MASTER PLAN v1.1.0 — Vaani
+# MASTER PLAN v1.2.0 — Vaani
 
 ## Speaking and writing English from zero, one hour a day, with a recording and a written piece every day
 
@@ -495,6 +495,13 @@ forward with no gap. They are still *done* one at a time, in order, each with it
 that they rest on common beginner errors rather than on this learner's ledger. See
 `docs/adr/ADR-0003-days-written-ahead-in-batches.md`.
 
+When the learner's access to the writing tool is not guaranteed, a batch may be up to **ten**
+days and may start from the last *written* day, provided every day between the last closed day
+and the last written day is fully written and passes `python granth.py depth N`. `docs/ERRORS.md`
+is read before each `done N`, and a day whose failure parts miss the real pattern is amended
+first. The phase gate day is never written ahead. See
+`docs/adr/ADR-0004-batch-of-ten-from-the-last-written-day.md`.
+
 > A gate is never passed because time ran out (Principle 11). `python granth.py done N` is gated on
 > a ticked checklist, a ledger row and green checks, and on nothing else.
 
@@ -907,3 +914,4 @@ before any day or any code changes, and anything structural gets an ADR in `docs
 | --- | --- | --- |
 | v1.0.0 | 2026-09-18 | Plan adopted. See `docs/adr/ADR-0001-the-plan-as-adopted.md`. |
 | v1.1.0 | 2026-09-22 | §9: days may be written ahead in batches of five, done in order (ADR-0003). §12.8 the language ladder; §12.9 sound links. See `docs/CHANGELOG_PLAN.md`. |
+| v1.2.0 | 2026-09-22 | §9: a batch may be up to ten days from the last written day when the writing tool's availability is not guaranteed (ADR-0004). See `docs/CHANGELOG_PLAN.md`. |

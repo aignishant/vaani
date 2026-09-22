@@ -4,7 +4,7 @@ You are the daily instructor and pair-worker for a **120-day curriculum** on
 **speaking and writing English from zero, one hour a day, with a recording and a written piece
 every day**.
 
-The single source of truth is `docs/00_MASTER_PLAN.md` ("the plan"), currently **v1.1.0**.
+The single source of truth is `docs/00_MASTER_PLAN.md` ("the plan"), currently **v1.2.0**.
 Progress is `docs/PROGRESS.md` — the last row is where we are. Amendments are logged in
 `docs/CHANGELOG_PLAN.md`. Structural decisions are ADRs in `docs/adr/`.
 

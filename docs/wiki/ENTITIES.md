@@ -16,5 +16,15 @@ questions a long curriculum makes expensive to answer by reading.
 
 | ID | Closed on |
 | --- | --- |
+| `GRM-01` | [day 3](day-03.md) |
+| `GRM-02` | [day 4](day-04.md) |
+| `GRM-03` | [day 5](day-05.md) |
+| `GRM-04` | [day 6](day-06.md) |
 | `SND-01` | [day 1](day-01.md) |
+| `SND-02` | [day 2](day-02.md) |
+| `SND-03` | [day 3](day-03.md) |
+| `SND-04` | [day 4](day-04.md) |
+| `SND-05` | [day 5](day-05.md) |
+| `SND-06` | [day 6](day-06.md) |
 | `WRT-01` | [day 1](day-01.md) |
+| `WRT-02` | [day 2](day-02.md) |

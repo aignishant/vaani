@@ -13,16 +13,16 @@ backlog item.
 | --- | --- | --- | --- | --- |
 | `SND-01` | Sounds and rhythm | 1 | 1 | [x] closed day 1 |
 | `WRT-01` | Writing | 1 | 1 | [x] closed day 1 |
-| `SND-02` | Sounds and rhythm | 1 | 2 | [ ] open |
-| `WRT-02` | Writing | 1 | 2 | [ ] open |
-| `SND-03` | Sounds and rhythm | 1 | 3 | [ ] open |
-| `GRM-01` | Grammar for writing | 1 | 3 | [ ] open |
-| `SND-04` | Sounds and rhythm | 1 | 4 | [ ] open |
-| `GRM-02` | Grammar for writing | 1 | 4 | [ ] open |
-| `SND-05` | Sounds and rhythm | 1 | 5 | [ ] open |
-| `GRM-03` | Grammar for writing | 1 | 5 | [ ] open |
-| `SND-06` | Sounds and rhythm | 1 | 6 | [ ] open |
-| `GRM-04` | Grammar for writing | 1 | 6 | [ ] open |
+| `SND-02` | Sounds and rhythm | 1 | 2 | [~] written day 2, not in the ledger |
+| `WRT-02` | Writing | 1 | 2 | [~] written day 2, not in the ledger |
+| `SND-03` | Sounds and rhythm | 1 | 3 | [~] written day 3, not in the ledger |
+| `GRM-01` | Grammar for writing | 1 | 3 | [~] written day 3, not in the ledger |
+| `SND-04` | Sounds and rhythm | 1 | 4 | [~] written day 4, not in the ledger |
+| `GRM-02` | Grammar for writing | 1 | 4 | [~] written day 4, not in the ledger |
+| `SND-05` | Sounds and rhythm | 1 | 5 | [~] written day 5, not in the ledger |
+| `GRM-03` | Grammar for writing | 1 | 5 | [~] written day 5, not in the ledger |
+| `SND-06` | Sounds and rhythm | 1 | 6 | [~] written day 6, not in the ledger |
+| `GRM-04` | Grammar for writing | 1 | 6 | [~] written day 6, not in the ledger |
 | `SND-07` | Sounds and rhythm | 1 | 7 | [ ] open |
 | `WRT-03` | Writing | 1 | 7 | [ ] open |
 | `SPK-01` | Speaking | 1 | 8 | [ ] open |

@@ -12,11 +12,11 @@ bug.
 | ID | Day | Day title |
 | --- | --- | --- |
 | `SND-01` | [1](../days/day-01-short-vowels/LESSON.md) | Short vowels: bit, bet, bat, but — saying your name aloud · The alphabet: capital and small let… |
-| `SND-02` | [2](../days/day-02/LESSON.md) | Long vowels: beat, boot, bought — stretching the sound · Your address, your phone number and nu… |
-| `SND-03` | [3](../days/day-03/LESSON.md) | The two th sounds: think and this · The sentence: one capital letter, one full stop |
-| `SND-04` | [4](../days/day-04/LESSON.md) | V and W: very, wet — teeth on the lip or not · One and many: the plural -s and the ones that br… |
-| `SND-05` | [5](../days/day-05/LESSON.md) | R and L: rice, lice — where the tongue goes · A, an, the: which one and when none |
-| `SND-06` | [6](../days/day-06/LESSON.md) | Final consonants: bad, bat, back — finishing the word · I am, you are, he is: the verb be |
+| `SND-02` | [2](../days/day-02-long-vowels/LESSON.md) | Long vowels: beat, boot, bought — stretching the sound · Your address, your phone number and nu… |
+| `SND-03` | [3](../days/day-03-two-th-sounds/LESSON.md) | The two th sounds: think and this · The sentence: one capital letter, one full stop |
+| `SND-04` | [4](../days/day-04-v-and-w/LESSON.md) | V and W: very, wet — teeth on the lip or not · One and many: the plural -s and the ones that br… |
+| `SND-05` | [5](../days/day-05-r-and-l/LESSON.md) | R and L: rice, lice — where the tongue goes · A, an, the: which one and when none |
+| `SND-06` | [6](../days/day-06-final-consonants/LESSON.md) | Final consonants: bad, bat, back — finishing the word · I am, you are, he is: the verb be |
 | `SND-07` | [7](../days/day-07/LESSON.md) | Word stress: PHOto, phoTOgrapher — the loud syllable · Five sentences about yourself, each one… |
 | `SND-08` | [13](../days/day-13/LESSON.md) | Sentence rhythm: the stressed words and the weak ones · Describing a person in one paragraph |
 | `SND-09` | [17](../days/day-17/LESSON.md) | Linking words together: an apple, not an-apple · Prepositions of place: in, on, under, next to |
@@ -141,10 +141,10 @@ bug.
 
 | ID | Day | Day title |
 | --- | --- | --- |
-| `GRM-01` | [3](../days/day-03/LESSON.md) | The two th sounds: think and this · The sentence: one capital letter, one full stop |
-| `GRM-02` | [4](../days/day-04/LESSON.md) | V and W: very, wet — teeth on the lip or not · One and many: the plural -s and the ones that br… |
-| `GRM-03` | [5](../days/day-05/LESSON.md) | R and L: rice, lice — where the tongue goes · A, an, the: which one and when none |
-| `GRM-04` | [6](../days/day-06/LESSON.md) | Final consonants: bad, bat, back — finishing the word · I am, you are, he is: the verb be |
+| `GRM-01` | [3](../days/day-03-two-th-sounds/LESSON.md) | The two th sounds: think and this · The sentence: one capital letter, one full stop |
+| `GRM-02` | [4](../days/day-04-v-and-w/LESSON.md) | V and W: very, wet — teeth on the lip or not · One and many: the plural -s and the ones that br… |
+| `GRM-03` | [5](../days/day-05-r-and-l/LESSON.md) | R and L: rice, lice — where the tongue goes · A, an, the: which one and when none |
+| `GRM-04` | [6](../days/day-06-final-consonants/LESSON.md) | Final consonants: bad, bat, back — finishing the word · I am, you are, he is: the verb be |
 | `GRM-05` | [8](../days/day-08/LESSON.md) | Greetings and goodbyes: hello to see you later · This, that, these, those: pointing on paper |
 | `GRM-06` | [9](../days/day-09/LESSON.md) | Introducing yourself in five spoken sentences · Have and has: what you own and what you are like |
 | `GRM-07` | [11](../days/day-11/LESSON.md) | Asking what, where, who · Questions with be and do: the word order |
@@ -194,7 +194,7 @@ bug.
 | ID | Day | Day title |
 | --- | --- | --- |
 | `WRT-01` | [1](../days/day-01-short-vowels/LESSON.md) | Short vowels: bit, bet, bat, but — saying your name aloud · The alphabet: capital and small let… |
-| `WRT-02` | [2](../days/day-02/LESSON.md) | Long vowels: beat, boot, bought — stretching the sound · Your address, your phone number and nu… |
+| `WRT-02` | [2](../days/day-02-long-vowels/LESSON.md) | Long vowels: beat, boot, bought — stretching the sound · Your address, your phone number and nu… |
 | `WRT-03` | [7](../days/day-07/LESSON.md) | Word stress: PHOto, phoTOgrapher — the loud syllable · Five sentences about yourself, each one… |
 | `WRT-04` | [10](../days/day-10/LESSON.md) | Numbers, times and dates out loud · Writing the date, the time and a one-line diary entry |
 | `WRT-05` | [13](../days/day-13/LESSON.md) | Sentence rhythm: the stressed words and the weak ones · Describing a person in one paragraph |
