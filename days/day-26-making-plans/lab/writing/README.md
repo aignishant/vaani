@@ -1,0 +1,1 @@
+Put your twelve tense sentences, your paragraph about right now, the deliberately swapped version with the claim table, and the restored GREEN paragraph here as day-26.md, or a photo named day-26.jpg.

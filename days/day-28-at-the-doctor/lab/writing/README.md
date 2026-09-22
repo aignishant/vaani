@@ -1,0 +1,1 @@
+Put your adjective phrases, the deliberately opinion-filled description, the GREEN description with its mark sentence, the six-object test table and the form-length version here as day-28.md, or a photo named day-28.jpg of your notebook page.

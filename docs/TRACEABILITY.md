@@ -43,26 +43,26 @@ backlog item.
 | `GRM-10` | Grammar for writing | 1 | 15 | [~] written day 15, not in the ledger |
 | `SPK-08` | Speaking | 1 | 16 | [~] written day 16, not in the ledger |
 | `WRT-06` | Writing | 1 | 16 | [~] written day 16, not in the ledger |
-| `SND-09` | Sounds and rhythm | 1 | 17 | [ ] open |
-| `GRM-11` | Grammar for writing | 1 | 17 | [ ] open |
-| `SPK-09` | Speaking | 1 | 18 | [ ] open |
-| `WRT-07` | Writing | 1 | 18 | [ ] open |
-| `SPK-10` | Speaking | 1 | 19 | [ ] open |
-| `GRM-12` | Grammar for writing | 1 | 19 | [ ] open |
-| `SPK-11` | Speaking | 1 | 20 | [ ] open |
-| `WRT-08` | Writing | 1 | 20 | [ ] open |
-| `SPK-12` | Speaking | 2 | 21 | [ ] open |
-| `WRT-09` | Writing | 2 | 21 | [ ] open |
-| `SPK-13` | Speaking | 2 | 22 | [ ] open |
-| `GRM-13` | Grammar for writing | 2 | 22 | [ ] open |
-| `SPK-14` | Speaking | 2 | 23 | [ ] open |
-| `WRT-10` | Writing | 2 | 23 | [ ] open |
-| `SND-10` | Sounds and rhythm | 2 | 24 | [ ] open |
-| `GRM-14` | Grammar for writing | 2 | 24 | [ ] open |
-| `SPK-15` | Speaking | 2 | 25 | [ ] open |
-| `WRT-11` | Writing | 2 | 25 | [ ] open |
-| `SPK-16` | Speaking | 2 | 26 | [ ] open |
-| `GRM-15` | Grammar for writing | 2 | 26 | [ ] open |
+| `SND-09` | Sounds and rhythm | 1 | 17 | [~] written day 17, not in the ledger |
+| `GRM-11` | Grammar for writing | 1 | 17 | [~] written day 17, not in the ledger |
+| `SPK-09` | Speaking | 1 | 18 | [~] written day 18, not in the ledger |
+| `WRT-07` | Writing | 1 | 18 | [~] written day 18, not in the ledger |
+| `SPK-10` | Speaking | 1 | 19 | [~] written day 19, not in the ledger |
+| `GRM-12` | Grammar for writing | 1 | 19 | [~] written day 19, not in the ledger |
+| `SPK-11` | Speaking | 1 | 20 | [~] written day 20, not in the ledger |
+| `WRT-08` | Writing | 1 | 20 | [~] written day 20, not in the ledger |
+| `SPK-12` | Speaking | 2 | 21 | [~] written day 21, not in the ledger |
+| `WRT-09` | Writing | 2 | 21 | [~] written day 21, not in the ledger |
+| `SPK-13` | Speaking | 2 | 22 | [~] written day 22, not in the ledger |
+| `GRM-13` | Grammar for writing | 2 | 22 | [~] written day 22, not in the ledger |
+| `SPK-14` | Speaking | 2 | 23 | [~] written day 23, not in the ledger |
+| `WRT-10` | Writing | 2 | 23 | [~] written day 23, not in the ledger |
+| `SND-10` | Sounds and rhythm | 2 | 24 | [~] written day 24, not in the ledger |
+| `GRM-14` | Grammar for writing | 2 | 24 | [~] written day 24, not in the ledger |
+| `SPK-15` | Speaking | 2 | 25 | [~] written day 25, not in the ledger |
+| `WRT-11` | Writing | 2 | 25 | [~] written day 25, not in the ledger |
+| `SPK-16` | Speaking | 2 | 26 | [~] written day 26, not in the ledger |
+| `GRM-15` | Grammar for writing | 2 | 26 | [~] written day 26, not in the ledger |
 | `SPK-17` | Speaking | 2 | 27 | [ ] open |
 | `WRT-12` | Writing | 2 | 27 | [ ] open |
 | `SPK-18` | Speaking | 2 | 28 | [ ] open |

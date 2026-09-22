@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "Ordering food and drink · Countable and uncountable: some, any, a piece of"
 ids: [SPK-13, GRM-13]
 kind: concept
-plan_version: "v1.3.0"
+plan_version: "v1.4.0"
 parts: 6
 generated: "2026-09-22"
 status: written

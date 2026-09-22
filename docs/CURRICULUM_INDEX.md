@@ -19,8 +19,8 @@ bug.
 | `SND-06` | [6](../days/day-06-final-consonants/LESSON.md) | Final consonants: bad, bat, back — finishing the word · I am, you are, he is: the verb be |
 | `SND-07` | [7](../days/day-07-word-stress/LESSON.md) | Word stress: PHOto, phoTOgrapher — the loud syllable · Five sentences about yourself, each one… |
 | `SND-08` | [13](../days/day-13-sentence-rhythm/LESSON.md) | Sentence rhythm: the stressed words and the weak ones · Describing a person in one paragraph |
-| `SND-09` | [17](../days/day-17/LESSON.md) | Linking words together: an apple, not an-apple · Prepositions of place: in, on, under, next to |
-| `SND-10` | [24](../days/day-24/LESSON.md) | Intonation: the voice going up and going down · Much, many, a lot of, a few, a little |
+| `SND-09` | [17](../days/day-17-linking-words/LESSON.md) | Linking words together: an apple, not an-apple · Prepositions of place: in, on, under, next to |
+| `SND-10` | [24](../days/day-24-voice-up-and-down/LESSON.md) | Intonation: the voice going up and going down · Much, many, a lot of, a few, a little |
 | `SND-11` | [30](../days/day-30/LESSON.md) | The schwa: the most common sound in English · There is, there are, there isn't |
 | `SND-12` | [35](../days/day-35/LESSON.md) | Contractions aloud: I'm, don't, it's, we've · Contractions on paper and the apostrophe |
 | `SND-13` | [39](../days/day-39/LESSON.md) | Speaking at a steady pace, not fast · And, but, because, so: joining two sentences |
@@ -48,14 +48,14 @@ bug.
 | `SPK-06` | [14](../days/day-14-talking-about-family/LESSON.md) | Talking about your family · My, your, his, her, and the apostrophe s |
 | `SPK-07` | [15](../days/day-15-daily-routine/LESSON.md) | Talking about your daily routine · Present simple: the -s and always, usually, never |
 | `SPK-08` | [16](../days/day-16-likes-and-dislikes/LESSON.md) | Likes and dislikes: I love, I can't stand · A short "my day" paragraph in order |
-| `SPK-09` | [18](../days/day-18/LESSON.md) | Describing where things are in your room · Describing your room on paper |
-| `SPK-10` | [19](../days/day-19/LESSON.md) | Can and can't: ability and permission aloud · Can and can't on paper, and the question form |
-| `SPK-11` | [20](../days/day-20/LESSON.md) | Gate: the recorded self-introduction · Gate: a ten-sentence page about you |
-| `SPK-12` | [21](../days/day-21/LESSON.md) | At the shop: asking for things politely · A shopping list and a note for the fridge |
-| `SPK-13` | [22](../days/day-22/LESSON.md) | Ordering food and drink · Countable and uncountable: some, any, a piece of |
-| `SPK-14` | [23](../days/day-23/LESSON.md) | Asking for and understanding directions · Writing directions someone can follow |
-| `SPK-15` | [25](../days/day-25/LESSON.md) | Talking on the phone: opening, holding, closing · A text message and a short reply |
-| `SPK-16` | [26](../days/day-26/LESSON.md) | Making plans: shall we, let's, how about · Present continuous: what is happening now |
+| `SPK-09` | [18](../days/day-18-where-things-are/LESSON.md) | Describing where things are in your room · Describing your room on paper |
+| `SPK-10` | [19](../days/day-19-can-and-cant/LESSON.md) | Can and can't: ability and permission aloud · Can and can't on paper, and the question form |
+| `SPK-11` | [20](../days/day-20-gate-self-introduction/LESSON.md) | Gate: the recorded self-introduction · Gate: a ten-sentence page about you |
+| `SPK-12` | [21](../days/day-21-at-the-shop/LESSON.md) | At the shop: asking for things politely · A shopping list and a note for the fridge |
+| `SPK-13` | [22](../days/day-22-ordering-food/LESSON.md) | Ordering food and drink · Countable and uncountable: some, any, a piece of |
+| `SPK-14` | [23](../days/day-23-asking-directions/LESSON.md) | Asking for and understanding directions · Writing directions someone can follow |
+| `SPK-15` | [25](../days/day-25-on-the-phone/LESSON.md) | Talking on the phone: opening, holding, closing · A text message and a short reply |
+| `SPK-16` | [26](../days/day-26-making-plans/LESSON.md) | Making plans: shall we, let's, how about · Present continuous: what is happening now |
 | `SPK-17` | [27](../days/day-27/LESSON.md) | Saying what is happening around you right now · Describing a picture in a paragraph |
 | `SPK-18` | [28](../days/day-28/LESSON.md) | At the doctor: saying how you feel and where it hurts · Adjectives and their order: a small red… |
 | `SPK-19` | [29](../days/day-29/LESSON.md) | The weather and small talk with a stranger · A short email to a friend |
@@ -151,11 +151,11 @@ bug.
 | `GRM-08` | [12](../days/day-12-yes-no-questions/LESSON.md) | Yes/no questions and short answers · Not: making a sentence negative |
 | `GRM-09` | [14](../days/day-14-talking-about-family/LESSON.md) | Talking about your family · My, your, his, her, and the apostrophe s |
 | `GRM-10` | [15](../days/day-15-daily-routine/LESSON.md) | Talking about your daily routine · Present simple: the -s and always, usually, never |
-| `GRM-11` | [17](../days/day-17/LESSON.md) | Linking words together: an apple, not an-apple · Prepositions of place: in, on, under, next to |
-| `GRM-12` | [19](../days/day-19/LESSON.md) | Can and can't: ability and permission aloud · Can and can't on paper, and the question form |
-| `GRM-13` | [22](../days/day-22/LESSON.md) | Ordering food and drink · Countable and uncountable: some, any, a piece of |
-| `GRM-14` | [24](../days/day-24/LESSON.md) | Intonation: the voice going up and going down · Much, many, a lot of, a few, a little |
-| `GRM-15` | [26](../days/day-26/LESSON.md) | Making plans: shall we, let's, how about · Present continuous: what is happening now |
+| `GRM-11` | [17](../days/day-17-linking-words/LESSON.md) | Linking words together: an apple, not an-apple · Prepositions of place: in, on, under, next to |
+| `GRM-12` | [19](../days/day-19-can-and-cant/LESSON.md) | Can and can't: ability and permission aloud · Can and can't on paper, and the question form |
+| `GRM-13` | [22](../days/day-22-ordering-food/LESSON.md) | Ordering food and drink · Countable and uncountable: some, any, a piece of |
+| `GRM-14` | [24](../days/day-24-voice-up-and-down/LESSON.md) | Intonation: the voice going up and going down · Much, many, a lot of, a few, a little |
+| `GRM-15` | [26](../days/day-26-making-plans/LESSON.md) | Making plans: shall we, let's, how about · Present continuous: what is happening now |
 | `GRM-16` | [28](../days/day-28/LESSON.md) | At the doctor: saying how you feel and where it hurts · Adjectives and their order: a small red… |
 | `GRM-17` | [30](../days/day-30/LESSON.md) | The schwa: the most common sound in English · There is, there are, there isn't |
 | `GRM-18` | [32](../days/day-32/LESSON.md) | Giving instructions aloud: how to make tea · Imperatives and first, next, then, finally |
@@ -199,11 +199,11 @@ bug.
 | `WRT-04` | [10](../days/day-10-numbers-times-dates/LESSON.md) | Numbers, times and dates out loud · Writing the date, the time and a one-line diary entry |
 | `WRT-05` | [13](../days/day-13-sentence-rhythm/LESSON.md) | Sentence rhythm: the stressed words and the weak ones · Describing a person in one paragraph |
 | `WRT-06` | [16](../days/day-16-likes-and-dislikes/LESSON.md) | Likes and dislikes: I love, I can't stand · A short "my day" paragraph in order |
-| `WRT-07` | [18](../days/day-18/LESSON.md) | Describing where things are in your room · Describing your room on paper |
-| `WRT-08` | [20](../days/day-20/LESSON.md) | Gate: the recorded self-introduction · Gate: a ten-sentence page about you |
-| `WRT-09` | [21](../days/day-21/LESSON.md) | At the shop: asking for things politely · A shopping list and a note for the fridge |
-| `WRT-10` | [23](../days/day-23/LESSON.md) | Asking for and understanding directions · Writing directions someone can follow |
-| `WRT-11` | [25](../days/day-25/LESSON.md) | Talking on the phone: opening, holding, closing · A text message and a short reply |
+| `WRT-07` | [18](../days/day-18-where-things-are/LESSON.md) | Describing where things are in your room · Describing your room on paper |
+| `WRT-08` | [20](../days/day-20-gate-self-introduction/LESSON.md) | Gate: the recorded self-introduction · Gate: a ten-sentence page about you |
+| `WRT-09` | [21](../days/day-21-at-the-shop/LESSON.md) | At the shop: asking for things politely · A shopping list and a note for the fridge |
+| `WRT-10` | [23](../days/day-23-asking-directions/LESSON.md) | Asking for and understanding directions · Writing directions someone can follow |
+| `WRT-11` | [25](../days/day-25-on-the-phone/LESSON.md) | Talking on the phone: opening, holding, closing · A text message and a short reply |
 | `WRT-12` | [27](../days/day-27/LESSON.md) | Saying what is happening around you right now · Describing a picture in a paragraph |
 | `WRT-13` | [29](../days/day-29/LESSON.md) | The weather and small talk with a stranger · A short email to a friend |
 | `WRT-14` | [31](../days/day-31/LESSON.md) | Asking for help and asking someone to repeat · Asking a question in writing, politely |

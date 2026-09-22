@@ -24,3 +24,13 @@ it. Cross-day lookups live in `wiki/ENTITIES.md`.
 | [14](wiki/day-14.md) | Talking about your family · My, your, his, her, and the apostrophe s | SPK-06, GRM-09 | 6 | — |
 | [15](wiki/day-15.md) | Talking about your daily routine · Present simple: the -s and always, usually, never | SPK-07, GRM-10 | 6 | — |
 | [16](wiki/day-16.md) | Likes and dislikes: I love, I can't stand · A short \"my day\" paragraph in order | SPK-08, WRT-06 | 6 | — |
+| [17](wiki/day-17.md) | Linking words together: an apple, not an-apple · Prepositions of place: in, on, und… | SND-09, GRM-11 | 6 | — |
+| [18](wiki/day-18.md) | Describing where things are in your room · Describing your room on paper | SPK-09, WRT-07 | 6 | — |
+| [19](wiki/day-19.md) | Can and can't: ability and permission aloud · Can and can't on paper, and the quest… | SPK-10, GRM-12 | 6 | — |
+| [20](wiki/day-20.md) | Gate: the recorded self-introduction · Gate: a ten-sentence page about you | SPK-11, WRT-08 | 6 | — |
+| [21](wiki/day-21.md) | At the shop: asking for things politely · A shopping list and a note for the fridge | SPK-12, WRT-09 | 6 | — |
+| [22](wiki/day-22.md) | Ordering food and drink · Countable and uncountable: some, any, a piece of | SPK-13, GRM-13 | 6 | — |
+| [23](wiki/day-23.md) | Asking for and understanding directions · Writing directions someone can follow | SPK-14, WRT-10 | 6 | — |
+| [24](wiki/day-24.md) | Intonation: the voice going up and going down · Much, many, a lot of, a few, a litt… | SND-10, GRM-14 | 6 | — |
+| [25](wiki/day-25.md) | Talking on the phone: opening, holding, closing · A text message and a short reply | SPK-15, WRT-11 | 6 | — |
+| [26](wiki/day-26.md) | Making plans: shall we, let's, how about · Present continuous: what is happening now | SPK-16, GRM-15 | 6 | — |

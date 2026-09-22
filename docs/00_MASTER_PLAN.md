@@ -1,6 +1,6 @@
 ---
 plan: vaani
-version: "v1.3.0"
+version: "v1.4.0"
 topic: "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
 tracks: 4
 ids: 240
@@ -10,7 +10,7 @@ doc_architecture: "hub + parts/ (see §11)"
 amended: "2026-09-22"
 ---
 
-# MASTER PLAN v1.3.0 — Vaani
+# MASTER PLAN v1.4.0 — Vaani
 
 ## Speaking and writing English from zero, one hour a day, with a recording and a written piece every day
 
@@ -501,9 +501,20 @@ and the last written day is fully written and passes `python granth.py depth N`.
 is read before each `done N`, and a day whose failure parts miss the real pattern is amended
 first. See `docs/adr/ADR-0004-batch-of-ten-from-the-last-written-day.md`.
 
-Each such batch closes at its last day and the next one is argued for again, in its own ADR, so
-that writing ahead stays a decision and never becomes the default. The second batch is days
-17–26. See `docs/adr/ADR-0005-second-batch-of-ten-and-the-gate-day.md`.
+Each such batch closes at its last day and the next one is argued for again, in its own ADR. The
+second batch is days 17–26 (`docs/adr/ADR-0005-second-batch-of-ten-and-the-gate-day.md`); the
+third is days 27–36 (`docs/adr/ADR-0006-third-batch-and-the-order-rule-faced-directly.md`).
+
+**What the order rule actually protects.** Three batches in, the plan says the true thing rather
+than the tidy one. *Doing* days in order is the hard rule, it has never been broken, and
+`python granth.py done N` enforces it. *Writing* ahead is no longer exceptional in this
+repository: it is the normal mode while the learner's access to the writing tool is not
+guaranteed, and it is capped at ten days per batch and argued for in an ADR each time, so that it
+stays a decision. The cost is paid in the open: **every written-ahead part states, in the part,
+that its wrong version is a common beginner error and not one this learner has made**, and every
+written-ahead day's hub and `CHECKLIST.md` carry a tickable re-read of `docs/ERRORS.md` before
+`done N`. A batch is never widened past ten, and a gate day is never pulled into a batch merely
+because it is next (ADR-0006).
 
 **The phase gate day.** A gate day may be written ahead, but only as a **rehearsal of a gate**.
 It teaches no new rule — a gate that teaches is not a gate. It points at the gate wording in §7
@@ -927,3 +938,4 @@ before any day or any code changes, and anything structural gets an ADR in `docs
 | v1.1.0 | 2026-09-22 | §9: days may be written ahead in batches of five, done in order (ADR-0003). §12.8 the language ladder; §12.9 sound links. See `docs/CHANGELOG_PLAN.md`. |
 | v1.2.0 | 2026-09-22 | §9: a batch may be up to ten days from the last written day when the writing tool's availability is not guaranteed (ADR-0004). See `docs/CHANGELOG_PLAN.md`. |
 | v1.3.0 | 2026-09-22 | §9: a second batch of ten, days 17–26, and a phase gate day may be written ahead as a rehearsal, with a mandatory `ERRORS.md` re-read before `done N` (ADR-0005). See `docs/CHANGELOG_PLAN.md`. |
+| v1.4.0 | 2026-09-22 | §9: a third batch of ten, days 27–36, and the order rule named for what it is — *doing* days in order is the hard rule, *writing* ahead is the normal mode, capped at ten per batch and argued for each time (ADR-0006). See `docs/CHANGELOG_PLAN.md`. |

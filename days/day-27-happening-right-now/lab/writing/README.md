@@ -1,0 +1,1 @@
+Put your four-move sentences, your two picture paragraphs, the deliberately scrambled version with the pencil-test table, and the repaired GREEN paragraph here as day-27.md, or a photo named day-27.jpg of your notebook page.

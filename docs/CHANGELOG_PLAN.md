@@ -54,3 +54,21 @@ toolchain — also gets an ADR in `docs/adr/`, and the entry here links it.
   day 6 or a further ADR; a third widening without a closed day in between should be read as the
   order rule having been abandoned, and faced directly. `plan_version` in `granth.toml` and in
   every hub moves to v1.3.0. No IDs move.
+- 2026-09-22 — **What moved:** ADR-0005's batch closed at day 26 by its own terms and left a
+  warning: a third widening without a closed day in between means the order rule has been
+  abandoned in practice and should be faced directly. The learner asked for days 27–36 with the
+  ledger still holding one row, so the warning applies. **What the plan now says (v1.4.0):** §9's
+  writing-ahead rule gains the third batch, days 27–36, on every condition ADR-0004 and ADR-0005
+  already set — and stops calling writing ahead exceptional. The rule is split into the two rules
+  it always was: *doing* days in order is the hard rule, never broken, enforced by
+  `python granth.py done N`; *writing* ahead is the normal mode of this repository while access to
+  the writing tool is not guaranteed, capped at ten days per batch and argued for in its own ADR
+  each time. The cost is paid in the open: every written-ahead part says in the part that its
+  wrong version is a common beginner error and not this learner's, and every such day's hub and
+  checklist carry a tickable `docs/ERRORS.md` re-read before `done N` —
+  `docs/adr/ADR-0006-third-batch-and-the-order-rule-faced-directly.md`. **Cost:** days 27–36 are
+  written with one day of real errors behind them; day 36 is written thirty-five learning days
+  before it is read. The `ERRORS.md` re-read now carries thirty-five days of repair work and is a
+  checkbox, not a guarantee. Day 37 onward needs a closed day 6 or a further ADR, and the phase 2
+  gate, day 40, is deliberately left out of the batch. `plan_version` in `granth.toml` and in
+  every hub moves to v1.4.0. No IDs move.

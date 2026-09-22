@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Long vowels: beat, boot, bought — stretching the sound · Your address, your phone number and numbers as words"
 ids: [SND-02, WRT-02]
 kind: concept
-plan_version: "v1.3.0"
+plan_version: "v1.4.0"
 parts: 6
 generated: "2026-09-22"
 status: written

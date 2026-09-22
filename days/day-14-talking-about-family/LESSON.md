@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Talking about your family · My, your, his, her, and the apostrophe s"
 ids: [SPK-06, GRM-09]
 kind: concept
-plan_version: "v1.3.0"
+plan_version: "v1.4.0"
 parts: 6
 generated: "2026-09-22"
 status: written

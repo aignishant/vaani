@@ -9,9 +9,9 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | | Count | Of plan |
 | --- | --- | --- |
 | Days in the plan | **120** | 100% |
-| Days written | **16** | 13.3% |
+| Days written | **26** | 21.7% |
 | Days complete | **1** | 0.8% |
-| Subtopic documents | **96** | — |
+| Subtopic documents | **156** | — |
 | Source documents | **0** | — |
 
 ## Every day
@@ -34,16 +34,16 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 14 | 1 | [Talking about your family · My, your, his, her, and the apostrophe s](../days/day-14-talking-about-family/LESSON.md) | written | 6 | 0 | `SPK-06`, `GRM-09` |
 | 15 | 1 | [Talking about your daily routine · Present simple: the -s and always, u…](../days/day-15-daily-routine/LESSON.md) | written | 6 | 0 | `SPK-07`, `GRM-10` |
 | 16 | 1 | [Likes and dislikes: I love, I can't stand · A short \"my day\" paragrap…](../days/day-16-likes-and-dislikes/LESSON.md) | written | 6 | 0 | `SPK-08`, `WRT-06` |
-| 17 | 1 | Linking words together: an apple, not an-apple · Prepositions of place:… | not started | 0 | 0 | `SND-09`, `GRM-11` |
-| 18 | 1 | Describing where things are in your room · Describing your room on paper | not started | 0 | 0 | `SPK-09`, `WRT-07` |
-| 19 | 1 | Can and can't: ability and permission aloud · Can and can't on paper, a… | not started | 0 | 0 | `SPK-10`, `GRM-12` |
-| 20 | 1 | Gate: the recorded self-introduction · Gate: a ten-sentence page about… | not started | 0 | 0 | `SPK-11`, `WRT-08` |
-| 21 | 2 | At the shop: asking for things politely · A shopping list and a note fo… | not started | 0 | 0 | `SPK-12`, `WRT-09` |
-| 22 | 2 | Ordering food and drink · Countable and uncountable: some, any, a piece… | not started | 0 | 0 | `SPK-13`, `GRM-13` |
-| 23 | 2 | Asking for and understanding directions · Writing directions someone ca… | not started | 0 | 0 | `SPK-14`, `WRT-10` |
-| 24 | 2 | Intonation: the voice going up and going down · Much, many, a lot of, a… | not started | 0 | 0 | `SND-10`, `GRM-14` |
-| 25 | 2 | Talking on the phone: opening, holding, closing · A text message and a… | not started | 0 | 0 | `SPK-15`, `WRT-11` |
-| 26 | 2 | Making plans: shall we, let's, how about · Present continuous: what is… | not started | 0 | 0 | `SPK-16`, `GRM-15` |
+| 17 | 1 | [Linking words together: an apple, not an-apple · Prepositions of place:…](../days/day-17-linking-words/LESSON.md) | written | 6 | 0 | `SND-09`, `GRM-11` |
+| 18 | 1 | [Describing where things are in your room · Describing your room on paper](../days/day-18-where-things-are/LESSON.md) | written | 6 | 0 | `SPK-09`, `WRT-07` |
+| 19 | 1 | [Can and can't: ability and permission aloud · Can and can't on paper, a…](../days/day-19-can-and-cant/LESSON.md) | written | 6 | 0 | `SPK-10`, `GRM-12` |
+| 20 | 1 | [Gate: the recorded self-introduction · Gate: a ten-sentence page about…](../days/day-20-gate-self-introduction/LESSON.md) | written | 6 | 0 | `SPK-11`, `WRT-08` |
+| 21 | 2 | [At the shop: asking for things politely · A shopping list and a note fo…](../days/day-21-at-the-shop/LESSON.md) | written | 6 | 0 | `SPK-12`, `WRT-09` |
+| 22 | 2 | [Ordering food and drink · Countable and uncountable: some, any, a piece…](../days/day-22-ordering-food/LESSON.md) | written | 6 | 0 | `SPK-13`, `GRM-13` |
+| 23 | 2 | [Asking for and understanding directions · Writing directions someone ca…](../days/day-23-asking-directions/LESSON.md) | written | 6 | 0 | `SPK-14`, `WRT-10` |
+| 24 | 2 | [Intonation: the voice going up and going down · Much, many, a lot of, a…](../days/day-24-voice-up-and-down/LESSON.md) | written | 6 | 0 | `SND-10`, `GRM-14` |
+| 25 | 2 | [Talking on the phone: opening, holding, closing · A text message and a…](../days/day-25-on-the-phone/LESSON.md) | written | 6 | 0 | `SPK-15`, `WRT-11` |
+| 26 | 2 | [Making plans: shall we, let's, how about · Present continuous: what is…](../days/day-26-making-plans/LESSON.md) | written | 6 | 0 | `SPK-16`, `GRM-15` |
 | 27 | 2 | Saying what is happening around you right now · Describing a picture in… | not started | 0 | 0 | `SPK-17`, `WRT-12` |
 | 28 | 2 | At the doctor: saying how you feel and where it hurts · Adjectives and… | not started | 0 | 0 | `SPK-18`, `GRM-16` |
 | 29 | 2 | The weather and small talk with a stranger · A short email to a friend | not started | 0 | 0 | `SPK-19`, `WRT-13` |
@@ -143,8 +143,8 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 
 | Phase | Days | Theme | Written | Complete | Gate |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 1–20 | Foundations: sounds and first sentences; letter… | 16/20 | 1/20 | Speaking: a recorded self-introduction of at least ten… |
-| 2 | 21–40 | Everyday life: shops, phones, plans; notes, mes… | 0/20 | 0/20 | Speaking: a recorded shop or café role-play, both voice… |
+| 1 | 1–20 | Foundations: sounds and first sentences; letter… | 20/20 | 1/20 | Speaking: a recorded self-introduction of at least ten… |
+| 2 | 21–40 | Everyday life: shops, phones, plans; notes, mes… | 6/20 | 0/20 | Speaking: a recorded shop or café role-play, both voice… |
 | 3 | 41–60 | Telling what happened: the past, stories, compa… | 0/20 | 0/20 | Speaking: a recorded story from your life with a beginn… |
 | 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 0/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |
 | 5 | 81–100 | Formal and at work: interviews, meetings, compl… | 0/20 | 0/20 | Speaking: a recorded interview role-play answering five… |
