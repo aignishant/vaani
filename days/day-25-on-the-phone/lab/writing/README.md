@@ -1,0 +1,1 @@
+Put your three versions of one message, your four messages with their shortest replies, the deliberately punctuated versions with the feeling table, and the originals here as day-25.md, or a photo named day-25.jpg.

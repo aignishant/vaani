@@ -35,3 +35,22 @@ toolchain — also gets an ADR in `docs/adr/`, and the entry here links it.
   are generic by construction and say so. Day 17 onward needs a closed day 6 or a new ADR. The
   day 20 gate is not written ahead. `plan_version` in `granth.toml` and in every hub moves to
   v1.2.0. No IDs move.
+- 2026-09-22 — **What moved:** ADR-0004's batch closed at day 16 by its own terms, the ledger
+  still has one row, and the learner asked for the next ten days, 17–26. The reason is the one
+  named in ADR-0004 and it has not changed: access to the tool that writes these days is on a
+  budget that may not be renewed. Day 20 is the phase 1 gate, and §9 said a gate day is never
+  written ahead — a rule whose consequence, if the tool goes away, is not a better gate but no
+  gate and an unclosable phase. **What the plan now says (v1.3.0):** §9's writing-ahead rule is
+  amended twice. (1) A second batch of up to ten days, 17–26, may be written ahead from the last
+  written day, on every condition ADR-0004 already set. (2) A phase gate day **may** be written
+  ahead, but only as a rehearsal: it teaches no new rule, it points at §7 for the pass condition
+  and never restates it more kindly, and its hub and checklist carry a mandatory, tickable
+  re-read of `docs/ERRORS.md` for the whole phase before `done N`, at which point its generic
+  check lists are replaced by this learner's real recurring mistakes —
+  `docs/adr/ADR-0005-second-batch-of-ten-and-the-gate-day.md`. **Cost:** days 17–26 are written
+  with only day 1's real errors in the ledger; every failure part in the batch is generic by
+  construction and says so, and day 26 is written twenty-five learning days before it is read.
+  The day 20 gate is a rehearsal until its re-read step is done. Day 27 onward needs a closed
+  day 6 or a further ADR; a third widening without a closed day in between should be read as the
+  order rule having been abandoned, and faced directly. `plan_version` in `granth.toml` and in
+  every hub moves to v1.3.0. No IDs move.

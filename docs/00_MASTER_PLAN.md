@@ -1,6 +1,6 @@
 ---
 plan: vaani
-version: "v1.2.0"
+version: "v1.3.0"
 topic: "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
 tracks: 4
 ids: 240
@@ -10,7 +10,7 @@ doc_architecture: "hub + parts/ (see §11)"
 amended: "2026-09-22"
 ---
 
-# MASTER PLAN v1.2.0 — Vaani
+# MASTER PLAN v1.3.0 — Vaani
 
 ## Speaking and writing English from zero, one hour a day, with a recording and a written piece every day
 
@@ -499,8 +499,19 @@ When the learner's access to the writing tool is not guaranteed, a batch may be 
 days and may start from the last *written* day, provided every day between the last closed day
 and the last written day is fully written and passes `python granth.py depth N`. `docs/ERRORS.md`
 is read before each `done N`, and a day whose failure parts miss the real pattern is amended
-first. The phase gate day is never written ahead. See
-`docs/adr/ADR-0004-batch-of-ten-from-the-last-written-day.md`.
+first. See `docs/adr/ADR-0004-batch-of-ten-from-the-last-written-day.md`.
+
+Each such batch closes at its last day and the next one is argued for again, in its own ADR, so
+that writing ahead stays a decision and never becomes the default. The second batch is days
+17–26. See `docs/adr/ADR-0005-second-batch-of-ten-and-the-gate-day.md`.
+
+**The phase gate day.** A gate day may be written ahead, but only as a **rehearsal of a gate**.
+It teaches no new rule — a gate that teaches is not a gate. It points at the gate wording in §7
+and never restates it more kindly, because a gate written early is not a gate made easier. And
+its hub and its `CHECKLIST.md` carry a **mandatory, tickable re-read** of `docs/ERRORS.md` for
+every day of the phase before `done N`, at which point its generic check lists are replaced by
+this learner's real recurring mistakes. Until that box is ticked, a written-ahead gate day is a
+rehearsal and says so (ADR-0005).
 
 > A gate is never passed because time ran out (Principle 11). `python granth.py done N` is gated on
 > a ticked checklist, a ledger row and green checks, and on nothing else.
@@ -915,3 +926,4 @@ before any day or any code changes, and anything structural gets an ADR in `docs
 | v1.0.0 | 2026-09-18 | Plan adopted. See `docs/adr/ADR-0001-the-plan-as-adopted.md`. |
 | v1.1.0 | 2026-09-22 | §9: days may be written ahead in batches of five, done in order (ADR-0003). §12.8 the language ladder; §12.9 sound links. See `docs/CHANGELOG_PLAN.md`. |
 | v1.2.0 | 2026-09-22 | §9: a batch may be up to ten days from the last written day when the writing tool's availability is not guaranteed (ADR-0004). See `docs/CHANGELOG_PLAN.md`. |
+| v1.3.0 | 2026-09-22 | §9: a second batch of ten, days 17–26, and a phase gate day may be written ahead as a rehearsal, with a mandatory `ERRORS.md` re-read before `done N` (ADR-0005). See `docs/CHANGELOG_PLAN.md`. |

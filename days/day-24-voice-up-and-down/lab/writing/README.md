@@ -1,0 +1,1 @@
+Put your twelve amount sentences, your four-sentence message, the swapped number-free version with the noun-by-noun table, and the restored GREEN message here as day-24.md, or a photo named day-24.jpg.
