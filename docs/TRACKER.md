@@ -9,9 +9,9 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | | Count | Of plan |
 | --- | --- | --- |
 | Days in the plan | **120** | 100% |
-| Days written | **6** | 5.0% |
+| Days written | **16** | 13.3% |
 | Days complete | **1** | 0.8% |
-| Subtopic documents | **36** | — |
+| Subtopic documents | **96** | — |
 | Source documents | **0** | — |
 
 ## Every day
@@ -24,16 +24,16 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 4 | 1 | [V and W: very, wet — teeth on the lip or not · One and many: the plural…](../days/day-04-v-and-w/LESSON.md) | written | 6 | 0 | `SND-04`, `GRM-02` |
 | 5 | 1 | [R and L: rice, lice — where the tongue goes · A, an, the: which one and…](../days/day-05-r-and-l/LESSON.md) | written | 6 | 0 | `SND-05`, `GRM-03` |
 | 6 | 1 | [Final consonants: bad, bat, back — finishing the word · I am, you are,…](../days/day-06-final-consonants/LESSON.md) | written | 6 | 0 | `SND-06`, `GRM-04` |
-| 7 | 1 | Word stress: PHOto, phoTOgrapher — the loud syllable · Five sentences a… | not started | 0 | 0 | `SND-07`, `WRT-03` |
-| 8 | 1 | Greetings and goodbyes: hello to see you later · This, that, these, tho… | not started | 0 | 0 | `SPK-01`, `GRM-05` |
-| 9 | 1 | Introducing yourself in five spoken sentences · Have and has: what you… | not started | 0 | 0 | `SPK-02`, `GRM-06` |
-| 10 | 1 | Numbers, times and dates out loud · Writing the date, the time and a on… | not started | 0 | 0 | `SPK-03`, `WRT-04` |
-| 11 | 1 | Asking what, where, who · Questions with be and do: the word order | not started | 0 | 0 | `SPK-04`, `GRM-07` |
-| 12 | 1 | Yes/no questions and short answers · Not: making a sentence negative | not started | 0 | 0 | `SPK-05`, `GRM-08` |
-| 13 | 1 | Sentence rhythm: the stressed words and the weak ones · Describing a pe… | not started | 0 | 0 | `SND-08`, `WRT-05` |
-| 14 | 1 | Talking about your family · My, your, his, her, and the apostrophe s | not started | 0 | 0 | `SPK-06`, `GRM-09` |
-| 15 | 1 | Talking about your daily routine · Present simple: the -s and always, u… | not started | 0 | 0 | `SPK-07`, `GRM-10` |
-| 16 | 1 | Likes and dislikes: I love, I can't stand · A short "my day" paragraph… | not started | 0 | 0 | `SPK-08`, `WRT-06` |
+| 7 | 1 | [Word stress: PHOto, phoTOgrapher — the loud syllable · Five sentences a…](../days/day-07-word-stress/LESSON.md) | written | 6 | 0 | `SND-07`, `WRT-03` |
+| 8 | 1 | [Greetings and goodbyes: hello to see you later · This, that, these, tho…](../days/day-08-greetings-and-goodbyes/LESSON.md) | written | 6 | 0 | `SPK-01`, `GRM-05` |
+| 9 | 1 | [Introducing yourself in five spoken sentences · Have and has: what you…](../days/day-09-introducing-yourself/LESSON.md) | written | 6 | 0 | `SPK-02`, `GRM-06` |
+| 10 | 1 | [Numbers, times and dates out loud · Writing the date, the time and a on…](../days/day-10-numbers-times-dates/LESSON.md) | written | 6 | 0 | `SPK-03`, `WRT-04` |
+| 11 | 1 | [Asking what, where, who · Questions with be and do: the word order](../days/day-11-asking-what-where-who/LESSON.md) | written | 6 | 0 | `SPK-04`, `GRM-07` |
+| 12 | 1 | [Yes/no questions and short answers · Not: making a sentence negative](../days/day-12-yes-no-questions/LESSON.md) | written | 6 | 0 | `SPK-05`, `GRM-08` |
+| 13 | 1 | [Sentence rhythm: the stressed words and the weak ones · Describing a pe…](../days/day-13-sentence-rhythm/LESSON.md) | written | 6 | 0 | `SND-08`, `WRT-05` |
+| 14 | 1 | [Talking about your family · My, your, his, her, and the apostrophe s](../days/day-14-talking-about-family/LESSON.md) | written | 6 | 0 | `SPK-06`, `GRM-09` |
+| 15 | 1 | [Talking about your daily routine · Present simple: the -s and always, u…](../days/day-15-daily-routine/LESSON.md) | written | 6 | 0 | `SPK-07`, `GRM-10` |
+| 16 | 1 | [Likes and dislikes: I love, I can't stand · A short \"my day\" paragrap…](../days/day-16-likes-and-dislikes/LESSON.md) | written | 6 | 0 | `SPK-08`, `WRT-06` |
 | 17 | 1 | Linking words together: an apple, not an-apple · Prepositions of place:… | not started | 0 | 0 | `SND-09`, `GRM-11` |
 | 18 | 1 | Describing where things are in your room · Describing your room on paper | not started | 0 | 0 | `SPK-09`, `WRT-07` |
 | 19 | 1 | Can and can't: ability and permission aloud · Can and can't on paper, a… | not started | 0 | 0 | `SPK-10`, `GRM-12` |
@@ -143,7 +143,7 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 
 | Phase | Days | Theme | Written | Complete | Gate |
 | --- | --- | --- | --- | --- | --- |
-| 1 | 1–20 | Foundations: sounds and first sentences; letter… | 6/20 | 1/20 | Speaking: a recorded self-introduction of at least ten… |
+| 1 | 1–20 | Foundations: sounds and first sentences; letter… | 16/20 | 1/20 | Speaking: a recorded self-introduction of at least ten… |
 | 2 | 21–40 | Everyday life: shops, phones, plans; notes, mes… | 0/20 | 0/20 | Speaking: a recorded shop or café role-play, both voice… |
 | 3 | 41–60 | Telling what happened: the past, stories, compa… | 0/20 | 0/20 | Speaking: a recorded story from your life with a beginn… |
 | 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 0/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |

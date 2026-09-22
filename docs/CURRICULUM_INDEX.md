@@ -17,8 +17,8 @@ bug.
 | `SND-04` | [4](../days/day-04-v-and-w/LESSON.md) | V and W: very, wet — teeth on the lip or not · One and many: the plural -s and the ones that br… |
 | `SND-05` | [5](../days/day-05-r-and-l/LESSON.md) | R and L: rice, lice — where the tongue goes · A, an, the: which one and when none |
 | `SND-06` | [6](../days/day-06-final-consonants/LESSON.md) | Final consonants: bad, bat, back — finishing the word · I am, you are, he is: the verb be |
-| `SND-07` | [7](../days/day-07/LESSON.md) | Word stress: PHOto, phoTOgrapher — the loud syllable · Five sentences about yourself, each one… |
-| `SND-08` | [13](../days/day-13/LESSON.md) | Sentence rhythm: the stressed words and the weak ones · Describing a person in one paragraph |
+| `SND-07` | [7](../days/day-07-word-stress/LESSON.md) | Word stress: PHOto, phoTOgrapher — the loud syllable · Five sentences about yourself, each one… |
+| `SND-08` | [13](../days/day-13-sentence-rhythm/LESSON.md) | Sentence rhythm: the stressed words and the weak ones · Describing a person in one paragraph |
 | `SND-09` | [17](../days/day-17/LESSON.md) | Linking words together: an apple, not an-apple · Prepositions of place: in, on, under, next to |
 | `SND-10` | [24](../days/day-24/LESSON.md) | Intonation: the voice going up and going down · Much, many, a lot of, a few, a little |
 | `SND-11` | [30](../days/day-30/LESSON.md) | The schwa: the most common sound in English · There is, there are, there isn't |
@@ -40,14 +40,14 @@ bug.
 
 | ID | Day | Day title |
 | --- | --- | --- |
-| `SPK-01` | [8](../days/day-08/LESSON.md) | Greetings and goodbyes: hello to see you later · This, that, these, those: pointing on paper |
-| `SPK-02` | [9](../days/day-09/LESSON.md) | Introducing yourself in five spoken sentences · Have and has: what you own and what you are like |
-| `SPK-03` | [10](../days/day-10/LESSON.md) | Numbers, times and dates out loud · Writing the date, the time and a one-line diary entry |
-| `SPK-04` | [11](../days/day-11/LESSON.md) | Asking what, where, who · Questions with be and do: the word order |
-| `SPK-05` | [12](../days/day-12/LESSON.md) | Yes/no questions and short answers · Not: making a sentence negative |
-| `SPK-06` | [14](../days/day-14/LESSON.md) | Talking about your family · My, your, his, her, and the apostrophe s |
-| `SPK-07` | [15](../days/day-15/LESSON.md) | Talking about your daily routine · Present simple: the -s and always, usually, never |
-| `SPK-08` | [16](../days/day-16/LESSON.md) | Likes and dislikes: I love, I can't stand · A short "my day" paragraph in order |
+| `SPK-01` | [8](../days/day-08-greetings-and-goodbyes/LESSON.md) | Greetings and goodbyes: hello to see you later · This, that, these, those: pointing on paper |
+| `SPK-02` | [9](../days/day-09-introducing-yourself/LESSON.md) | Introducing yourself in five spoken sentences · Have and has: what you own and what you are like |
+| `SPK-03` | [10](../days/day-10-numbers-times-dates/LESSON.md) | Numbers, times and dates out loud · Writing the date, the time and a one-line diary entry |
+| `SPK-04` | [11](../days/day-11-asking-what-where-who/LESSON.md) | Asking what, where, who · Questions with be and do: the word order |
+| `SPK-05` | [12](../days/day-12-yes-no-questions/LESSON.md) | Yes/no questions and short answers · Not: making a sentence negative |
+| `SPK-06` | [14](../days/day-14-talking-about-family/LESSON.md) | Talking about your family · My, your, his, her, and the apostrophe s |
+| `SPK-07` | [15](../days/day-15-daily-routine/LESSON.md) | Talking about your daily routine · Present simple: the -s and always, usually, never |
+| `SPK-08` | [16](../days/day-16-likes-and-dislikes/LESSON.md) | Likes and dislikes: I love, I can't stand · A short "my day" paragraph in order |
 | `SPK-09` | [18](../days/day-18/LESSON.md) | Describing where things are in your room · Describing your room on paper |
 | `SPK-10` | [19](../days/day-19/LESSON.md) | Can and can't: ability and permission aloud · Can and can't on paper, and the question form |
 | `SPK-11` | [20](../days/day-20/LESSON.md) | Gate: the recorded self-introduction · Gate: a ten-sentence page about you |
@@ -145,12 +145,12 @@ bug.
 | `GRM-02` | [4](../days/day-04-v-and-w/LESSON.md) | V and W: very, wet — teeth on the lip or not · One and many: the plural -s and the ones that br… |
 | `GRM-03` | [5](../days/day-05-r-and-l/LESSON.md) | R and L: rice, lice — where the tongue goes · A, an, the: which one and when none |
 | `GRM-04` | [6](../days/day-06-final-consonants/LESSON.md) | Final consonants: bad, bat, back — finishing the word · I am, you are, he is: the verb be |
-| `GRM-05` | [8](../days/day-08/LESSON.md) | Greetings and goodbyes: hello to see you later · This, that, these, those: pointing on paper |
-| `GRM-06` | [9](../days/day-09/LESSON.md) | Introducing yourself in five spoken sentences · Have and has: what you own and what you are like |
-| `GRM-07` | [11](../days/day-11/LESSON.md) | Asking what, where, who · Questions with be and do: the word order |
-| `GRM-08` | [12](../days/day-12/LESSON.md) | Yes/no questions and short answers · Not: making a sentence negative |
-| `GRM-09` | [14](../days/day-14/LESSON.md) | Talking about your family · My, your, his, her, and the apostrophe s |
-| `GRM-10` | [15](../days/day-15/LESSON.md) | Talking about your daily routine · Present simple: the -s and always, usually, never |
+| `GRM-05` | [8](../days/day-08-greetings-and-goodbyes/LESSON.md) | Greetings and goodbyes: hello to see you later · This, that, these, those: pointing on paper |
+| `GRM-06` | [9](../days/day-09-introducing-yourself/LESSON.md) | Introducing yourself in five spoken sentences · Have and has: what you own and what you are like |
+| `GRM-07` | [11](../days/day-11-asking-what-where-who/LESSON.md) | Asking what, where, who · Questions with be and do: the word order |
+| `GRM-08` | [12](../days/day-12-yes-no-questions/LESSON.md) | Yes/no questions and short answers · Not: making a sentence negative |
+| `GRM-09` | [14](../days/day-14-talking-about-family/LESSON.md) | Talking about your family · My, your, his, her, and the apostrophe s |
+| `GRM-10` | [15](../days/day-15-daily-routine/LESSON.md) | Talking about your daily routine · Present simple: the -s and always, usually, never |
 | `GRM-11` | [17](../days/day-17/LESSON.md) | Linking words together: an apple, not an-apple · Prepositions of place: in, on, under, next to |
 | `GRM-12` | [19](../days/day-19/LESSON.md) | Can and can't: ability and permission aloud · Can and can't on paper, and the question form |
 | `GRM-13` | [22](../days/day-22/LESSON.md) | Ordering food and drink · Countable and uncountable: some, any, a piece of |
@@ -195,10 +195,10 @@ bug.
 | --- | --- | --- |
 | `WRT-01` | [1](../days/day-01-short-vowels/LESSON.md) | Short vowels: bit, bet, bat, but — saying your name aloud · The alphabet: capital and small let… |
 | `WRT-02` | [2](../days/day-02-long-vowels/LESSON.md) | Long vowels: beat, boot, bought — stretching the sound · Your address, your phone number and nu… |
-| `WRT-03` | [7](../days/day-07/LESSON.md) | Word stress: PHOto, phoTOgrapher — the loud syllable · Five sentences about yourself, each one… |
-| `WRT-04` | [10](../days/day-10/LESSON.md) | Numbers, times and dates out loud · Writing the date, the time and a one-line diary entry |
-| `WRT-05` | [13](../days/day-13/LESSON.md) | Sentence rhythm: the stressed words and the weak ones · Describing a person in one paragraph |
-| `WRT-06` | [16](../days/day-16/LESSON.md) | Likes and dislikes: I love, I can't stand · A short "my day" paragraph in order |
+| `WRT-03` | [7](../days/day-07-word-stress/LESSON.md) | Word stress: PHOto, phoTOgrapher — the loud syllable · Five sentences about yourself, each one… |
+| `WRT-04` | [10](../days/day-10-numbers-times-dates/LESSON.md) | Numbers, times and dates out loud · Writing the date, the time and a one-line diary entry |
+| `WRT-05` | [13](../days/day-13-sentence-rhythm/LESSON.md) | Sentence rhythm: the stressed words and the weak ones · Describing a person in one paragraph |
+| `WRT-06` | [16](../days/day-16-likes-and-dislikes/LESSON.md) | Likes and dislikes: I love, I can't stand · A short "my day" paragraph in order |
 | `WRT-07` | [18](../days/day-18/LESSON.md) | Describing where things are in your room · Describing your room on paper |
 | `WRT-08` | [20](../days/day-20/LESSON.md) | Gate: the recorded self-introduction · Gate: a ten-sentence page about you |
 | `WRT-09` | [21](../days/day-21/LESSON.md) | At the shop: asking for things politely · A shopping list and a note for the fridge |

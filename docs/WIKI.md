@@ -14,3 +14,13 @@ it. Cross-day lookups live in `wiki/ENTITIES.md`.
 | [04](wiki/day-04.md) | V and W: very, wet — teeth on the lip or not · One and many: the plural -s and the… | SND-04, GRM-02 | 6 | — |
 | [05](wiki/day-05.md) | R and L: rice, lice — where the tongue goes · A, an, the: which one and when none | SND-05, GRM-03 | 6 | — |
 | [06](wiki/day-06.md) | Final consonants: bad, bat, back — finishing the word · I am, you are, he is: the v… | SND-06, GRM-04 | 6 | — |
+| [07](wiki/day-07.md) | Word stress: PHOto, phoTOgrapher — the loud syllable · Five sentences about yoursel… | SND-07, WRT-03 | 6 | — |
+| [08](wiki/day-08.md) | Greetings and goodbyes: hello to see you later · This, that, these, those: pointing… | SPK-01, GRM-05 | 6 | — |
+| [09](wiki/day-09.md) | Introducing yourself in five spoken sentences · Have and has: what you own and what… | SPK-02, GRM-06 | 6 | — |
+| [10](wiki/day-10.md) | Numbers, times and dates out loud · Writing the date, the time and a one-line diary… | SPK-03, WRT-04 | 6 | — |
+| [11](wiki/day-11.md) | Asking what, where, who · Questions with be and do: the word order | SPK-04, GRM-07 | 6 | — |
+| [12](wiki/day-12.md) | Yes/no questions and short answers · Not: making a sentence negative | SPK-05, GRM-08 | 6 | — |
+| [13](wiki/day-13.md) | Sentence rhythm: the stressed words and the weak ones · Describing a person in one… | SND-08, WRT-05 | 6 | — |
+| [14](wiki/day-14.md) | Talking about your family · My, your, his, her, and the apostrophe s | SPK-06, GRM-09 | 6 | — |
+| [15](wiki/day-15.md) | Talking about your daily routine · Present simple: the -s and always, usually, never | SPK-07, GRM-10 | 6 | — |
+| [16](wiki/day-16.md) | Likes and dislikes: I love, I can't stand · A short \"my day\" paragraph in order | SPK-08, WRT-06 | 6 | — |
