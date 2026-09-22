@@ -1,16 +1,16 @@
 ---
 plan: vaani
-version: "v1.0.0"
+version: "v1.1.0"
 topic: "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
 tracks: 4
 ids: 240
 days: 120
 phases: 6
 doc_architecture: "hub + parts/ (see §11)"
-amended: "2026-09-18"
+amended: "2026-09-22"
 ---
 
-# MASTER PLAN v1.0.0 — Vaani
+# MASTER PLAN v1.1.0 — Vaani
 
 ## Speaking and writing English from zero, one hour a day, with a recording and a written piece every day
 
@@ -489,6 +489,12 @@ A phase is **green** only when all six hold:
 
 **Never** skip a day, merge two days, or reorder days without an ADR.
 
+**Writing ahead.** Days may be *written* ahead in batches of up to five, from the last closed day
+forward with no gap. They are still *done* one at a time, in order, each with its own
+`python granth.py done N` and its own commit, and a written-ahead day's failure parts say plainly
+that they rest on common beginner errors rather than on this learner's ledger. See
+`docs/adr/ADR-0003-days-written-ahead-in-batches.md`.
+
 > A gate is never passed because time ran out (Principle 11). `python granth.py done N` is gated on
 > a ticked checklist, a ledger row and green checks, and on nothing else.
 
@@ -860,6 +866,36 @@ Every day ends the same way: the recording exists, the page exists, paste the le
 the checklist, run the gate, commit. Not because ritual is virtuous, but because a repository that
 records itself is a repository you can return to after three weeks away and still trust.
 
+### 12.8 The language ladder
+
+The learner is learning the language the documents are written in. So the English of the
+*explanation* — not of the model lines, which are always real English — climbs with the learner,
+phase by phase. A day is written at its phase's rung, never above it.
+
+| Phase | Days | The English the explanation is written in |
+| --- | --- | --- |
+| 1 | 1–20 | The simplest the rule allows. Sentences of about ten words. The most common words only. One idea per sentence. Every hard word gets a plain meaning the first time it appears. |
+| 2 | 21–40 | Still simple. Sentences may join with *and*, *but*, *because*. New words are still explained where they appear. |
+| 3–4 | 41–80 | Ordinary plain English. Longer sentences are allowed when they read once. Hard words are still defined on first use. |
+| 5–6 | 81–120 | Natural English, as a fluent colleague would write it. Terms are still defined and linked. |
+
+Two rules hold on every rung. **Every part in phases 1–2 opens its *The idea in plain language*
+section with a short *Words to know* list**: the three to six words in the part that a beginner
+may not know, each with a plain meaning. And the register climbs only when the plan says; a day
+that reads harder than its rung is a bug, and the fix is to rewrite the sentence, never to skip
+the idea.
+
+### 12.9 Sound links
+
+A sound the learner cannot hear a model of is a sound they will copy from the page, which is not
+a sound at all. So **every part that teaches a sound links, for each target word, a genuine,
+free, live-checked reference page that carries a pronunciation button** — a learner's dictionary
+entry — and names the free sound-video series where the learner can watch the mouth. The link is
+opened on the day the part is written, the date is written beside it, and it gets a row in
+`docs/SOURCES.md`. A part never links a page it did not open, and never claims a page carries a
+sound it could not confirm. The learner's instruction is always the same: *listen, then say it
+with the recorder on, then play both back*.
+
 ---
 
 ## 13 · Amendment record
@@ -870,3 +906,4 @@ before any day or any code changes, and anything structural gets an ADR in `docs
 | Version | Date | What changed |
 | --- | --- | --- |
 | v1.0.0 | 2026-09-18 | Plan adopted. See `docs/adr/ADR-0001-the-plan-as-adopted.md`. |
+| v1.1.0 | 2026-09-22 | §9: days may be written ahead in batches of five, done in order (ADR-0003). §12.8 the language ladder; §12.9 sound links. See `docs/CHANGELOG_PLAN.md`. |

@@ -21,3 +21,16 @@ re-check it.
 
 | Identifier | Exact title | Year | URL | Record checked | Taught on | Cited by |
 | ---------- | ----------- | ---- | --- | -------------- | --------- | -------- |
+| Reference page | bit | Not stated | https://www.oxfordlearnersdictionaries.com/definition/english/bit_1 | 2026-09-18 | Reference only | day 1 parts 1.1, 1.2 |
+| Reference page | bet | Not stated | https://www.oxfordlearnersdictionaries.com/definition/english/bet_1 | 2026-09-18 | Reference only | day 1 parts 1.1, 1.3 |
+| Reference page | bat | Not stated | https://www.oxfordlearnersdictionaries.com/definition/english/bat_1 | 2026-09-18 | Reference only | day 1 parts 1.1, 1.3 |
+| Reference page | but | Not stated | https://www.oxfordlearnersdictionaries.com/definition/english/but_1 | 2026-09-18 | Reference only | day 1 part 1.1 |
+| Reference page | vowel | Not stated | https://www.oxfordlearnersdictionaries.com/definition/english/vowel | 2026-09-18 | Reference only | day 1 part 1.1 |
+| Reference page | IPA Vowel symbols | Not stated | https://www.mq.edu.au/faculty-of-medicine-health-and-human-sciences/departments-and-schools/department-of-linguistics/our-research/phonetics-and-phonology/speech/phonetics-and-phonology/transcription/ipa-vowel-symbols | 2026-09-18 | Reference only | day 1 part 1.1 |
+| Reference page | Vowels | Not stated | https://teaching.ncl.ac.uk/ipa/vowels.html | 2026-09-18 | Reference only | day 1 part 1.1 |
+| Reference page | Meeting new people | Not stated | https://learnenglish.britishcouncil.org/free-resources/speaking/a1/meeting-new-people | 2026-09-18 | Reference only | day 1 parts 1.1, 1.2 |
+| Reference page | tired | Not stated | https://www.oxfordlearnersdictionaries.com/definition/english/tired | 2026-09-18 | Reference only | day 1 part 1.2 |
+| Reference page | happy | Not stated | https://www.oxfordlearnersdictionaries.com/definition/english/happy | 2026-09-18 | Reference only | day 1 part 1.2 |
+| Reference page | English Alphabet | Not stated | https://www.worldometers.info/languages/english-alphabet/ | 2026-09-18 | Reference only | day 1 parts 2.1, 2.2, 2.3 |
+| Reference page | Capital letters and apostrophes | Not stated | https://learnenglish.britishcouncil.org/free-resources/grammar/b1-b2/capital-letters-apostrophes | 2026-09-18 | Reference only | day 1 parts 2.2, 2.3 |
+| Reference page | name | Not stated | https://www.oxfordlearnersdictionaries.com/definition/english/name_1 | 2026-09-18 | Reference only | day 1 part 2.2 |

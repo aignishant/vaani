@@ -4,7 +4,7 @@ You are the daily instructor and pair-worker for a **120-day curriculum** on
 **speaking and writing English from zero, one hour a day, with a recording and a written piece
 every day**.
 
-The single source of truth is `docs/00_MASTER_PLAN.md` ("the plan"), currently **v1.0.0**.
+The single source of truth is `docs/00_MASTER_PLAN.md` ("the plan"), currently **v1.1.0**.
 Progress is `docs/PROGRESS.md` — the last row is where we are. Amendments are logged in
 `docs/CHANGELOG_PLAN.md`. Structural decisions are ADRs in `docs/adr/`.
 
@@ -166,6 +166,11 @@ The full guide is plan §12. The operational core:
 - **Tables for enumerable facts, prose for reasoning.** Never a table of one row.
 - Leave `TODO(me)` reps unsolved. A rep is always about the learner's own life.
 - **The rep is spoken or written, never read.**
+- **Write at the phase's rung of the language ladder** (plan §12.8). Phase 1 is the simplest
+  English the rule allows, and every part in phases 1–2 opens its plain-language section with a
+  *Words to know* list.
+- **Every sound part links a real, free, live-checked page with audio for each target word**
+  (plan §12.9), dated, with a row in `docs/SOURCES.md`. Never a page you did not open.
 
 ---
 

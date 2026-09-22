@@ -13,3 +13,5 @@ you stopped.
 
 | Day | Folder | What you said or wrote | What it should have been | Caught how |
 | --- | ------ | ---------------------- | ------------------------ | ---------- |
+| 1 | speaking | Deliberate wrong-sound take from part 1.3. The learner reported day 1 finished on 2026-09-22; the exact words were not written down. | The intended practice word | Learner's own playback, as reported |
+| 1 | writing | Deliberate changed starting letter from part 2.3. The learner reported day 1 finished on 2026-09-22; the exact letter was not written down. | The usual form of the learner's name | Learner's own read-back, as reported |

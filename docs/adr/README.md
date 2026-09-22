@@ -39,3 +39,4 @@ justification written after the fact, not a decision record.
 | --- | --- | --- | --- |
 | [0001](ADR-0001-the-plan-as-adopted.md) | The plan as adopted | 2026-09-18 | accepted |
 | [0002](ADR-0002-two-folders-per-day.md) | Every day has two independent folders: speaking and writing | 2026-09-18 | accepted |
+| [0003](ADR-0003-days-written-ahead-in-batches.md) | Days are written ahead in batches of up to five, and done one at a time, in order | 2026-09-22 | accepted |
