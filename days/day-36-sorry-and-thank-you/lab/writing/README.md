@@ -1,0 +1,1 @@
+Put your four-part plans, your thank-you note, your apology note, the deliberately defensive version, the readers' answers and the final sent version here as day-36.md, or a photo named day-36.jpg of your notebook page.

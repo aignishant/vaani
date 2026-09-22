@@ -1,0 +1,1 @@
+Put your four levels of directness, your two real requests, the ORDER, FOG and GREEN versions, the readers' answers and your repair pairs here as day-31.md, or a photo named day-31.jpg of your notebook page.

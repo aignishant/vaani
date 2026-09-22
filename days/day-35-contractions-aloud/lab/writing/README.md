@@ -1,0 +1,1 @@
+Put your contraction sentences, the its / it's tests, the three settings of one message, the two signs, the readers' answers and your apostrophe sweep here as day-35.md, or a photo named day-35.jpg of your notebook page.

@@ -1,0 +1,1 @@
+Put your imperatives, your numbered handover note, the deliberately assuming version, what your reader produced and the repaired note here as day-32.md, or a photo named day-32.jpg of your notebook page.

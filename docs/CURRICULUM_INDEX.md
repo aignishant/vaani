@@ -21,8 +21,8 @@ bug.
 | `SND-08` | [13](../days/day-13-sentence-rhythm/LESSON.md) | Sentence rhythm: the stressed words and the weak ones · Describing a person in one paragraph |
 | `SND-09` | [17](../days/day-17-linking-words/LESSON.md) | Linking words together: an apple, not an-apple · Prepositions of place: in, on, under, next to |
 | `SND-10` | [24](../days/day-24-voice-up-and-down/LESSON.md) | Intonation: the voice going up and going down · Much, many, a lot of, a few, a little |
-| `SND-11` | [30](../days/day-30/LESSON.md) | The schwa: the most common sound in English · There is, there are, there isn't |
-| `SND-12` | [35](../days/day-35/LESSON.md) | Contractions aloud: I'm, don't, it's, we've · Contractions on paper and the apostrophe |
+| `SND-11` | [30](../days/day-30-the-schwa/LESSON.md) | The schwa: the most common sound in English · There is, there are, there isn't |
+| `SND-12` | [35](../days/day-35-contractions-aloud/LESSON.md) | Contractions aloud: I'm, don't, it's, we've · Contractions on paper and the apostrophe |
 | `SND-13` | [39](../days/day-39/LESSON.md) | Speaking at a steady pace, not fast · And, but, because, so: joining two sentences |
 | `SND-14` | [42](../days/day-42/LESSON.md) | The three sounds of -ed: walked, played, wanted · Past simple: the irregular verbs you cannot a… |
 | `SND-15` | [47](../days/day-47/LESSON.md) | Stress for emphasis: I said TUESday · The topic sentence: the first line says what the paragrap… |
@@ -56,14 +56,14 @@ bug.
 | `SPK-14` | [23](../days/day-23-asking-directions/LESSON.md) | Asking for and understanding directions · Writing directions someone can follow |
 | `SPK-15` | [25](../days/day-25-on-the-phone/LESSON.md) | Talking on the phone: opening, holding, closing · A text message and a short reply |
 | `SPK-16` | [26](../days/day-26-making-plans/LESSON.md) | Making plans: shall we, let's, how about · Present continuous: what is happening now |
-| `SPK-17` | [27](../days/day-27/LESSON.md) | Saying what is happening around you right now · Describing a picture in a paragraph |
-| `SPK-18` | [28](../days/day-28/LESSON.md) | At the doctor: saying how you feel and where it hurts · Adjectives and their order: a small red… |
-| `SPK-19` | [29](../days/day-29/LESSON.md) | The weather and small talk with a stranger · A short email to a friend |
-| `SPK-20` | [31](../days/day-31/LESSON.md) | Asking for help and asking someone to repeat · Asking a question in writing, politely |
-| `SPK-21` | [32](../days/day-32/LESSON.md) | Giving instructions aloud: how to make tea · Imperatives and first, next, then, finally |
-| `SPK-22` | [33](../days/day-33/LESSON.md) | Talking about your job or your studies · A paragraph about your work or study |
-| `SPK-23` | [34](../days/day-34/LESSON.md) | Money, prices and asking for a better price · How much and how many questions |
-| `SPK-24` | [36](../days/day-36/LESSON.md) | Apologising and thanking, and answering both · A thank-you note and an apology note |
+| `SPK-17` | [27](../days/day-27-happening-right-now/LESSON.md) | Saying what is happening around you right now · Describing a picture in a paragraph |
+| `SPK-18` | [28](../days/day-28-at-the-doctor/LESSON.md) | At the doctor: saying how you feel and where it hurts · Adjectives and their order: a small red… |
+| `SPK-19` | [29](../days/day-29-weather-and-small-talk/LESSON.md) | The weather and small talk with a stranger · A short email to a friend |
+| `SPK-20` | [31](../days/day-31-asking-for-help/LESSON.md) | Asking for help and asking someone to repeat · Asking a question in writing, politely |
+| `SPK-21` | [32](../days/day-32-giving-instructions/LESSON.md) | Giving instructions aloud: how to make tea · Imperatives and first, next, then, finally |
+| `SPK-22` | [33](../days/day-33-your-job-or-studies/LESSON.md) | Talking about your job or your studies · A paragraph about your work or study |
+| `SPK-23` | [34](../days/day-34-money-and-prices/LESSON.md) | Money, prices and asking for a better price · How much and how many questions |
+| `SPK-24` | [36](../days/day-36-sorry-and-thank-you/LESSON.md) | Apologising and thanking, and answering both · A thank-you note and an apology note |
 | `SPK-25` | [37](../days/day-37/LESSON.md) | Saying you don't understand without stopping the talk · Object pronouns: me, him, her, them |
 | `SPK-26` | [38](../days/day-38/LESSON.md) | Talking about your hobbies and free time · A paragraph about what you enjoy and why |
 | `SPK-27` | [40](../days/day-40/LESSON.md) | Gate: the recorded shop or café role-play · Gate: a hundred-word note that does three things |
@@ -156,11 +156,11 @@ bug.
 | `GRM-13` | [22](../days/day-22-ordering-food/LESSON.md) | Ordering food and drink · Countable and uncountable: some, any, a piece of |
 | `GRM-14` | [24](../days/day-24-voice-up-and-down/LESSON.md) | Intonation: the voice going up and going down · Much, many, a lot of, a few, a little |
 | `GRM-15` | [26](../days/day-26-making-plans/LESSON.md) | Making plans: shall we, let's, how about · Present continuous: what is happening now |
-| `GRM-16` | [28](../days/day-28/LESSON.md) | At the doctor: saying how you feel and where it hurts · Adjectives and their order: a small red… |
-| `GRM-17` | [30](../days/day-30/LESSON.md) | The schwa: the most common sound in English · There is, there are, there isn't |
-| `GRM-18` | [32](../days/day-32/LESSON.md) | Giving instructions aloud: how to make tea · Imperatives and first, next, then, finally |
-| `GRM-19` | [34](../days/day-34/LESSON.md) | Money, prices and asking for a better price · How much and how many questions |
-| `GRM-20` | [35](../days/day-35/LESSON.md) | Contractions aloud: I'm, don't, it's, we've · Contractions on paper and the apostrophe |
+| `GRM-16` | [28](../days/day-28-at-the-doctor/LESSON.md) | At the doctor: saying how you feel and where it hurts · Adjectives and their order: a small red… |
+| `GRM-17` | [30](../days/day-30-the-schwa/LESSON.md) | The schwa: the most common sound in English · There is, there are, there isn't |
+| `GRM-18` | [32](../days/day-32-giving-instructions/LESSON.md) | Giving instructions aloud: how to make tea · Imperatives and first, next, then, finally |
+| `GRM-19` | [34](../days/day-34-money-and-prices/LESSON.md) | Money, prices and asking for a better price · How much and how many questions |
+| `GRM-20` | [35](../days/day-35-contractions-aloud/LESSON.md) | Contractions aloud: I'm, don't, it's, we've · Contractions on paper and the apostrophe |
 | `GRM-21` | [37](../days/day-37/LESSON.md) | Saying you don't understand without stopping the talk · Object pronouns: me, him, her, them |
 | `GRM-22` | [39](../days/day-39/LESSON.md) | Speaking at a steady pace, not fast · And, but, because, so: joining two sentences |
 | `GRM-23` | [41](../days/day-41/LESSON.md) | What you did yesterday · Past simple: the regular -ed |
@@ -204,11 +204,11 @@ bug.
 | `WRT-09` | [21](../days/day-21-at-the-shop/LESSON.md) | At the shop: asking for things politely · A shopping list and a note for the fridge |
 | `WRT-10` | [23](../days/day-23-asking-directions/LESSON.md) | Asking for and understanding directions · Writing directions someone can follow |
 | `WRT-11` | [25](../days/day-25-on-the-phone/LESSON.md) | Talking on the phone: opening, holding, closing · A text message and a short reply |
-| `WRT-12` | [27](../days/day-27/LESSON.md) | Saying what is happening around you right now · Describing a picture in a paragraph |
-| `WRT-13` | [29](../days/day-29/LESSON.md) | The weather and small talk with a stranger · A short email to a friend |
-| `WRT-14` | [31](../days/day-31/LESSON.md) | Asking for help and asking someone to repeat · Asking a question in writing, politely |
-| `WRT-15` | [33](../days/day-33/LESSON.md) | Talking about your job or your studies · A paragraph about your work or study |
-| `WRT-16` | [36](../days/day-36/LESSON.md) | Apologising and thanking, and answering both · A thank-you note and an apology note |
+| `WRT-12` | [27](../days/day-27-happening-right-now/LESSON.md) | Saying what is happening around you right now · Describing a picture in a paragraph |
+| `WRT-13` | [29](../days/day-29-weather-and-small-talk/LESSON.md) | The weather and small talk with a stranger · A short email to a friend |
+| `WRT-14` | [31](../days/day-31-asking-for-help/LESSON.md) | Asking for help and asking someone to repeat · Asking a question in writing, politely |
+| `WRT-15` | [33](../days/day-33-your-job-or-studies/LESSON.md) | Talking about your job or your studies · A paragraph about your work or study |
+| `WRT-16` | [36](../days/day-36-sorry-and-thank-you/LESSON.md) | Apologising and thanking, and answering both · A thank-you note and an apology note |
 | `WRT-17` | [38](../days/day-38/LESSON.md) | Talking about your hobbies and free time · A paragraph about what you enjoy and why |
 | `WRT-18` | [40](../days/day-40/LESSON.md) | Gate: the recorded shop or café role-play · Gate: a hundred-word note that does three things |
 | `WRT-19` | [43](../days/day-43/LESSON.md) | A short story with a beginning, a middle and an end · A story in six sentences |

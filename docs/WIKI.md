@@ -34,3 +34,13 @@ it. Cross-day lookups live in `wiki/ENTITIES.md`.
 | [24](wiki/day-24.md) | Intonation: the voice going up and going down · Much, many, a lot of, a few, a litt… | SND-10, GRM-14 | 6 | — |
 | [25](wiki/day-25.md) | Talking on the phone: opening, holding, closing · A text message and a short reply | SPK-15, WRT-11 | 6 | — |
 | [26](wiki/day-26.md) | Making plans: shall we, let's, how about · Present continuous: what is happening now | SPK-16, GRM-15 | 6 | — |
+| [27](wiki/day-27.md) | Saying what is happening around you right now · Describing a picture in a paragraph | SPK-17, WRT-12 | 6 | — |
+| [28](wiki/day-28.md) | At the doctor: saying how you feel and where it hurts · Adjectives and their order:… | SPK-18, GRM-16 | 6 | — |
+| [29](wiki/day-29.md) | The weather and small talk with a stranger · A short email to a friend | SPK-19, WRT-13 | 6 | — |
+| [30](wiki/day-30.md) | The schwa: the most common sound in English · There is, there are, there isn't | SND-11, GRM-17 | 6 | — |
+| [31](wiki/day-31.md) | Asking for help and asking someone to repeat · Asking a question in writing, polite… | SPK-20, WRT-14 | 6 | — |
+| [32](wiki/day-32.md) | Giving instructions aloud: how to make tea · Imperatives and first, next, then, fin… | SPK-21, GRM-18 | 6 | — |
+| [33](wiki/day-33.md) | Talking about your job or your studies · A paragraph about your work or study | SPK-22, WRT-15 | 6 | — |
+| [34](wiki/day-34.md) | Money, prices and asking for a better price · How much and how many questions | SPK-23, GRM-19 | 6 | — |
+| [35](wiki/day-35.md) | Contractions aloud: I'm, don't, it's, we've · Contractions on paper and the apostro… | SND-12, GRM-20 | 6 | — |
+| [36](wiki/day-36.md) | Apologising and thanking, and answering both · A thank-you note and an apology note | SPK-24, WRT-16 | 6 | — |

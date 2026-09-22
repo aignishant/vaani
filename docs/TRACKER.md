@@ -9,9 +9,9 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | | Count | Of plan |
 | --- | --- | --- |
 | Days in the plan | **120** | 100% |
-| Days written | **26** | 21.7% |
+| Days written | **36** | 30.0% |
 | Days complete | **1** | 0.8% |
-| Subtopic documents | **156** | — |
+| Subtopic documents | **216** | — |
 | Source documents | **0** | — |
 
 ## Every day
@@ -44,16 +44,16 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 24 | 2 | [Intonation: the voice going up and going down · Much, many, a lot of, a…](../days/day-24-voice-up-and-down/LESSON.md) | written | 6 | 0 | `SND-10`, `GRM-14` |
 | 25 | 2 | [Talking on the phone: opening, holding, closing · A text message and a…](../days/day-25-on-the-phone/LESSON.md) | written | 6 | 0 | `SPK-15`, `WRT-11` |
 | 26 | 2 | [Making plans: shall we, let's, how about · Present continuous: what is…](../days/day-26-making-plans/LESSON.md) | written | 6 | 0 | `SPK-16`, `GRM-15` |
-| 27 | 2 | Saying what is happening around you right now · Describing a picture in… | not started | 0 | 0 | `SPK-17`, `WRT-12` |
-| 28 | 2 | At the doctor: saying how you feel and where it hurts · Adjectives and… | not started | 0 | 0 | `SPK-18`, `GRM-16` |
-| 29 | 2 | The weather and small talk with a stranger · A short email to a friend | not started | 0 | 0 | `SPK-19`, `WRT-13` |
-| 30 | 2 | The schwa: the most common sound in English · There is, there are, ther… | not started | 0 | 0 | `SND-11`, `GRM-17` |
-| 31 | 2 | Asking for help and asking someone to repeat · Asking a question in wri… | not started | 0 | 0 | `SPK-20`, `WRT-14` |
-| 32 | 2 | Giving instructions aloud: how to make tea · Imperatives and first, nex… | not started | 0 | 0 | `SPK-21`, `GRM-18` |
-| 33 | 2 | Talking about your job or your studies · A paragraph about your work or… | not started | 0 | 0 | `SPK-22`, `WRT-15` |
-| 34 | 2 | Money, prices and asking for a better price · How much and how many que… | not started | 0 | 0 | `SPK-23`, `GRM-19` |
-| 35 | 2 | Contractions aloud: I'm, don't, it's, we've · Contractions on paper and… | not started | 0 | 0 | `SND-12`, `GRM-20` |
-| 36 | 2 | Apologising and thanking, and answering both · A thank-you note and an… | not started | 0 | 0 | `SPK-24`, `WRT-16` |
+| 27 | 2 | [Saying what is happening around you right now · Describing a picture in…](../days/day-27-happening-right-now/LESSON.md) | written | 6 | 0 | `SPK-17`, `WRT-12` |
+| 28 | 2 | [At the doctor: saying how you feel and where it hurts · Adjectives and…](../days/day-28-at-the-doctor/LESSON.md) | written | 6 | 0 | `SPK-18`, `GRM-16` |
+| 29 | 2 | [The weather and small talk with a stranger · A short email to a friend](../days/day-29-weather-and-small-talk/LESSON.md) | written | 6 | 0 | `SPK-19`, `WRT-13` |
+| 30 | 2 | [The schwa: the most common sound in English · There is, there are, ther…](../days/day-30-the-schwa/LESSON.md) | written | 6 | 0 | `SND-11`, `GRM-17` |
+| 31 | 2 | [Asking for help and asking someone to repeat · Asking a question in wri…](../days/day-31-asking-for-help/LESSON.md) | written | 6 | 0 | `SPK-20`, `WRT-14` |
+| 32 | 2 | [Giving instructions aloud: how to make tea · Imperatives and first, nex…](../days/day-32-giving-instructions/LESSON.md) | written | 6 | 0 | `SPK-21`, `GRM-18` |
+| 33 | 2 | [Talking about your job or your studies · A paragraph about your work or…](../days/day-33-your-job-or-studies/LESSON.md) | written | 6 | 0 | `SPK-22`, `WRT-15` |
+| 34 | 2 | [Money, prices and asking for a better price · How much and how many que…](../days/day-34-money-and-prices/LESSON.md) | written | 6 | 0 | `SPK-23`, `GRM-19` |
+| 35 | 2 | [Contractions aloud: I'm, don't, it's, we've · Contractions on paper and…](../days/day-35-contractions-aloud/LESSON.md) | written | 6 | 0 | `SND-12`, `GRM-20` |
+| 36 | 2 | [Apologising and thanking, and answering both · A thank-you note and an…](../days/day-36-sorry-and-thank-you/LESSON.md) | written | 6 | 0 | `SPK-24`, `WRT-16` |
 | 37 | 2 | Saying you don't understand without stopping the talk · Object pronouns… | not started | 0 | 0 | `SPK-25`, `GRM-21` |
 | 38 | 2 | Talking about your hobbies and free time · A paragraph about what you e… | not started | 0 | 0 | `SPK-26`, `WRT-17` |
 | 39 | 2 | Speaking at a steady pace, not fast · And, but, because, so: joining tw… | not started | 0 | 0 | `SND-13`, `GRM-22` |
@@ -144,7 +144,7 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | Phase | Days | Theme | Written | Complete | Gate |
 | --- | --- | --- | --- | --- | --- |
 | 1 | 1–20 | Foundations: sounds and first sentences; letter… | 20/20 | 1/20 | Speaking: a recorded self-introduction of at least ten… |
-| 2 | 21–40 | Everyday life: shops, phones, plans; notes, mes… | 6/20 | 0/20 | Speaking: a recorded shop or café role-play, both voice… |
+| 2 | 21–40 | Everyday life: shops, phones, plans; notes, mes… | 16/20 | 0/20 | Speaking: a recorded shop or café role-play, both voice… |
 | 3 | 41–60 | Telling what happened: the past, stories, compa… | 0/20 | 0/20 | Speaking: a recorded story from your life with a beginn… |
 | 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 0/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |
 | 5 | 81–100 | Formal and at work: interviews, meetings, compl… | 0/20 | 0/20 | Speaking: a recorded interview role-play answering five… |

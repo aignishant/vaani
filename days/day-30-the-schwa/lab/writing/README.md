@@ -1,0 +1,1 @@
+Put your there is / there are sentences, your two notes, the deliberately fossilised version, the reader's answer and your repair pairs here as day-30.md, or a photo named day-30.jpg of your notebook page.
