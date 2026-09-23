@@ -1,0 +1,1 @@
+Put your first process page, the plan and the one-page explanation with its checks and three-question answers, copy L with its table, and the repaired page here as day-70.md, or a photo named day-70.jpg of your notebook page.

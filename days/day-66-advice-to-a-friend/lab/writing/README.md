@@ -1,0 +1,1 @@
+Put your five-part sentences, the full reply with its plan, count, checks and the stand-in's sentence, copy M with the count table, and the repaired reply here as day-66.md, or a photo named day-66.jpg of your notebook page.

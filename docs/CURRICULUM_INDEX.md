@@ -27,8 +27,8 @@ bug.
 | `SND-14` | [42](../days/day-42-three-sounds-of-ed/LESSON.md) | The three sounds of -ed: walked, played, wanted · Past simple: the irregular verbs you cannot a… |
 | `SND-15` | [47](../days/day-47-stress-for-emphasis/LESSON.md) | Stress for emphasis: I said TUESday · The topic sentence: the first line says what the paragrap… |
 | `SND-16` | [52](../days/day-52-question-statement-intonation/LESSON.md) | Question intonation against statement intonation · Comparatives: -er and more |
-| `SND-17` | [57](../days/day-57/LESSON.md) | Pausing in the right place · One idea per paragraph, and where the paragraph breaks |
-| `SND-18` | [65](../days/day-65/LESSON.md) | Polite intonation: sounding kind, not cold · Should, must, have to: advice and rules on paper |
+| `SND-17` | [57](../days/day-57-pausing-right-place/LESSON.md) | Pausing in the right place · One idea per paragraph, and where the paragraph breaks |
+| `SND-18` | [65](../days/day-65-polite-intonation/LESSON.md) | Polite intonation: sounding kind, not cold · Should, must, have to: advice and rules on paper |
 | `SND-19` | [71](../days/day-71/LESSON.md) | Holding a long turn: well, so, the thing is · Second conditional: if I were you |
 | `SND-20` | [76](../days/day-76/LESSON.md) | Speaking clearly on a bad line · Reported speech: she said that she was |
 | `SND-21` | [85](../days/day-85/LESSON.md) | Sounding confident: volume, pace and the pause · Present perfect against past simple: which one… |
@@ -80,18 +80,18 @@ bug.
 | `SPK-38` | [54](../days/day-54-your-town-or-village/LESSON.md) | Talking about your town or village · A paragraph about your town |
 | `SPK-39` | [55](../days/day-55-passing-on-news/LESSON.md) | Did you hear about: passing on news · A short news report in the past |
 | `SPK-40` | [56](../days/day-56-explaining-why/LESSON.md) | Explaining why: because, so, that's why · When, while, after, before: joining past events |
-| `SPK-41` | [58](../days/day-58/LESSON.md) | Retelling a story you heard · Retelling a story in your own words |
-| `SPK-42` | [59](../days/day-59/LESSON.md) | Talking about a mistake you made · Used to: things that were true and are not now |
-| `SPK-43` | [60](../days/day-60/LESSON.md) | Gate: the recorded story from your life · Gate: a one-page story in the past |
-| `SPK-44` | [61](../days/day-61/LESSON.md) | Giving an opinion: I think, in my view, to be honest · Going to and will: plans and promises |
-| `SPK-45` | [62](../days/day-62/LESSON.md) | Agreeing and disagreeing without offending · An opinion paragraph with a reason |
-| `SPK-46` | [63](../days/day-63/LESSON.md) | Plans for the weekend and plans for the year · Present perfect: have you ever |
-| `SPK-47` | [64](../days/day-64/LESSON.md) | Have you ever: talking about experiences · A paragraph about things you have done |
-| `SPK-48` | [66](../days/day-66/LESSON.md) | Giving advice to a friend · A reply to a friend's problem |
-| `SPK-49` | [67](../days/day-67/LESSON.md) | Making suggestions and choosing between them · First conditional: if it rains, we'll stay in |
-| `SPK-50` | [68](../days/day-68/LESSON.md) | Talking about what might happen · Writing a plan step by step |
-| `SPK-51` | [69](../days/day-69/LESSON.md) | Describing a process aloud · The passive: it is made, it was built |
-| `SPK-52` | [70](../days/day-70/LESSON.md) | Explaining how something works to someone who doesn't know · Explaining a process in writing |
+| `SPK-41` | [58](../days/day-58-retelling-story-heard/LESSON.md) | Retelling a story you heard · Retelling a story in your own words |
+| `SPK-42` | [59](../days/day-59-mistake-you-made/LESSON.md) | Talking about a mistake you made · Used to: things that were true and are not now |
+| `SPK-43` | [60](../days/day-60-gate-story-from-life/LESSON.md) | Gate: the recorded story from your life · Gate: a one-page story in the past |
+| `SPK-44` | [61](../days/day-61-giving-opinion/LESSON.md) | Giving an opinion: I think, in my view, to be honest · Going to and will: plans and promises |
+| `SPK-45` | [62](../days/day-62-agreeing-disagreeing/LESSON.md) | Agreeing and disagreeing without offending · An opinion paragraph with a reason |
+| `SPK-46` | [63](../days/day-63-weekend-and-year-plans/LESSON.md) | Plans for the weekend and plans for the year · Present perfect: have you ever |
+| `SPK-47` | [64](../days/day-64-have-you-ever-experiences/LESSON.md) | Have you ever: talking about experiences · A paragraph about things you have done |
+| `SPK-48` | [66](../days/day-66-advice-to-a-friend/LESSON.md) | Giving advice to a friend · A reply to a friend's problem |
+| `SPK-49` | [67](../days/day-67-suggestions-and-choosing/LESSON.md) | Making suggestions and choosing between them · First conditional: if it rains, we'll stay in |
+| `SPK-50` | [68](../days/day-68-what-might-happen/LESSON.md) | Talking about what might happen · Writing a plan step by step |
+| `SPK-51` | [69](../days/day-69-describing-a-process/LESSON.md) | Describing a process aloud · The passive: it is made, it was built |
+| `SPK-52` | [70](../days/day-70-explaining-how-it-works/LESSON.md) | Explaining how something works to someone who doesn't know · Explaining a process in writing |
 | `SPK-53` | [72](../days/day-72/LESSON.md) | Dreams and wishes: if I could · A wish paragraph |
 | `SPK-54` | [73](../days/day-73/LESSON.md) | Reasons for and reasons against · For and against in two paragraphs |
 | `SPK-55` | [74](../days/day-74/LESSON.md) | Problems in your city and what should change · Relative clauses: who, which, that |
@@ -172,12 +172,12 @@ bug.
 | `GRM-29` | [52](../days/day-52-question-statement-intonation/LESSON.md) | Question intonation against statement intonation · Comparatives: -er and more |
 | `GRM-30` | [53](../days/day-53-comparing-two-things/LESSON.md) | Comparing two things you know · Superlatives: the -est and the most |
 | `GRM-31` | [56](../days/day-56-explaining-why/LESSON.md) | Explaining why: because, so, that's why · When, while, after, before: joining past events |
-| `GRM-32` | [59](../days/day-59/LESSON.md) | Talking about a mistake you made · Used to: things that were true and are not now |
-| `GRM-33` | [61](../days/day-61/LESSON.md) | Giving an opinion: I think, in my view, to be honest · Going to and will: plans and promises |
-| `GRM-34` | [63](../days/day-63/LESSON.md) | Plans for the weekend and plans for the year · Present perfect: have you ever |
-| `GRM-35` | [65](../days/day-65/LESSON.md) | Polite intonation: sounding kind, not cold · Should, must, have to: advice and rules on paper |
-| `GRM-36` | [67](../days/day-67/LESSON.md) | Making suggestions and choosing between them · First conditional: if it rains, we'll stay in |
-| `GRM-37` | [69](../days/day-69/LESSON.md) | Describing a process aloud · The passive: it is made, it was built |
+| `GRM-32` | [59](../days/day-59-mistake-you-made/LESSON.md) | Talking about a mistake you made · Used to: things that were true and are not now |
+| `GRM-33` | [61](../days/day-61-giving-opinion/LESSON.md) | Giving an opinion: I think, in my view, to be honest · Going to and will: plans and promises |
+| `GRM-34` | [63](../days/day-63-weekend-and-year-plans/LESSON.md) | Plans for the weekend and plans for the year · Present perfect: have you ever |
+| `GRM-35` | [65](../days/day-65-polite-intonation/LESSON.md) | Polite intonation: sounding kind, not cold · Should, must, have to: advice and rules on paper |
+| `GRM-36` | [67](../days/day-67-suggestions-and-choosing/LESSON.md) | Making suggestions and choosing between them · First conditional: if it rains, we'll stay in |
+| `GRM-37` | [69](../days/day-69-describing-a-process/LESSON.md) | Describing a process aloud · The passive: it is made, it was built |
 | `GRM-38` | [71](../days/day-71/LESSON.md) | Holding a long turn: well, so, the thing is · Second conditional: if I were you |
 | `GRM-39` | [74](../days/day-74/LESSON.md) | Problems in your city and what should change · Relative clauses: who, which, that |
 | `GRM-40` | [76](../days/day-76/LESSON.md) | Speaking clearly on a bad line · Reported speech: she said that she was |
@@ -218,14 +218,14 @@ bug.
 | `WRT-23` | [51](../days/day-51-describing-people/LESSON.md) | Describing people: looks and character · Describing a person you know well |
 | `WRT-24` | [54](../days/day-54-your-town-or-village/LESSON.md) | Talking about your town or village · A paragraph about your town |
 | `WRT-25` | [55](../days/day-55-passing-on-news/LESSON.md) | Did you hear about: passing on news · A short news report in the past |
-| `WRT-26` | [57](../days/day-57/LESSON.md) | Pausing in the right place · One idea per paragraph, and where the paragraph breaks |
-| `WRT-27` | [58](../days/day-58/LESSON.md) | Retelling a story you heard · Retelling a story in your own words |
-| `WRT-28` | [60](../days/day-60/LESSON.md) | Gate: the recorded story from your life · Gate: a one-page story in the past |
-| `WRT-29` | [62](../days/day-62/LESSON.md) | Agreeing and disagreeing without offending · An opinion paragraph with a reason |
-| `WRT-30` | [64](../days/day-64/LESSON.md) | Have you ever: talking about experiences · A paragraph about things you have done |
-| `WRT-31` | [66](../days/day-66/LESSON.md) | Giving advice to a friend · A reply to a friend's problem |
-| `WRT-32` | [68](../days/day-68/LESSON.md) | Talking about what might happen · Writing a plan step by step |
-| `WRT-33` | [70](../days/day-70/LESSON.md) | Explaining how something works to someone who doesn't know · Explaining a process in writing |
+| `WRT-26` | [57](../days/day-57-pausing-right-place/LESSON.md) | Pausing in the right place · One idea per paragraph, and where the paragraph breaks |
+| `WRT-27` | [58](../days/day-58-retelling-story-heard/LESSON.md) | Retelling a story you heard · Retelling a story in your own words |
+| `WRT-28` | [60](../days/day-60-gate-story-from-life/LESSON.md) | Gate: the recorded story from your life · Gate: a one-page story in the past |
+| `WRT-29` | [62](../days/day-62-agreeing-disagreeing/LESSON.md) | Agreeing and disagreeing without offending · An opinion paragraph with a reason |
+| `WRT-30` | [64](../days/day-64-have-you-ever-experiences/LESSON.md) | Have you ever: talking about experiences · A paragraph about things you have done |
+| `WRT-31` | [66](../days/day-66-advice-to-a-friend/LESSON.md) | Giving advice to a friend · A reply to a friend's problem |
+| `WRT-32` | [68](../days/day-68-what-might-happen/LESSON.md) | Talking about what might happen · Writing a plan step by step |
+| `WRT-33` | [70](../days/day-70-explaining-how-it-works/LESSON.md) | Explaining how something works to someone who doesn't know · Explaining a process in writing |
 | `WRT-34` | [72](../days/day-72/LESSON.md) | Dreams and wishes: if I could · A wish paragraph |
 | `WRT-35` | [73](../days/day-73/LESSON.md) | Reasons for and reasons against · For and against in two paragraphs |
 | `WRT-36` | [75](../days/day-75/LESSON.md) | Describing a thing when you don't know its name · Defining and describing things on paper |

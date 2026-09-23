@@ -1,0 +1,1 @@
+Put your first plan, the real plan with its action table, three-check and the owners' answers, copy E with the calendar-test table, and the repaired plan here as day-68.md, or a photo named day-68.jpg of your notebook page.

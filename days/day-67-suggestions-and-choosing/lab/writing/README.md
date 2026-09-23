@@ -1,0 +1,1 @@
+Put your six first-conditional sentences, the plan message with its cases table, checks and the what-if results, the planted copy with its table, and the repaired message here as day-67.md, or a photo named day-67.jpg of your notebook page.

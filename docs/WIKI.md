@@ -64,3 +64,17 @@ it. Cross-day lookups live in `wiki/ENTITIES.md`.
 | [54](wiki/day-54.md) | Talking about your town or village · A paragraph about your town | SPK-38, WRT-24 | 6 | — |
 | [55](wiki/day-55.md) | Did you hear about: passing on news · A short news report in the past | SPK-39, WRT-25 | 6 | — |
 | [56](wiki/day-56.md) | Explaining why: because, so, that's why · When, while, after, before: joining past… | SPK-40, GRM-31 | 6 | — |
+| [57](wiki/day-57.md) | Pausing in the right place · One idea per paragraph, and where the paragraph breaks | SND-17, WRT-26 | 6 | — |
+| [58](wiki/day-58.md) | Retelling a story you heard · Retelling a story in your own words | SPK-41, WRT-27 | 6 | — |
+| [59](wiki/day-59.md) | Talking about a mistake you made · Used to: things that were true and are not now | SPK-42, GRM-32 | 6 | — |
+| [60](wiki/day-60.md) | Gate: the recorded story from your life · Gate: a one-page story in the past | SPK-43, WRT-28 | 6 | — |
+| [61](wiki/day-61.md) | Giving an opinion: I think, in my view, to be honest · Going to and will: plans and… | SPK-44, GRM-33 | 6 | — |
+| [62](wiki/day-62.md) | Agreeing and disagreeing without offending · An opinion paragraph with a reason | SPK-45, WRT-29 | 6 | — |
+| [63](wiki/day-63.md) | Plans for the weekend and plans for the year · Present perfect: have you ever | SPK-46, GRM-34 | 6 | — |
+| [64](wiki/day-64.md) | Have you ever: talking about experiences · A paragraph about things you have done | SPK-47, WRT-30 | 6 | — |
+| [65](wiki/day-65.md) | Polite intonation: sounding kind, not cold · Should, must, have to: advice and rule… | SND-18, GRM-35 | 6 | — |
+| [66](wiki/day-66.md) | Giving advice to a friend · A reply to a friend's problem | SPK-48, WRT-31 | 6 | — |
+| [67](wiki/day-67.md) | Making suggestions and choosing between them · First conditional: if it rains, we'l… | SPK-49, GRM-36 | 6 | — |
+| [68](wiki/day-68.md) | Talking about what might happen · Writing a plan step by step | SPK-50, WRT-32 | 6 | — |
+| [69](wiki/day-69.md) | Describing a process aloud · The passive: it is made, it was built | SPK-51, GRM-37 | 6 | — |
+| [70](wiki/day-70.md) | Explaining how something works to someone who doesn't know · Explaining a process i… | SPK-52, WRT-33 | 6 | — |

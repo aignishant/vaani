@@ -1,0 +1,1 @@
+Put your six passive sentences, the label or sign with its table, checks and the reader's three words, the planted copy with its table, and the repaired piece here as day-69.md, or a photo named day-69.jpg of your notebook page.

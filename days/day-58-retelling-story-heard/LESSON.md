@@ -92,7 +92,7 @@ Only record what you actually heard or saw. A deliberate exercise is labelled de
 ## §6 Budget
 
 One recording with its takes, one page, your phone, a notebook or editor, one story to read, and six
-or seven people for a few minutes each. Nothing bought. The course budget lives in the
+or seven people. Nothing bought. The course budget lives in the
 [plan's §4](../../docs/00_MASTER_PLAN.md#4--constraints--budget).
 
 ## §7 Traps

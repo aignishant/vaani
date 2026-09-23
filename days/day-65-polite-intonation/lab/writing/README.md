@@ -1,0 +1,1 @@
+Put your ten lines about a real place, the note with its level table, checks and the reader's sorting, the planted copy with its table, and the repaired note here as day-65.md, or a photo named day-65.jpg of your notebook page.

@@ -9,9 +9,9 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | | Count | Of plan |
 | --- | --- | --- |
 | Days in the plan | **120** | 100% |
-| Days written | **56** | 46.7% |
+| Days written | **70** | 58.3% |
 | Days complete | **1** | 0.8% |
-| Subtopic documents | **336** | — |
+| Subtopic documents | **420** | — |
 | Source documents | **0** | — |
 
 ## Every day
@@ -74,20 +74,20 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 54 | 3 | [Talking about your town or village · A paragraph about your town](../days/day-54-your-town-or-village/LESSON.md) | written | 6 | 0 | `SPK-38`, `WRT-24` |
 | 55 | 3 | [Did you hear about: passing on news · A short news report in the past](../days/day-55-passing-on-news/LESSON.md) | written | 6 | 0 | `SPK-39`, `WRT-25` |
 | 56 | 3 | [Explaining why: because, so, that's why · When, while, after, before: j…](../days/day-56-explaining-why/LESSON.md) | written | 6 | 0 | `SPK-40`, `GRM-31` |
-| 57 | 3 | Pausing in the right place · One idea per paragraph, and where the para… | not started | 0 | 0 | `SND-17`, `WRT-26` |
-| 58 | 3 | Retelling a story you heard · Retelling a story in your own words | not started | 0 | 0 | `SPK-41`, `WRT-27` |
-| 59 | 3 | Talking about a mistake you made · Used to: things that were true and a… | not started | 0 | 0 | `SPK-42`, `GRM-32` |
-| 60 | 3 | Gate: the recorded story from your life · Gate: a one-page story in the… | not started | 0 | 0 | `SPK-43`, `WRT-28` |
-| 61 | 4 | Giving an opinion: I think, in my view, to be honest · Going to and wil… | not started | 0 | 0 | `SPK-44`, `GRM-33` |
-| 62 | 4 | Agreeing and disagreeing without offending · An opinion paragraph with… | not started | 0 | 0 | `SPK-45`, `WRT-29` |
-| 63 | 4 | Plans for the weekend and plans for the year · Present perfect: have yo… | not started | 0 | 0 | `SPK-46`, `GRM-34` |
-| 64 | 4 | Have you ever: talking about experiences · A paragraph about things you… | not started | 0 | 0 | `SPK-47`, `WRT-30` |
-| 65 | 4 | Polite intonation: sounding kind, not cold · Should, must, have to: adv… | not started | 0 | 0 | `SND-18`, `GRM-35` |
-| 66 | 4 | Giving advice to a friend · A reply to a friend's problem | not started | 0 | 0 | `SPK-48`, `WRT-31` |
-| 67 | 4 | Making suggestions and choosing between them · First conditional: if it… | not started | 0 | 0 | `SPK-49`, `GRM-36` |
-| 68 | 4 | Talking about what might happen · Writing a plan step by step | not started | 0 | 0 | `SPK-50`, `WRT-32` |
-| 69 | 4 | Describing a process aloud · The passive: it is made, it was built | not started | 0 | 0 | `SPK-51`, `GRM-37` |
-| 70 | 4 | Explaining how something works to someone who doesn't know · Explaining… | not started | 0 | 0 | `SPK-52`, `WRT-33` |
+| 57 | 3 | [Pausing in the right place · One idea per paragraph, and where the para…](../days/day-57-pausing-right-place/LESSON.md) | written | 6 | 0 | `SND-17`, `WRT-26` |
+| 58 | 3 | [Retelling a story you heard · Retelling a story in your own words](../days/day-58-retelling-story-heard/LESSON.md) | written | 6 | 0 | `SPK-41`, `WRT-27` |
+| 59 | 3 | [Talking about a mistake you made · Used to: things that were true and a…](../days/day-59-mistake-you-made/LESSON.md) | written | 6 | 0 | `SPK-42`, `GRM-32` |
+| 60 | 3 | [Gate: the recorded story from your life · Gate: a one-page story in the…](../days/day-60-gate-story-from-life/LESSON.md) | written | 6 | 0 | `SPK-43`, `WRT-28` |
+| 61 | 4 | [Giving an opinion: I think, in my view, to be honest · Going to and wil…](../days/day-61-giving-opinion/LESSON.md) | written | 6 | 0 | `SPK-44`, `GRM-33` |
+| 62 | 4 | [Agreeing and disagreeing without offending · An opinion paragraph with…](../days/day-62-agreeing-disagreeing/LESSON.md) | written | 6 | 0 | `SPK-45`, `WRT-29` |
+| 63 | 4 | [Plans for the weekend and plans for the year · Present perfect: have yo…](../days/day-63-weekend-and-year-plans/LESSON.md) | written | 6 | 0 | `SPK-46`, `GRM-34` |
+| 64 | 4 | [Have you ever: talking about experiences · A paragraph about things you…](../days/day-64-have-you-ever-experiences/LESSON.md) | written | 6 | 0 | `SPK-47`, `WRT-30` |
+| 65 | 4 | [Polite intonation: sounding kind, not cold · Should, must, have to: adv…](../days/day-65-polite-intonation/LESSON.md) | written | 6 | 0 | `SND-18`, `GRM-35` |
+| 66 | 4 | [Giving advice to a friend · A reply to a friend's problem](../days/day-66-advice-to-a-friend/LESSON.md) | written | 6 | 0 | `SPK-48`, `WRT-31` |
+| 67 | 4 | [Making suggestions and choosing between them · First conditional: if it…](../days/day-67-suggestions-and-choosing/LESSON.md) | written | 6 | 0 | `SPK-49`, `GRM-36` |
+| 68 | 4 | [Talking about what might happen · Writing a plan step by step](../days/day-68-what-might-happen/LESSON.md) | written | 6 | 0 | `SPK-50`, `WRT-32` |
+| 69 | 4 | [Describing a process aloud · The passive: it is made, it was built](../days/day-69-describing-a-process/LESSON.md) | written | 6 | 0 | `SPK-51`, `GRM-37` |
+| 70 | 4 | [Explaining how something works to someone who doesn't know · Explaining…](../days/day-70-explaining-how-it-works/LESSON.md) | written | 6 | 0 | `SPK-52`, `WRT-33` |
 | 71 | 4 | Holding a long turn: well, so, the thing is · Second conditional: if I… | not started | 0 | 0 | `SND-19`, `GRM-38` |
 | 72 | 4 | Dreams and wishes: if I could · A wish paragraph | not started | 0 | 0 | `SPK-53`, `WRT-34` |
 | 73 | 4 | Reasons for and reasons against · For and against in two paragraphs | not started | 0 | 0 | `SPK-54`, `WRT-35` |
@@ -145,7 +145,7 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | --- | --- | --- | --- | --- | --- |
 | 1 | 1–20 | Foundations: sounds and first sentences; letter… | 20/20 | 1/20 | Speaking: a recorded self-introduction of at least ten… |
 | 2 | 21–40 | Everyday life: shops, phones, plans; notes, mes… | 20/20 | 0/20 | Speaking: a recorded shop or café role-play, both voice… |
-| 3 | 41–60 | Telling what happened: the past, stories, compa… | 16/20 | 0/20 | Speaking: a recorded story from your life with a beginn… |
-| 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 0/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |
+| 3 | 41–60 | Telling what happened: the past, stories, compa… | 20/20 | 0/20 | Speaking: a recorded story from your life with a beginn… |
+| 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 10/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |
 | 5 | 81–100 | Formal and at work: interviews, meetings, compl… | 0/20 | 0/20 | Speaking: a recorded interview role-play answering five… |
 | 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 0/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |
