@@ -1,0 +1,1 @@
+Put your six job labels, your three six-sentence stories, the sent story with the reader's question and your revision, the all-setting version, the two readers' answers, the background count and the conversion drill here as day-43.md, or a photo named day-43.jpg of your notebook page.

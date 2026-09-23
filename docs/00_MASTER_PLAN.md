@@ -1,6 +1,6 @@
 ---
 plan: vaani
-version: "v1.5.0"
+version: "v1.6.0"
 topic: "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
 tracks: 4
 ids: 240
@@ -10,7 +10,7 @@ doc_architecture: "hub + parts/ (see §11)"
 amended: "2026-09-23"
 ---
 
-# MASTER PLAN v1.5.0 — Vaani
+# MASTER PLAN v1.6.0 — Vaani
 
 ## Speaking and writing English from zero, one hour a day, with a recording and a written piece every day
 
@@ -505,7 +505,12 @@ Each such batch closes at its last day and the next one is argued for again, in 
 second batch is days 17–26 (`docs/adr/ADR-0005-second-batch-of-ten-and-the-gate-day.md`); the
 third is days 27–36 (`docs/adr/ADR-0006-third-batch-and-the-order-rule-faced-directly.md`); the
 fourth is days 37–46
-(`docs/adr/ADR-0007-fourth-batch-the-gate-day-and-the-phase-boundary.md`).
+(`docs/adr/ADR-0007-fourth-batch-the-gate-day-and-the-phase-boundary.md`); the fifth is days
+47–56 (`docs/adr/ADR-0008-fifth-batch-and-the-unfinished-day.md`).
+
+**A batch is only started when the batch before it is whole.** If a day an earlier batch
+authorised is still unfinished, it is finished first, under that earlier batch's ADR, and it never
+counts toward the new batch's ten (ADR-0008).
 
 **A batch may cross a phase boundary, but never jump a gate it does not write.** If the days
 between the last closed day and the batch's last day include a gate day, that gate day is written
@@ -952,3 +957,5 @@ before any day or any code changes, and anything structural gets an ADR in `docs
 | v1.2.0 | 2026-09-22 | §9: a batch may be up to ten days from the last written day when the writing tool's availability is not guaranteed (ADR-0004). See `docs/CHANGELOG_PLAN.md`. |
 | v1.3.0 | 2026-09-22 | §9: a second batch of ten, days 17–26, and a phase gate day may be written ahead as a rehearsal, with a mandatory `ERRORS.md` re-read before `done N` (ADR-0005). See `docs/CHANGELOG_PLAN.md`. |
 | v1.4.0 | 2026-09-22 | §9: a third batch of ten, days 27–36, and the order rule named for what it is — *doing* days in order is the hard rule, *writing* ahead is the normal mode, capped at ten per batch and argued for each time (ADR-0006). See `docs/CHANGELOG_PLAN.md`. |
+| v1.5.0 | 2026-09-23 | §9: a fourth batch of ten, days 37–46; a batch may cross a phase boundary but never jump a gate it does not write; the "is anybody doing the days?" question is asked out loud before a batch on an unmoved ledger (ADR-0007). See `docs/CHANGELOG_PLAN.md`. |
+| v1.6.0 | 2026-09-23 | §9: a fifth batch of ten, days 47–56, and a batch is only started when the batch before it is whole (ADR-0008). See `docs/CHANGELOG_PLAN.md`. |

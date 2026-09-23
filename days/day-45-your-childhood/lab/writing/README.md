@@ -1,0 +1,1 @@
+Put your three memory paragraphs, the decade version, the two readers' answers and your revisions, the deliberately general paragraph, what the two readers drew, the noun count and the conversion drill here as day-45.md, or a photo named day-45.jpg of your notebook page.

@@ -1,0 +1,1 @@
+Put your topic sentences, the location and detail sentences, the town paragraph with the map test results and the revision, the second paragraph, the brochure paragraph with both readers' drawings, the brochure count and the conversion drill here as day-54.md, or a photo named day-54.jpg of your notebook page.

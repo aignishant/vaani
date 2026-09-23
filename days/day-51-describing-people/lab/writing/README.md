@@ -1,0 +1,1 @@
+Put your first lines with evidence, the adjective pile and its proving pair, the planned and revised paragraph with both readers' answers, the second paragraph, the four RED and GREEN paragraphs, the which-is-which results, the word count and the conversion drill here as day-51.md, or a photo named day-51.jpg of your notebook page.

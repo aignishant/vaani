@@ -1,0 +1,1 @@
+Put your six lines of speech, the four-turn exchange, the conversation scene with the two-voice results, the second conversation, copies A, B and C with the three readers' results, and the fixes here as day-49.md, or a photo named day-49.jpg of your notebook page.

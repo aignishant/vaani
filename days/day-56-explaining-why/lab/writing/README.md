@@ -1,0 +1,1 @@
+Put your eight time-word sentences, the before-and-after pair, your notes and timeline, the joined paragraph with the reader's timeline and the fixes, the second paragraph, the RED copy with its table, and the fixed copy here as day-56.md, or a photo named day-56.jpg of your notebook page.

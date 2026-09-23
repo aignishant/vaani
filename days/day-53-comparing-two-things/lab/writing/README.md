@@ -1,0 +1,1 @@
+Put your ten superlatives, the comparative-superlative pairs, the guide note with both checks and the reader's table, the RED copy with its table, and the fixed copy here as day-53.md, or a photo named day-53.jpg of your notebook page.

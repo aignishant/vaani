@@ -1,0 +1,1 @@
+Put your ten questions, your eight negatives, the sent enquiry, the dated record, pieces A and B, the reader's answers, the hunt through your sent messages with both numbers, and the two drills here as day-44.md, or a photo named day-44.jpg of your notebook page.

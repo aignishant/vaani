@@ -1,0 +1,1 @@
+Put your opening sentences, the opinion rewrites, the five-Ws table, the real report with the one-sentence test results and the revision, the three-sentence report, the time-order version with the fold test results, and the reorder drill here as day-55.md, or a photo named day-55.jpg of your notebook page.

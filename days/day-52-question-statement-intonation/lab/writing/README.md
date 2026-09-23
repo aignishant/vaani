@@ -1,0 +1,1 @@
+Put your ten comparisons, the then-and-than sentences, the points table, the comparison message with its verdict and the real person's answer, the second message, the RED copy with its table, and the fixed copy here as day-52.md, or a photo named day-52.jpg of your notebook page.

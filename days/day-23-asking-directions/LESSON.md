@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "Asking for and understanding directions · Writing directions someone can follow"
 ids: [SPK-14, WRT-10]
 kind: concept
-plan_version: "v1.5.0"
+plan_version: "v1.6.0"
 parts: 6
 generated: "2026-09-22"
 status: written

@@ -91,3 +91,17 @@ toolchain — also gets an ADR in `docs/adr/`, and the entry here links it.
   attempted; if that gate is failed, they are re-read before they are used. Day 47 onward needs a
   closed day 6 or a further ADR. `plan_version` in `granth.toml` and in every hub moves to v1.5.0.
   No IDs move.
+- 2026-09-23 — **What moved:** ADR-0007's batch was found unfinished: day 46 had four of its six
+  parts and no hub, checklist or lab, so §9's condition that every day up to the last written day
+  passes `depth` was false. A fifth batch was asked for with the ledger still holding one row, so
+  the question "is anybody doing the days?" was put to the learner in those words before anything
+  was written, with the option of writing nothing new. The learner chose to finish day 46 and then
+  write days 47–56. **What the plan now says (v1.6.0):** §9's writing-ahead rule gains the fifth
+  batch, days 47–56, on every condition ADR-0004 to ADR-0007 set, and gains the rule that **a
+  batch is only started when the batch before it is whole** — an earlier batch's unfinished day
+  is finished under its own ADR first and never counts toward the new ten —
+  `docs/adr/ADR-0008-fifth-batch-and-the-unfinished-day.md`. §13 gains the v1.5.0 row it was
+  missing and the v1.6.0 row. **Cost:** days 47–56 are written with one day of real errors behind
+  them; day 56 is written fifty-five learning days before it is read. The phase 3 gate, day 60,
+  stays outside the batch. Day 57 onward needs a closed day 6 or a further ADR, with the question
+  asked again first. `plan_version` in `granth.toml` and in every hub moves to v1.6.0. No IDs move.

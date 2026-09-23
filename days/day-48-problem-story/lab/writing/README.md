@@ -1,0 +1,1 @@
+Put your interruption sentences, negatives, questions and stative verb, the two still-picture paragraphs with their L-and-D marks and the reader's answers, the RED copy with its table, and the fixed copy here as day-48.md, or a photo named day-48.jpg of your notebook page.

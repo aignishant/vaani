@@ -1,0 +1,1 @@
+Put your three first lines for each topic, the rewritten announcement, your three paragraphs with the readers' guesses, the RED paragraph, both reader tests, the GREEN rewrite and the drift audit here as day-47.md, or a photo named day-47.jpg of your notebook page.

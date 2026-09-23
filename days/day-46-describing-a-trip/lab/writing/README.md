@@ -1,0 +1,1 @@
+Put your twelve sentences, the six-step description, the reader's T-and-N marks and your fixes, the second description, the RED copy with its table, and the fixed copy here as day-46.md, or a photo named day-46.jpg of your notebook page.

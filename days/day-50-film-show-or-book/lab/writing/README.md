@@ -1,0 +1,1 @@
+Put your ten pairs, the ten true sentences, the message about a real event with its C-and-F marks and the reader's answer, the film, show or book message, the swapped copy with its table, and the restored copy here as day-50.md, or a photo named day-50.jpg of your notebook page.

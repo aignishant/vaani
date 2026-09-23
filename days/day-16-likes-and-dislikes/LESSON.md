@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Likes and dislikes: I love, I can't stand · A short \"my day\" paragraph in order"
 ids: [SPK-08, WRT-06]
 kind: concept
-plan_version: "v1.5.0"
+plan_version: "v1.6.0"
 parts: 6
 generated: "2026-09-22"
 status: written
