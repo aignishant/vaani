@@ -1,16 +1,16 @@
 ---
 plan: vaani
-version: "v1.4.0"
+version: "v1.5.0"
 topic: "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
 tracks: 4
 ids: 240
 days: 120
 phases: 6
 doc_architecture: "hub + parts/ (see §11)"
-amended: "2026-09-22"
+amended: "2026-09-23"
 ---
 
-# MASTER PLAN v1.4.0 — Vaani
+# MASTER PLAN v1.5.0 — Vaani
 
 ## Speaking and writing English from zero, one hour a day, with a recording and a written piece every day
 
@@ -503,7 +503,20 @@ first. See `docs/adr/ADR-0004-batch-of-ten-from-the-last-written-day.md`.
 
 Each such batch closes at its last day and the next one is argued for again, in its own ADR. The
 second batch is days 17–26 (`docs/adr/ADR-0005-second-batch-of-ten-and-the-gate-day.md`); the
-third is days 27–36 (`docs/adr/ADR-0006-third-batch-and-the-order-rule-faced-directly.md`).
+third is days 27–36 (`docs/adr/ADR-0006-third-batch-and-the-order-rule-faced-directly.md`); the
+fourth is days 37–46
+(`docs/adr/ADR-0007-fourth-batch-the-gate-day-and-the-phase-boundary.md`).
+
+**A batch may cross a phase boundary, but never jump a gate it does not write.** If the days
+between the last closed day and the batch's last day include a gate day, that gate day is written
+inside the batch, as a rehearsal, under the gate rule below. A batch that steps over an unwritten
+gate into the next phase is refused.
+
+**Before a batch is written with an unmoved ledger, the question is asked out loud.** When no day
+has been closed since the previous batch, the question is no longer "may we write ahead?" but "is
+anybody doing the days?" It belongs to the learner, it is put to them in those words before
+anything is written, with the option of writing nothing, and their answer is recorded in the
+batch's ADR (ADR-0006, ADR-0007).
 
 **What the order rule actually protects.** Three batches in, the plan says the true thing rather
 than the tidy one. *Doing* days in order is the hard rule, it has never been broken, and

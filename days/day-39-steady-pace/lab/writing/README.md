@@ -1,0 +1,1 @@
+Put your joined pairs, your real note in both versions, the second note, the deliberate one-sentence note, the two readers' answers, the splice count and your repair rule here as day-39.md, or a photo named day-39.jpg of your notebook page.

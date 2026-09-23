@@ -1,0 +1,1 @@
+Put your sorting sheet, your twenty verb pairs and the self-test, the dated account, the second account, notes A and B, the three readers' answers, the invention hunt and the avoidance hunt here as day-42.md, or a photo named day-42.jpg of your notebook page.

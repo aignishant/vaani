@@ -1,0 +1,1 @@
+Put your twenty sorted verbs, your eight sentences with the verb pass, the second entry, page A, the unchecked page B, page C, the reader's marks and the pattern count here as day-41.md, or a photo named day-41.jpg of your notebook page.

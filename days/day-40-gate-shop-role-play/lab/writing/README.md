@@ -1,0 +1,1 @@
+Put your three job sentences, the sent note with its word count, notes A and B, the three readers' answers, the request audit and the repaired direction here as day-40.md, or a photo named day-40.jpg. This is a Writing Portfolio piece: it gets a row in docs/WRITINGS.md.

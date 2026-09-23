@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Greetings and goodbyes: hello to see you later · This, that, these, those: pointing on paper"
 ids: [SPK-01, GRM-05]
 kind: concept
-plan_version: "v1.4.0"
+plan_version: "v1.5.0"
 parts: 6
 generated: "2026-09-22"
 status: written

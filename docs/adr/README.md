@@ -40,3 +40,7 @@ justification written after the fact, not a decision record.
 | [0001](ADR-0001-the-plan-as-adopted.md) | The plan as adopted | 2026-09-18 | accepted |
 | [0002](ADR-0002-two-folders-per-day.md) | Every day has two independent folders: speaking and writing | 2026-09-18 | accepted |
 | [0003](ADR-0003-days-written-ahead-in-batches.md) | Days are written ahead in batches of up to five, and done one at a time, in order | 2026-09-22 | accepted |
+| [0004](ADR-0004-batch-of-ten-from-the-last-written-day.md) | A batch of ten, written from the last written day | 2026-09-22 | accepted |
+| [0005](ADR-0005-second-batch-of-ten-and-the-gate-day.md) | A second batch of ten, and how a gate day is written ahead | 2026-09-22 | accepted |
+| [0006](ADR-0006-third-batch-and-the-order-rule-faced-directly.md) | A third batch of ten, and the order rule named for what it has become | 2026-09-22 | accepted |
+| [0007](ADR-0007-fourth-batch-the-gate-day-and-the-phase-boundary.md) | A fourth batch of ten, carrying the phase 2 gate and crossing into phase 3 | 2026-09-23 | accepted |

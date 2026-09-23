@@ -1,0 +1,1 @@
+Put your fourteen pronoun sentences, the two versions of your real event, the three notes, the reader's answers, the pronoun hunt and the sent note here as day-37.md, or a photo named day-37.jpg of your notebook page.

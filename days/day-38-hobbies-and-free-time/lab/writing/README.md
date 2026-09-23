@@ -1,0 +1,1 @@
+Put your four because endings, your paragraph in its three passes, the second paragraph, the deliberate list paragraph, the two readers' answers and the repaired sentences here as day-38.md, or a photo named day-38.jpg of your notebook page.

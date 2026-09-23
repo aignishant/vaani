@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Asking what, where, who · Questions with be and do: the word order"
 ids: [SPK-04, GRM-07]
 kind: concept
-plan_version: "v1.4.0"
+plan_version: "v1.5.0"
 parts: 6
 generated: "2026-09-22"
 status: written

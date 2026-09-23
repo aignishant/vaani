@@ -72,3 +72,22 @@ toolchain — also gets an ADR in `docs/adr/`, and the entry here links it.
   checkbox, not a guarantee. Day 37 onward needs a closed day 6 or a further ADR, and the phase 2
   gate, day 40, is deliberately left out of the batch. `plan_version` in `granth.toml` and in
   every hub moves to v1.4.0. No IDs move.
+- 2026-09-23 — **What moved:** ADR-0006's batch closed at day 36 and left a question rather than a
+  warning: if a fourth batch were asked for with the ledger still holding one row, the question is
+  "is anybody doing the days?", and it belongs to the learner. A fourth batch was asked for. The
+  question was put to the learner in those words, with the option of writing nothing and closing
+  days instead, and the learner chose to write days 37–46 anyway. **What the plan now says
+  (v1.5.0):** §9's writing-ahead rule gains the fourth batch, days 37–46, on every condition
+  ADR-0004, ADR-0005 and ADR-0006 already set; it gains a rule that a batch **may cross a phase
+  boundary but never jump a gate it does not write** — a gate inside the batch's span is written
+  inside the batch, as a rehearsal; and it gains the requirement that when no day has been closed
+  since the previous batch, the "is anybody doing the days?" question is **asked out loud before
+  anything is written** and the answer recorded in the batch's ADR —
+  `docs/adr/ADR-0007-fourth-batch-the-gate-day-and-the-phase-boundary.md`. **Cost:** days 37–46
+  are written with one day of real errors behind them; day 46 is written forty-five learning days
+  before it is read. The phase 2 gate, day 40, is now written, by a repository that has watched
+  the learner do one day; it is a rehearsal until its `docs/ERRORS.md` re-read is ticked, and its
+  hub and checklist say so. Days 41–46 assume a learner who has passed a gate nobody has
+  attempted; if that gate is failed, they are re-read before they are used. Day 47 onward needs a
+  closed day 6 or a further ADR. `plan_version` in `granth.toml` and in every hub moves to v1.5.0.
+  No IDs move.
