@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Short vowels: bit, bet, bat, but — saying your name aloud · The alphabet: capital and small letters, and your name on paper"
 ids: [SND-01, WRT-01]
 kind: concept
-plan_version: "v1.7.0"
+plan_version: "v1.8.0"
 parts: 6
 generated: "2026-09-18"
 status: done

@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "Gate: the recorded shop or café role-play · Gate: a hundred-word note that does three things"
 ids: [SPK-27, WRT-18]
 kind: gate
-plan_version: "v1.7.0"
+plan_version: "v1.8.0"
 parts: 6
 generated: "2026-09-23"
 status: written

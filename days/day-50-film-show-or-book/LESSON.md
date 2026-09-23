@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "Talking about a film, a show or a book · Adjectives ending -ed and -ing: bored and boring"
 ids: [SPK-35, GRM-28]
 kind: concept
-plan_version: "v1.7.0"
+plan_version: "v1.8.0"
 parts: 6
 generated: "2026-09-23"
 status: written

@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "Time words aloud: first, then, after that, in the end · Past questions and negatives: did, didn't"
 ids: [SPK-30, GRM-25]
 kind: concept
-plan_version: "v1.7.0"
+plan_version: "v1.8.0"
 parts: 6
 generated: "2026-09-23"
 status: written

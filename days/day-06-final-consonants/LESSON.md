@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Final consonants: bad, bat, back — finishing the word · I am, you are, he is: the verb be"
 ids: [SND-06, GRM-04]
 kind: concept
-plan_version: "v1.7.0"
+plan_version: "v1.8.0"
 parts: 6
 generated: "2026-09-22"
 status: written

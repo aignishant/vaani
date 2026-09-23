@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "Contractions aloud: I'm, don't, it's, we've · Contractions on paper and the apostrophe"
 ids: [SND-12, GRM-20]
 kind: concept
-plan_version: "v1.7.0"
+plan_version: "v1.8.0"
 parts: 6
 generated: "2026-09-22"
 status: written
