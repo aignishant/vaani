@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "A problem story: what went wrong and what you did · Past continuous: I was cooking when"
 ids: [SPK-33, GRM-27]
 kind: concept
-plan_version: "v1.6.0"
+plan_version: "v1.7.0"
 parts: 6
 generated: "2026-09-23"
 status: written

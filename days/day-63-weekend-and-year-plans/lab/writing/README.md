@@ -1,0 +1,1 @@
+Put your verb table written from memory, the eight present-perfect sentences, the eight questions with your own answers and checks, the planted copy with the reader's table and your own hunt, and the repaired page here as day-63.md, or a photo named day-63.jpg of your notebook page.

@@ -1,6 +1,6 @@
 ---
 plan: vaani
-version: "v1.6.0"
+version: "v1.7.0"
 topic: "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
 tracks: 4
 ids: 240
@@ -10,7 +10,7 @@ doc_architecture: "hub + parts/ (see §11)"
 amended: "2026-09-23"
 ---
 
-# MASTER PLAN v1.6.0 — Vaani
+# MASTER PLAN v1.7.0 — Vaani
 
 ## Speaking and writing English from zero, one hour a day, with a recording and a written piece every day
 
@@ -506,7 +506,13 @@ second batch is days 17–26 (`docs/adr/ADR-0005-second-batch-of-ten-and-the-gat
 third is days 27–36 (`docs/adr/ADR-0006-third-batch-and-the-order-rule-faced-directly.md`); the
 fourth is days 37–46
 (`docs/adr/ADR-0007-fourth-batch-the-gate-day-and-the-phase-boundary.md`); the fifth is days
-47–56 (`docs/adr/ADR-0008-fifth-batch-and-the-unfinished-day.md`).
+47–56 (`docs/adr/ADR-0008-fifth-batch-and-the-unfinished-day.md`); the sixth is days 57–70
+(`docs/adr/ADR-0009-sixth-batch-of-fourteen-across-the-phase-3-gate.md`).
+
+**The one exception to the cap.** The sixth batch is fourteen days, not ten. It is a named,
+one-time exception: the learner chose it after being told about the cap and being offered ten.
+It is not a precedent. The cap stays ten, and any batch over ten needs its own ADR and a choice
+made by the learner with the cap stated (ADR-0009).
 
 **A batch is only started when the batch before it is whole.** If a day an earlier batch
 authorised is still unfinished, it is finished first, under that earlier batch's ADR, and it never
@@ -959,3 +965,4 @@ before any day or any code changes, and anything structural gets an ADR in `docs
 | v1.4.0 | 2026-09-22 | §9: a third batch of ten, days 27–36, and the order rule named for what it is — *doing* days in order is the hard rule, *writing* ahead is the normal mode, capped at ten per batch and argued for each time (ADR-0006). See `docs/CHANGELOG_PLAN.md`. |
 | v1.5.0 | 2026-09-23 | §9: a fourth batch of ten, days 37–46; a batch may cross a phase boundary but never jump a gate it does not write; the "is anybody doing the days?" question is asked out loud before a batch on an unmoved ledger (ADR-0007). See `docs/CHANGELOG_PLAN.md`. |
 | v1.6.0 | 2026-09-23 | §9: a fifth batch of ten, days 47–56, and a batch is only started when the batch before it is whole (ADR-0008). See `docs/CHANGELOG_PLAN.md`. |
+| v1.7.0 | 2026-09-23 | §9: a sixth batch, days 57–70, carrying the phase 3 gate as a rehearsal; fourteen days, as a named one-time exception to the cap of ten chosen by the learner (ADR-0009). See `docs/CHANGELOG_PLAN.md`. |

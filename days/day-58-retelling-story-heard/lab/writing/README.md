@@ -1,0 +1,1 @@
+Put your notes and first retelling, the hundred-word retelling with its word count, fact table and the reader's answer, the deliberate synonym copy with the underline table, and the repaired retelling here as day-58.md, or a photo named day-58.jpg of your notebook page.

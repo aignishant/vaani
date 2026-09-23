@@ -1,0 +1,1 @@
+Put your five-move sentences and paragraph, the hundred-word opinion paragraph with its plan, count, checks and the reader's reply, the circular copy with its table, and the repaired paragraph here as day-62.md, or a photo named day-62.jpg of your notebook page.

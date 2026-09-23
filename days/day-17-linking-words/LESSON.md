@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Linking words together: an apple, not an-apple · Prepositions of place: in, on, under, next to"
 ids: [SND-09, GRM-11]
 kind: concept
-plan_version: "v1.6.0"
+plan_version: "v1.7.0"
 parts: 6
 generated: "2026-09-22"
 status: written

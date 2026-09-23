@@ -105,3 +105,19 @@ toolchain — also gets an ADR in `docs/adr/`, and the entry here links it.
   them; day 56 is written fifty-five learning days before it is read. The phase 3 gate, day 60,
   stays outside the batch. Day 57 onward needs a closed day 6 or a further ADR, with the question
   asked again first. `plan_version` in `granth.toml` and in every hub moves to v1.6.0. No IDs move.
+- 2026-09-23 — **What moved:** a sixth batch was asked for ("the next 14 days") with the ledger
+  still holding one row. The fifth batch was whole: days 43–56 passed `depth` and `check` was
+  green. The question "is anybody doing the days?" was put to the learner in those words before
+  anything was written. The options were: write nothing and close days, write days 57–66 at the
+  cap of ten, or write days 57–70 past the cap. The learner chose fourteen, days 57–70, with the
+  cap stated. **What the plan now says (v1.7.0):** §9's writing-ahead rule gains the sixth batch,
+  days 57–70, on every condition ADR-0004 to ADR-0008 set. It is named as a **one-time exception
+  to the cap of ten**, chosen by the learner with the cap in front of them. The cap stays ten, and
+  any batch over ten needs its own ADR and its own choice.
+  `docs/adr/ADR-0009-sixth-batch-of-fourteen-across-the-phase-3-gate.md`. §13 gains the v1.7.0
+  row. **Cost:** days 57–70 are written with one day of real errors behind them. The phase 3
+  gate, day 60, is written inside the batch as a rehearsal, with a mandatory `ERRORS.md` re-read
+  for days 41–59. Days 61–70 open phase 4 and assume two gates nobody has attempted. Day 70 is
+  written sixty-nine learning days before it is read. Day 71 onward needs a closed day 6 or a
+  further ADR, with the question asked again first. `plan_version` in `granth.toml` and in every
+  hub moves to v1.7.0. No IDs move.

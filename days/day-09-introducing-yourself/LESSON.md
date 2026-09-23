@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Introducing yourself in five spoken sentences · Have and has: what you own and what you are like"
 ids: [SPK-02, GRM-06]
 kind: concept
-plan_version: "v1.6.0"
+plan_version: "v1.7.0"
 parts: 6
 generated: "2026-09-22"
 status: written

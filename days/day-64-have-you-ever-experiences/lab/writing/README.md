@@ -1,0 +1,1 @@
+Put your frame and dated details, the experience table and paragraph with the verb check and the reader's answer, copy N with the time-word hunt table, and the repaired paragraph here as day-64.md, or a photo named day-64.jpg of your notebook page.

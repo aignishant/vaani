@@ -1,0 +1,1 @@
+Put your plan, promise and prediction sentences, the real message with its table, checks and the reader's sorting, the planted copy with its table, and the repaired message here as day-61.md, or a photo named day-61.jpg of your notebook page.

@@ -1,0 +1,1 @@
+Put your labelled news paragraphs, the one-block draft with its labels, the broken page with the size table and the reader's names, the damaged copy with its table, and the repaired copy here as day-57.md, or a photo named day-57.jpg of your notebook page.

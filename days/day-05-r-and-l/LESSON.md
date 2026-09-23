@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "R and L: rice, lice — where the tongue goes · A, an, the: which one and when none"
 ids: [SND-05, GRM-03]
 kind: concept
-plan_version: "v1.6.0"
+plan_version: "v1.7.0"
 parts: 6
 generated: "2026-09-22"
 status: written

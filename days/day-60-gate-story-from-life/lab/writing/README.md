@@ -1,0 +1,1 @@
+Put your paragraph plan, the draft with its four-pass table, the fair copy of your one-page story, the reader's answer, and the deliberately slipped copy S with its table here as day-60.md, or a photo named day-60.jpg of your notebook page.

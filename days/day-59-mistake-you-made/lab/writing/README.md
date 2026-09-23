@@ -1,0 +1,1 @@
+Put your used-to sentences, the then-and-now lists and page with the used check, the planted copy with its table, and the repaired page here as day-59.md, or a photo named day-59.jpg of your notebook page.
