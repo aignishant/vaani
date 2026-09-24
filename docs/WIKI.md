@@ -78,3 +78,13 @@ it. Cross-day lookups live in `wiki/ENTITIES.md`.
 | [68](wiki/day-68.md) | Talking about what might happen · Writing a plan step by step | SPK-50, WRT-32 | 6 | — |
 | [69](wiki/day-69.md) | Describing a process aloud · The passive: it is made, it was built | SPK-51, GRM-37 | 6 | — |
 | [70](wiki/day-70.md) | Explaining how something works to someone who doesn't know · Explaining a process i… | SPK-52, WRT-33 | 6 | — |
+| [71](wiki/day-71.md) | Holding a long turn: well, so, the thing is · Second conditional: if I were you | SND-19, GRM-38 | 6 | — |
+| [72](wiki/day-72.md) | Dreams and wishes: if I could · A wish paragraph | SPK-53, WRT-34 | 6 | — |
+| [73](wiki/day-73.md) | Reasons for and reasons against · For and against in two paragraphs | SPK-54, WRT-35 | 6 | — |
+| [74](wiki/day-74.md) | Problems in your city and what should change · Relative clauses: who, which, that | SPK-55, GRM-39 | 6 | — |
+| [75](wiki/day-75.md) | Describing a thing when you don't know its name · Defining and describing things on… | SPK-56, WRT-36 | 6 | — |
+| [76](wiki/day-76.md) | Speaking clearly on a bad line · Reported speech: she said that she was | SND-20, GRM-40 | 6 | — |
+| [77](wiki/day-77.md) | Reporting what people said · Summarising a conversation in writing | SPK-57, WRT-37 | 6 | — |
+| [78](wiki/day-78.md) | Interrupting politely and getting back on track · Editing your own writing: the sec… | SPK-58, WRT-38 | 6 | — |
+| [79](wiki/day-79.md) | A long turn on any topic · A hundred-and-fifty-word opinion piece | SPK-59, WRT-39 | 6 | — |
+| [80](wiki/day-80.md) | Gate: the recorded opinion with reasons · Gate: the two-paragraph argument | SPK-60, WRT-40 | 6 | — |

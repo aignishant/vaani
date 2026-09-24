@@ -134,3 +134,32 @@ toolchain — also gets an ADR in `docs/adr/`, and the entry here links it.
   61–79. Day 80 is written seventy-nine learning days before it is read. Day 81 onward needs a
   closed day 6 or a further ADR, with the question asked again first. `plan_version` in
   `granth.toml` and in every hub moves to v1.8.0. No IDs move.
+- 2026-09-23 — **What moved:** an eighth batch was asked for ("complete next 4 days doc") with the
+  ledger still holding one row. The seventh batch was whole: `check` was green on all 80 written
+  days and `depth` passed for each of days 71–80, which were in the working tree and not yet
+  committed. The question "is anybody doing the days?" was put to the learner in those words
+  before anything was written. The options were: write nothing and close days, write days 81–84
+  as asked, or write days 81–90 at the cap. The learner chose four, days 81–84. **What the plan
+  now says (v1.9.0):** §9's writing-ahead rule gains the eighth batch, days 81–84, on every
+  condition ADR-0004 to ADR-0010 set, and says that a batch under the cap still gets its own ADR
+  and the question first — `docs/adr/ADR-0011-eighth-batch-of-four-opening-phase-5.md`. §13 gains
+  the v1.9.0 row. **Cost:** days 81–84 are written with one day of real errors behind them. Day 84
+  is written eighty-three learning days before it is read. The batch crosses no gate; the phase 5
+  gate, day 100, is not written. Day 85 onward needs a closed day 6 or a further ADR, with the
+  question asked again first. `plan_version` in `granth.toml` and in every hub moves to v1.9.0.
+  No IDs move.
+- 2026-09-24 — **What moved:** "next 10 days doc" was asked for with the ledger still holding one
+  row. The eighth batch was not whole: day 81 was written and passed `depth`, and days 82–84 had
+  empty folders. `check` passed the depth contract on all 81 written days, and failed only on
+  stale generated indexes. The question "is anybody doing the days?" was put to the learner in
+  those words before anything was written. It said that 82–84 were unfinished and came first. The
+  options were: write nothing and close days, finish only 82–84, finish 82–84 and write 85–91 (ten
+  day documents), or finish 82–84 and write 85–94 (a new batch at the cap). The learner chose
+  82–91. **What the plan now says (v1.10.0):** §9's writing-ahead rule records that days 82–84 are
+  finished under ADR-0011 and that the ninth batch is days 85–91, on every condition ADR-0004 to
+  ADR-0011 set — `docs/adr/ADR-0012-ninth-batch-of-seven-after-finishing-the-eighth.md`. §13 gains
+  the v1.10.0 row. **Cost:** days 82–91 are written with one day of real errors behind them. Day
+  91 is written ninety learning days before it is read. The batch crosses no gate; the phase 5
+  gate, day 100, is not written. Day 92 onward needs a closed day 6 or a further ADR, with the
+  question asked again first. Days 71–91 are still uncommitted. `plan_version` in `granth.toml`
+  and in every hub moves to v1.10.0. No IDs move.

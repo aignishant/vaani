@@ -1,0 +1,1 @@
+Put your three underlined definitions, the plan, the word list with its cover-the-word table, copy B labelled deliberate with its table, and the repaired list here as day-75.md, or a photo named day-75.jpg of your notebook page.

@@ -1,0 +1,1 @@
+Put your two topic sentences and reason list, the plan, the two paragraphs with the cover-test table and what the person on the other side said, copy S labelled deliberate with its sort table, and the repaired page here as day-73.md, or a photo named day-73.jpg of your notebook page.

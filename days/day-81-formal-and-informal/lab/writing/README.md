@@ -1,0 +1,1 @@
+Put your five-switch rewrite, the message written twice with its fact ticks and circle-test table, copy M labelled deliberate with its underline-test table, and any repair here as day-81.md, or a photo named day-81.jpg of your notebook page.

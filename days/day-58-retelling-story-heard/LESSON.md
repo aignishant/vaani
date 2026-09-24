@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "Retelling a story you heard · Retelling a story in your own words"
 ids: [SPK-41, WRT-27]
 kind: concept
-plan_version: "v1.8.0"
+plan_version: "v1.10.0"
 parts: 6
 generated: "2026-09-23"
 status: written

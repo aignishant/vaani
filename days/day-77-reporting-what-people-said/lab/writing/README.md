@@ -1,0 +1,1 @@
+Put your four-part notes, the plan, the summary with the check reader's fix and the act reader's answer, copy S labelled deliberate with its three-answer table, and the repaired summary here as day-77.md, or a photo named day-77.jpg of your notebook page.

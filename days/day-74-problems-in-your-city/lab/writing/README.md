@@ -1,0 +1,1 @@
+Put your four relative-clause sentences, the list of things, the real note with its clause check and pointing-test results, copy B labelled deliberate with its underline table, and the repaired note here as day-74.md, or a photo named day-74.jpg of your notebook page.

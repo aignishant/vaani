@@ -1,0 +1,1 @@
+Put your paragraph plan and topic sentences, the draft with its pass table, the fair copy, the real reader's answer, and copy T labelled deliberate with its first-line table here as day-80.md, or a photo named day-80.jpg of your notebook page. The fair copy gets a docs/WRITINGS.md row.

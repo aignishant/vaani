@@ -9,9 +9,9 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | | Count | Of plan |
 | --- | --- | --- |
 | Days in the plan | **120** | 100% |
-| Days written | **70** | 58.3% |
+| Days written | **80** | 66.7% |
 | Days complete | **1** | 0.8% |
-| Subtopic documents | **420** | — |
+| Subtopic documents | **480** | — |
 | Source documents | **0** | — |
 
 ## Every day
@@ -88,16 +88,16 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 68 | 4 | [Talking about what might happen · Writing a plan step by step](../days/day-68-what-might-happen/LESSON.md) | written | 6 | 0 | `SPK-50`, `WRT-32` |
 | 69 | 4 | [Describing a process aloud · The passive: it is made, it was built](../days/day-69-describing-a-process/LESSON.md) | written | 6 | 0 | `SPK-51`, `GRM-37` |
 | 70 | 4 | [Explaining how something works to someone who doesn't know · Explaining…](../days/day-70-explaining-how-it-works/LESSON.md) | written | 6 | 0 | `SPK-52`, `WRT-33` |
-| 71 | 4 | Holding a long turn: well, so, the thing is · Second conditional: if I… | not started | 0 | 0 | `SND-19`, `GRM-38` |
-| 72 | 4 | Dreams and wishes: if I could · A wish paragraph | not started | 0 | 0 | `SPK-53`, `WRT-34` |
-| 73 | 4 | Reasons for and reasons against · For and against in two paragraphs | not started | 0 | 0 | `SPK-54`, `WRT-35` |
-| 74 | 4 | Problems in your city and what should change · Relative clauses: who, w… | not started | 0 | 0 | `SPK-55`, `GRM-39` |
-| 75 | 4 | Describing a thing when you don't know its name · Defining and describi… | not started | 0 | 0 | `SPK-56`, `WRT-36` |
-| 76 | 4 | Speaking clearly on a bad line · Reported speech: she said that she was | not started | 0 | 0 | `SND-20`, `GRM-40` |
-| 77 | 4 | Reporting what people said · Summarising a conversation in writing | not started | 0 | 0 | `SPK-57`, `WRT-37` |
-| 78 | 4 | Interrupting politely and getting back on track · Editing your own writ… | not started | 0 | 0 | `SPK-58`, `WRT-38` |
-| 79 | 4 | A long turn on any topic · A hundred-and-fifty-word opinion piece | not started | 0 | 0 | `SPK-59`, `WRT-39` |
-| 80 | 4 | Gate: the recorded opinion with reasons · Gate: the two-paragraph argum… | not started | 0 | 0 | `SPK-60`, `WRT-40` |
+| 71 | 4 | [Holding a long turn: well, so, the thing is · Second conditional: if I…](../days/day-71-holding-long-turn/LESSON.md) | written | 6 | 0 | `SND-19`, `GRM-38` |
+| 72 | 4 | [Dreams and wishes: if I could · A wish paragraph](../days/day-72-dreams-and-wishes/LESSON.md) | written | 6 | 0 | `SPK-53`, `WRT-34` |
+| 73 | 4 | [Reasons for and reasons against · For and against in two paragraphs](../days/day-73-reasons-for-and-against/LESSON.md) | written | 6 | 0 | `SPK-54`, `WRT-35` |
+| 74 | 4 | [Problems in your city and what should change · Relative clauses: who, w…](../days/day-74-problems-in-your-city/LESSON.md) | written | 6 | 0 | `SPK-55`, `GRM-39` |
+| 75 | 4 | [Describing a thing when you don't know its name · Defining and describi…](../days/day-75-thing-without-name/LESSON.md) | written | 6 | 0 | `SPK-56`, `WRT-36` |
+| 76 | 4 | [Speaking clearly on a bad line · Reported speech: she said that she was](../days/day-76-speaking-on-bad-line/LESSON.md) | written | 6 | 0 | `SND-20`, `GRM-40` |
+| 77 | 4 | [Reporting what people said · Summarising a conversation in writing](../days/day-77-reporting-what-people-said/LESSON.md) | written | 6 | 0 | `SPK-57`, `WRT-37` |
+| 78 | 4 | [Interrupting politely and getting back on track · Editing your own writ…](../days/day-78-interrupting-politely/LESSON.md) | written | 6 | 0 | `SPK-58`, `WRT-38` |
+| 79 | 4 | [A long turn on any topic · A hundred-and-fifty-word opinion piece](../days/day-79-long-turn-any-topic/LESSON.md) | written | 6 | 0 | `SPK-59`, `WRT-39` |
+| 80 | 4 | [Gate: the recorded opinion with reasons · Gate: the two-paragraph argum…](../days/day-80-gate-opinion-with-reasons/LESSON.md) | written | 6 | 0 | `SPK-60`, `WRT-40` |
 | 81 | 5 | Formal and informal: the same request said two ways · Formal and inform… | not started | 0 | 0 | `SPK-61`, `WRT-41` |
 | 82 | 5 | Introducing yourself at work · A formal email: subject line, greeting,… | not started | 0 | 0 | `SPK-62`, `WRT-42` |
 | 83 | 5 | The job interview: tell me about yourself · A CV in plain sentences | not started | 0 | 0 | `SPK-63`, `WRT-43` |
@@ -146,6 +146,6 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 1 | 1–20 | Foundations: sounds and first sentences; letter… | 20/20 | 1/20 | Speaking: a recorded self-introduction of at least ten… |
 | 2 | 21–40 | Everyday life: shops, phones, plans; notes, mes… | 20/20 | 0/20 | Speaking: a recorded shop or café role-play, both voice… |
 | 3 | 41–60 | Telling what happened: the past, stories, compa… | 20/20 | 0/20 | Speaking: a recorded story from your life with a beginn… |
-| 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 10/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |
+| 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 20/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |
 | 5 | 81–100 | Formal and at work: interviews, meetings, compl… | 0/20 | 0/20 | Speaking: a recorded interview role-play answering five… |
 | 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 0/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |

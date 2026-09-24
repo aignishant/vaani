@@ -151,26 +151,26 @@ backlog item.
 | `GRM-37` | Grammar for writing | 4 | 69 | [~] written day 69, not in the ledger |
 | `SPK-52` | Speaking | 4 | 70 | [~] written day 70, not in the ledger |
 | `WRT-33` | Writing | 4 | 70 | [~] written day 70, not in the ledger |
-| `SND-19` | Sounds and rhythm | 4 | 71 | [ ] open |
-| `GRM-38` | Grammar for writing | 4 | 71 | [ ] open |
-| `SPK-53` | Speaking | 4 | 72 | [ ] open |
-| `WRT-34` | Writing | 4 | 72 | [ ] open |
-| `SPK-54` | Speaking | 4 | 73 | [ ] open |
-| `WRT-35` | Writing | 4 | 73 | [ ] open |
-| `SPK-55` | Speaking | 4 | 74 | [ ] open |
-| `GRM-39` | Grammar for writing | 4 | 74 | [ ] open |
-| `SPK-56` | Speaking | 4 | 75 | [ ] open |
-| `WRT-36` | Writing | 4 | 75 | [ ] open |
-| `SND-20` | Sounds and rhythm | 4 | 76 | [ ] open |
-| `GRM-40` | Grammar for writing | 4 | 76 | [ ] open |
-| `SPK-57` | Speaking | 4 | 77 | [ ] open |
-| `WRT-37` | Writing | 4 | 77 | [ ] open |
-| `SPK-58` | Speaking | 4 | 78 | [ ] open |
-| `WRT-38` | Writing | 4 | 78 | [ ] open |
-| `SPK-59` | Speaking | 4 | 79 | [ ] open |
-| `WRT-39` | Writing | 4 | 79 | [ ] open |
-| `SPK-60` | Speaking | 4 | 80 | [ ] open |
-| `WRT-40` | Writing | 4 | 80 | [ ] open |
+| `SND-19` | Sounds and rhythm | 4 | 71 | [~] written day 71, not in the ledger |
+| `GRM-38` | Grammar for writing | 4 | 71 | [~] written day 71, not in the ledger |
+| `SPK-53` | Speaking | 4 | 72 | [~] written day 72, not in the ledger |
+| `WRT-34` | Writing | 4 | 72 | [~] written day 72, not in the ledger |
+| `SPK-54` | Speaking | 4 | 73 | [~] written day 73, not in the ledger |
+| `WRT-35` | Writing | 4 | 73 | [~] written day 73, not in the ledger |
+| `SPK-55` | Speaking | 4 | 74 | [~] written day 74, not in the ledger |
+| `GRM-39` | Grammar for writing | 4 | 74 | [~] written day 74, not in the ledger |
+| `SPK-56` | Speaking | 4 | 75 | [~] written day 75, not in the ledger |
+| `WRT-36` | Writing | 4 | 75 | [~] written day 75, not in the ledger |
+| `SND-20` | Sounds and rhythm | 4 | 76 | [~] written day 76, not in the ledger |
+| `GRM-40` | Grammar for writing | 4 | 76 | [~] written day 76, not in the ledger |
+| `SPK-57` | Speaking | 4 | 77 | [~] written day 77, not in the ledger |
+| `WRT-37` | Writing | 4 | 77 | [~] written day 77, not in the ledger |
+| `SPK-58` | Speaking | 4 | 78 | [~] written day 78, not in the ledger |
+| `WRT-38` | Writing | 4 | 78 | [~] written day 78, not in the ledger |
+| `SPK-59` | Speaking | 4 | 79 | [~] written day 79, not in the ledger |
+| `WRT-39` | Writing | 4 | 79 | [~] written day 79, not in the ledger |
+| `SPK-60` | Speaking | 4 | 80 | [~] written day 80, not in the ledger |
+| `WRT-40` | Writing | 4 | 80 | [~] written day 80, not in the ledger |
 | `SPK-61` | Speaking | 5 | 81 | [ ] open |
 | `WRT-41` | Writing | 5 | 81 | [ ] open |
 | `SPK-62` | Speaking | 5 | 82 | [ ] open |

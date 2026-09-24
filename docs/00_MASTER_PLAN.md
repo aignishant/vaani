@@ -1,16 +1,16 @@
 ---
 plan: vaani
-version: "v1.8.0"
+version: "v1.10.0"
 topic: "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
 tracks: 4
 ids: 240
 days: 120
 phases: 6
 doc_architecture: "hub + parts/ (see §11)"
-amended: "2026-09-23"
+amended: "2026-09-24"
 ---
 
-# MASTER PLAN v1.8.0 — Vaani
+# MASTER PLAN v1.10.0 — Vaani
 
 ## Speaking and writing English from zero, one hour a day, with a recording and a written piece every day
 
@@ -509,7 +509,11 @@ fourth is days 37–46
 47–56 (`docs/adr/ADR-0008-fifth-batch-and-the-unfinished-day.md`); the sixth is days 57–70
 (`docs/adr/ADR-0009-sixth-batch-of-fourteen-across-the-phase-3-gate.md`); the seventh is days
 71–80, back at the cap of ten and ending on the phase 4 gate
-(`docs/adr/ADR-0010-seventh-batch-of-ten-to-the-phase-4-gate.md`).
+(`docs/adr/ADR-0010-seventh-batch-of-ten-to-the-phase-4-gate.md`); the eighth is days 81–84,
+four days opening phase 5 (`docs/adr/ADR-0011-eighth-batch-of-four-opening-phase-5.md`); the
+ninth is days 85–91, seven days written only after days 82–84 were finished under ADR-0011
+(`docs/adr/ADR-0012-ninth-batch-of-seven-after-finishing-the-eighth.md`). A batch
+under the cap is argued for like any other: its own ADR, and the question asked first.
 
 **The one exception to the cap.** The sixth batch is fourteen days, not ten. It is a named,
 one-time exception: the learner chose it after being told about the cap and being offered ten.
@@ -969,3 +973,5 @@ before any day or any code changes, and anything structural gets an ADR in `docs
 | v1.6.0 | 2026-09-23 | §9: a fifth batch of ten, days 47–56, and a batch is only started when the batch before it is whole (ADR-0008). See `docs/CHANGELOG_PLAN.md`. |
 | v1.7.0 | 2026-09-23 | §9: a sixth batch, days 57–70, carrying the phase 3 gate as a rehearsal; fourteen days, as a named one-time exception to the cap of ten chosen by the learner (ADR-0009). See `docs/CHANGELOG_PLAN.md`. |
 | v1.8.0 | 2026-09-23 | §9: a seventh batch, days 71–80, at the cap of ten, carrying the phase 4 gate as a rehearsal; the learner was offered fourteen again and chose ten (ADR-0010). See `docs/CHANGELOG_PLAN.md`. |
+| v1.9.0 | 2026-09-23 | §9: an eighth batch, days 81–84, four days opening phase 5 and crossing no gate; a batch under the cap still gets its own ADR and the question first (ADR-0011). See `docs/CHANGELOG_PLAN.md`. |
+| v1.10.0 | 2026-09-24 | §9: the eighth batch's unfinished days 82–84 finished under ADR-0011, then a ninth batch of seven, days 85–91, crossing no gate (ADR-0012). See `docs/CHANGELOG_PLAN.md`. |

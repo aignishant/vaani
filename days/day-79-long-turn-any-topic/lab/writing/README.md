@@ -1,0 +1,1 @@
+Put your four openings with budgets, the opinion piece with its margin counts and the disagreeing reader's answers, copy P labelled deliberate with its N/R table, and the repaired piece here as day-79.md, or a photo named day-79.jpg of your notebook page.

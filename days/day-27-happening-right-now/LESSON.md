@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "Saying what is happening around you right now · Describing a picture in a paragraph"
 ids: [SPK-17, WRT-12]
 kind: concept
-plan_version: "v1.8.0"
+plan_version: "v1.10.0"
 parts: 6
 generated: "2026-09-22"
 status: written

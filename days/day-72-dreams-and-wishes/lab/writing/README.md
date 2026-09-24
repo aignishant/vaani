@@ -1,0 +1,1 @@
+Put your four wish sentences and your hope sentence, the five-sentence plan, your wish paragraph with its verb check and the reader's answer, copy B labelled deliberate with its table, and the repaired paragraph here as day-72.md, or a photo named day-72.jpg of your notebook page.

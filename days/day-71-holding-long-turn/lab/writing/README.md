@@ -1,0 +1,1 @@
+Put your four conditional sentences, the one-line problem, the plan, your reply with its two-column check and the answer you got, copy B labelled deliberate with its table, and the repaired reply here as day-71.md, or a photo named day-71.jpg of your notebook page.

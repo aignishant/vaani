@@ -1,0 +1,1 @@
+Put your first marked second read, the real letter as a marked copy with its table and as a clean copy, the new page with find lists A (labelled deliberate) and B and the stranger's marks, and the comparison table here as day-78.md, or photos named day-78.jpg, day-78-2.jpg and so on.

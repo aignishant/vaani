@@ -5,7 +5,7 @@ phase_name: "Opinions, plans and explaining; arguing on the page"
 title: "Agreeing and disagreeing without offending · An opinion paragraph with a reason"
 ids: [SPK-45, WRT-29]
 kind: concept
-plan_version: "v1.8.0"
+plan_version: "v1.10.0"
 parts: 6
 generated: "2026-09-23"
 status: written

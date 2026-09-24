@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "What you did yesterday · Past simple: the regular -ed"
 ids: [SPK-28, GRM-23]
 kind: concept
-plan_version: "v1.8.0"
+plan_version: "v1.10.0"
 parts: 6
 generated: "2026-09-23"
 status: written

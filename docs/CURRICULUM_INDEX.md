@@ -29,8 +29,8 @@ bug.
 | `SND-16` | [52](../days/day-52-question-statement-intonation/LESSON.md) | Question intonation against statement intonation · Comparatives: -er and more |
 | `SND-17` | [57](../days/day-57-pausing-right-place/LESSON.md) | Pausing in the right place · One idea per paragraph, and where the paragraph breaks |
 | `SND-18` | [65](../days/day-65-polite-intonation/LESSON.md) | Polite intonation: sounding kind, not cold · Should, must, have to: advice and rules on paper |
-| `SND-19` | [71](../days/day-71/LESSON.md) | Holding a long turn: well, so, the thing is · Second conditional: if I were you |
-| `SND-20` | [76](../days/day-76/LESSON.md) | Speaking clearly on a bad line · Reported speech: she said that she was |
+| `SND-19` | [71](../days/day-71-holding-long-turn/LESSON.md) | Holding a long turn: well, so, the thing is · Second conditional: if I were you |
+| `SND-20` | [76](../days/day-76-speaking-on-bad-line/LESSON.md) | Speaking clearly on a bad line · Reported speech: she said that she was |
 | `SND-21` | [85](../days/day-85/LESSON.md) | Sounding confident: volume, pace and the pause · Present perfect against past simple: which one… |
 | `SND-22` | [91](../days/day-91/LESSON.md) | Stress in long words: PHOtograph, phoTOgraphy, photoGRAPHic · The passive in formal writing |
 | `SND-23` | [97](../days/day-97/LESSON.md) | Numbers, dates and reference codes said clearly · Instructions and rules on paper |
@@ -92,14 +92,14 @@ bug.
 | `SPK-50` | [68](../days/day-68-what-might-happen/LESSON.md) | Talking about what might happen · Writing a plan step by step |
 | `SPK-51` | [69](../days/day-69-describing-a-process/LESSON.md) | Describing a process aloud · The passive: it is made, it was built |
 | `SPK-52` | [70](../days/day-70-explaining-how-it-works/LESSON.md) | Explaining how something works to someone who doesn't know · Explaining a process in writing |
-| `SPK-53` | [72](../days/day-72/LESSON.md) | Dreams and wishes: if I could · A wish paragraph |
-| `SPK-54` | [73](../days/day-73/LESSON.md) | Reasons for and reasons against · For and against in two paragraphs |
-| `SPK-55` | [74](../days/day-74/LESSON.md) | Problems in your city and what should change · Relative clauses: who, which, that |
-| `SPK-56` | [75](../days/day-75/LESSON.md) | Describing a thing when you don't know its name · Defining and describing things on paper |
-| `SPK-57` | [77](../days/day-77/LESSON.md) | Reporting what people said · Summarising a conversation in writing |
-| `SPK-58` | [78](../days/day-78/LESSON.md) | Interrupting politely and getting back on track · Editing your own writing: the second read |
-| `SPK-59` | [79](../days/day-79/LESSON.md) | A long turn on any topic · A hundred-and-fifty-word opinion piece |
-| `SPK-60` | [80](../days/day-80/LESSON.md) | Gate: the recorded opinion with reasons · Gate: the two-paragraph argument |
+| `SPK-53` | [72](../days/day-72-dreams-and-wishes/LESSON.md) | Dreams and wishes: if I could · A wish paragraph |
+| `SPK-54` | [73](../days/day-73-reasons-for-and-against/LESSON.md) | Reasons for and reasons against · For and against in two paragraphs |
+| `SPK-55` | [74](../days/day-74-problems-in-your-city/LESSON.md) | Problems in your city and what should change · Relative clauses: who, which, that |
+| `SPK-56` | [75](../days/day-75-thing-without-name/LESSON.md) | Describing a thing when you don't know its name · Defining and describing things on paper |
+| `SPK-57` | [77](../days/day-77-reporting-what-people-said/LESSON.md) | Reporting what people said · Summarising a conversation in writing |
+| `SPK-58` | [78](../days/day-78-interrupting-politely/LESSON.md) | Interrupting politely and getting back on track · Editing your own writing: the second read |
+| `SPK-59` | [79](../days/day-79-long-turn-any-topic/LESSON.md) | A long turn on any topic · A hundred-and-fifty-word opinion piece |
+| `SPK-60` | [80](../days/day-80-gate-opinion-with-reasons/LESSON.md) | Gate: the recorded opinion with reasons · Gate: the two-paragraph argument |
 | `SPK-61` | [81](../days/day-81/LESSON.md) | Formal and informal: the same request said two ways · Formal and informal on paper: the same me… |
 | `SPK-62` | [82](../days/day-82/LESSON.md) | Introducing yourself at work · A formal email: subject line, greeting, sign-off |
 | `SPK-63` | [83](../days/day-83/LESSON.md) | The job interview: tell me about yourself · A CV in plain sentences |
@@ -178,9 +178,9 @@ bug.
 | `GRM-35` | [65](../days/day-65-polite-intonation/LESSON.md) | Polite intonation: sounding kind, not cold · Should, must, have to: advice and rules on paper |
 | `GRM-36` | [67](../days/day-67-suggestions-and-choosing/LESSON.md) | Making suggestions and choosing between them · First conditional: if it rains, we'll stay in |
 | `GRM-37` | [69](../days/day-69-describing-a-process/LESSON.md) | Describing a process aloud · The passive: it is made, it was built |
-| `GRM-38` | [71](../days/day-71/LESSON.md) | Holding a long turn: well, so, the thing is · Second conditional: if I were you |
-| `GRM-39` | [74](../days/day-74/LESSON.md) | Problems in your city and what should change · Relative clauses: who, which, that |
-| `GRM-40` | [76](../days/day-76/LESSON.md) | Speaking clearly on a bad line · Reported speech: she said that she was |
+| `GRM-38` | [71](../days/day-71-holding-long-turn/LESSON.md) | Holding a long turn: well, so, the thing is · Second conditional: if I were you |
+| `GRM-39` | [74](../days/day-74-problems-in-your-city/LESSON.md) | Problems in your city and what should change · Relative clauses: who, which, that |
+| `GRM-40` | [76](../days/day-76-speaking-on-bad-line/LESSON.md) | Speaking clearly on a bad line · Reported speech: she said that she was |
 | `GRM-41` | [85](../days/day-85/LESSON.md) | Sounding confident: volume, pace and the pause · Present perfect against past simple: which one… |
 | `GRM-42` | [89](../days/day-89/LESSON.md) | Presenting: opening lines and closing lines · However, therefore, although: formal linking words |
 | `GRM-43` | [91](../days/day-91/LESSON.md) | Stress in long words: PHOtograph, phoTOgraphy, photoGRAPHic · The passive in formal writing |
@@ -226,13 +226,13 @@ bug.
 | `WRT-31` | [66](../days/day-66-advice-to-a-friend/LESSON.md) | Giving advice to a friend · A reply to a friend's problem |
 | `WRT-32` | [68](../days/day-68-what-might-happen/LESSON.md) | Talking about what might happen · Writing a plan step by step |
 | `WRT-33` | [70](../days/day-70-explaining-how-it-works/LESSON.md) | Explaining how something works to someone who doesn't know · Explaining a process in writing |
-| `WRT-34` | [72](../days/day-72/LESSON.md) | Dreams and wishes: if I could · A wish paragraph |
-| `WRT-35` | [73](../days/day-73/LESSON.md) | Reasons for and reasons against · For and against in two paragraphs |
-| `WRT-36` | [75](../days/day-75/LESSON.md) | Describing a thing when you don't know its name · Defining and describing things on paper |
-| `WRT-37` | [77](../days/day-77/LESSON.md) | Reporting what people said · Summarising a conversation in writing |
-| `WRT-38` | [78](../days/day-78/LESSON.md) | Interrupting politely and getting back on track · Editing your own writing: the second read |
-| `WRT-39` | [79](../days/day-79/LESSON.md) | A long turn on any topic · A hundred-and-fifty-word opinion piece |
-| `WRT-40` | [80](../days/day-80/LESSON.md) | Gate: the recorded opinion with reasons · Gate: the two-paragraph argument |
+| `WRT-34` | [72](../days/day-72-dreams-and-wishes/LESSON.md) | Dreams and wishes: if I could · A wish paragraph |
+| `WRT-35` | [73](../days/day-73-reasons-for-and-against/LESSON.md) | Reasons for and reasons against · For and against in two paragraphs |
+| `WRT-36` | [75](../days/day-75-thing-without-name/LESSON.md) | Describing a thing when you don't know its name · Defining and describing things on paper |
+| `WRT-37` | [77](../days/day-77-reporting-what-people-said/LESSON.md) | Reporting what people said · Summarising a conversation in writing |
+| `WRT-38` | [78](../days/day-78-interrupting-politely/LESSON.md) | Interrupting politely and getting back on track · Editing your own writing: the second read |
+| `WRT-39` | [79](../days/day-79-long-turn-any-topic/LESSON.md) | A long turn on any topic · A hundred-and-fifty-word opinion piece |
+| `WRT-40` | [80](../days/day-80-gate-opinion-with-reasons/LESSON.md) | Gate: the recorded opinion with reasons · Gate: the two-paragraph argument |
 | `WRT-41` | [81](../days/day-81/LESSON.md) | Formal and informal: the same request said two ways · Formal and informal on paper: the same me… |
 | `WRT-42` | [82](../days/day-82/LESSON.md) | Introducing yourself at work · A formal email: subject line, greeting, sign-off |
 | `WRT-43` | [83](../days/day-83/LESSON.md) | The job interview: tell me about yourself · A CV in plain sentences |

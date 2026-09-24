@@ -1,0 +1,1 @@
+Put your three direct and reported pairs, the direct words, the real message with its change check and who-what-when answers, copy F labelled deliberate with its table, and the repaired message here as day-76.md, or a photo named day-76.jpg of your notebook page.
