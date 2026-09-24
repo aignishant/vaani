@@ -33,7 +33,7 @@ bug.
 | `SND-20` | [76](../days/day-76-speaking-on-bad-line/LESSON.md) | Speaking clearly on a bad line · Reported speech: she said that she was |
 | `SND-21` | [85](../days/day-85-sounding-confident/LESSON.md) | Sounding confident: volume, pace and the pause · Present perfect against past simple: which one… |
 | `SND-22` | [91](../days/day-91-stress-in-long-words/LESSON.md) | Stress in long words: PHOtograph, phoTOgraphy, photoGRAPHic · The passive in formal writing |
-| `SND-23` | [97](../days/day-97/LESSON.md) | Numbers, dates and reference codes said clearly · Instructions and rules on paper |
+| `SND-23` | [97](../days/day-97-numbers-codes-clearly/LESSON.md) | Numbers, dates and reference codes said clearly · Instructions and rules on paper |
 | `SND-24` | [104](../days/day-104/LESSON.md) | Connected speech: gonna, wanna, dunno — hearing it and choosing it · Third and mixed conditiona… |
 
 ## Speaking (`SPK-`) — 96 IDs
@@ -109,15 +109,15 @@ bug.
 | `SPK-67` | [88](../days/day-88-short-update-on-work/LESSON.md) | Giving a short update on your work · A status update email |
 | `SPK-68` | [89](../days/day-89-presenting-opening-closing/LESSON.md) | Presenting: opening lines and closing lines · However, therefore, although: formal linking words |
 | `SPK-69` | [90](../days/day-90-explaining-chart-or-picture/LESSON.md) | Presenting: explaining a chart or a picture · Describing numbers and trends in words |
-| `SPK-70` | [92](../days/day-92/LESSON.md) | Negotiating and asking for a better deal · A request email that gets a yes |
-| `SPK-71` | [93](../days/day-93/LESSON.md) | Saying no politely · Declining in writing |
-| `SPK-72` | [94](../days/day-94/LESSON.md) | Talking to a landlord, a bank or an office · Filling in forms and applications |
-| `SPK-73` | [95](../days/day-95/LESSON.md) | Dealing with an angry customer · Replying to a complaint |
-| `SPK-74` | [96](../days/day-96/LESSON.md) | Talking about health, safety and rules · Modals of obligation in written rules |
-| `SPK-75` | [98](../days/day-98/LESSON.md) | Explaining a technical thing to a beginner · Explaining a technical thing in writing |
-| `SPK-76` | [99](../days/day-99/LESSON.md) | A full talk with a structure: opening, three points, close · An essay plan |
-| `SPK-77` | [100](../days/day-100/LESSON.md) | Gate: the recorded interview role-play · Gate: a formal email and a cover letter |
-| `SPK-78` | [101](../days/day-101/LESSON.md) | Fluency: speaking without translating in your head · The essay introduction |
+| `SPK-70` | [92](../days/day-92-negotiating-better-deal/LESSON.md) | Negotiating and asking for a better deal · A request email that gets a yes |
+| `SPK-71` | [93](../days/day-93-saying-no-politely/LESSON.md) | Saying no politely · Declining in writing |
+| `SPK-72` | [94](../days/day-94-landlord-bank-office/LESSON.md) | Talking to a landlord, a bank or an office · Filling in forms and applications |
+| `SPK-73` | [95](../days/day-95-angry-customer/LESSON.md) | Dealing with an angry customer · Replying to a complaint |
+| `SPK-74` | [96](../days/day-96-health-safety-rules/LESSON.md) | Talking about health, safety and rules · Modals of obligation in written rules |
+| `SPK-75` | [98](../days/day-98-explaining-technical-thing/LESSON.md) | Explaining a technical thing to a beginner · Explaining a technical thing in writing |
+| `SPK-76` | [99](../days/day-99-full-talk-structure/LESSON.md) | A full talk with a structure: opening, three points, close · An essay plan |
+| `SPK-77` | [100](../days/day-100-gate-interview-and-letter/LESSON.md) | Gate: the recorded interview role-play · Gate: a formal email and a cover letter |
+| `SPK-78` | [101](../days/day-101-speaking-without-translating/LESSON.md) | Fluency: speaking without translating in your head · The essay introduction |
 | `SPK-79` | [102](../days/day-102/LESSON.md) | Idioms you actually hear, and the ones to leave alone · The body paragraph |
 | `SPK-80` | [103](../days/day-103/LESSON.md) | Telling a joke or an anecdote · The conclusion |
 | `SPK-81` | [105](../days/day-105/LESSON.md) | Debating: making a point and answering one · An argumentative essay |
@@ -184,7 +184,7 @@ bug.
 | `GRM-41` | [85](../days/day-85-sounding-confident/LESSON.md) | Sounding confident: volume, pace and the pause · Present perfect against past simple: which one… |
 | `GRM-42` | [89](../days/day-89-presenting-opening-closing/LESSON.md) | Presenting: opening lines and closing lines · However, therefore, although: formal linking words |
 | `GRM-43` | [91](../days/day-91-stress-in-long-words/LESSON.md) | Stress in long words: PHOtograph, phoTOgraphy, photoGRAPHic · The passive in formal writing |
-| `GRM-44` | [96](../days/day-96/LESSON.md) | Talking about health, safety and rules · Modals of obligation in written rules |
+| `GRM-44` | [96](../days/day-96-health-safety-rules/LESSON.md) | Talking about health, safety and rules · Modals of obligation in written rules |
 | `GRM-45` | [104](../days/day-104/LESSON.md) | Connected speech: gonna, wanna, dunno — hearing it and choosing it · Third and mixed conditiona… |
 | `GRM-46` | [109](../days/day-109/LESSON.md) | Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs in writing, and when to… |
 | `GRM-47` | [110](../days/day-110/LESSON.md) | Hedging: sort of, I suppose, it depends · Punctuation: commas, colons, semicolons |
@@ -241,15 +241,15 @@ bug.
 | `WRT-46` | [87](../days/day-87-in-a-meeting/LESSON.md) | In a meeting: agreeing, asking, summarising · Meeting notes someone else can use |
 | `WRT-47` | [88](../days/day-88-short-update-on-work/LESSON.md) | Giving a short update on your work · A status update email |
 | `WRT-48` | [90](../days/day-90-explaining-chart-or-picture/LESSON.md) | Presenting: explaining a chart or a picture · Describing numbers and trends in words |
-| `WRT-49` | [92](../days/day-92/LESSON.md) | Negotiating and asking for a better deal · A request email that gets a yes |
-| `WRT-50` | [93](../days/day-93/LESSON.md) | Saying no politely · Declining in writing |
-| `WRT-51` | [94](../days/day-94/LESSON.md) | Talking to a landlord, a bank or an office · Filling in forms and applications |
-| `WRT-52` | [95](../days/day-95/LESSON.md) | Dealing with an angry customer · Replying to a complaint |
-| `WRT-53` | [97](../days/day-97/LESSON.md) | Numbers, dates and reference codes said clearly · Instructions and rules on paper |
-| `WRT-54` | [98](../days/day-98/LESSON.md) | Explaining a technical thing to a beginner · Explaining a technical thing in writing |
-| `WRT-55` | [99](../days/day-99/LESSON.md) | A full talk with a structure: opening, three points, close · An essay plan |
-| `WRT-56` | [100](../days/day-100/LESSON.md) | Gate: the recorded interview role-play · Gate: a formal email and a cover letter |
-| `WRT-57` | [101](../days/day-101/LESSON.md) | Fluency: speaking without translating in your head · The essay introduction |
+| `WRT-49` | [92](../days/day-92-negotiating-better-deal/LESSON.md) | Negotiating and asking for a better deal · A request email that gets a yes |
+| `WRT-50` | [93](../days/day-93-saying-no-politely/LESSON.md) | Saying no politely · Declining in writing |
+| `WRT-51` | [94](../days/day-94-landlord-bank-office/LESSON.md) | Talking to a landlord, a bank or an office · Filling in forms and applications |
+| `WRT-52` | [95](../days/day-95-angry-customer/LESSON.md) | Dealing with an angry customer · Replying to a complaint |
+| `WRT-53` | [97](../days/day-97-numbers-codes-clearly/LESSON.md) | Numbers, dates and reference codes said clearly · Instructions and rules on paper |
+| `WRT-54` | [98](../days/day-98-explaining-technical-thing/LESSON.md) | Explaining a technical thing to a beginner · Explaining a technical thing in writing |
+| `WRT-55` | [99](../days/day-99-full-talk-structure/LESSON.md) | A full talk with a structure: opening, three points, close · An essay plan |
+| `WRT-56` | [100](../days/day-100-gate-interview-and-letter/LESSON.md) | Gate: the recorded interview role-play · Gate: a formal email and a cover letter |
+| `WRT-57` | [101](../days/day-101-speaking-without-translating/LESSON.md) | Fluency: speaking without translating in your head · The essay introduction |
 | `WRT-58` | [102](../days/day-102/LESSON.md) | Idioms you actually hear, and the ones to leave alone · The body paragraph |
 | `WRT-59` | [103](../days/day-103/LESSON.md) | Telling a joke or an anecdote · The conclusion |
 | `WRT-60` | [105](../days/day-105/LESSON.md) | Debating: making a point and answering one · An argumentative essay |

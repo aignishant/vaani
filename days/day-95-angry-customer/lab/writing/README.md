@@ -1,0 +1,1 @@
+Put your first two paragraphs, the complaint in the customer's words with its facts table, your full reply with its read-it test, copy D labelled deliberate with its come-back table, and any repair here as day-95.md, or a photo named day-95.jpg of your notebook page.

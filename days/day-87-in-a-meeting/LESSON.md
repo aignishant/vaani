@@ -5,7 +5,7 @@ phase_name: "Formal and at work: interviews, meetings, complaints; formal letter
 title: "In a meeting: agreeing, asking, summarising · Meeting notes someone else can use"
 ids: [SPK-66, WRT-46]
 kind: concept
-plan_version: "v1.10.0"
+plan_version: "v1.11.0"
 parts: 6
 generated: "2026-09-24"
 status: written

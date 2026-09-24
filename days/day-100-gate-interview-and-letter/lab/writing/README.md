@@ -1,0 +1,1 @@
+Put your two-piece table, both drafts with the four-pass table, the fair-copy formal email and the fair-copy cover letter with their word counts and what each reader said, copy B labelled deliberate with the gate-check tables, and any repair here as day-100.md, or a photo named day-100.jpg of your notebook page.

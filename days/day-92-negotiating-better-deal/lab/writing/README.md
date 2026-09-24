@@ -1,0 +1,1 @@
+Put your subject line and first paragraph, your worry list and real request email with its ask-and-block test, copy B labelled deliberate with its test table, and any repair here as day-92.md, or a photo named day-92.jpg of your notebook page.

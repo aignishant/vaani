@@ -1,0 +1,1 @@
+Put your five boxes, your instruction list, the filled real form with its clerk-check table, copy W labelled deliberate with its sent-back table, and any repair here as day-94.md, or a photo named day-94.jpg of your notebook page. Write private numbers as XXXX.

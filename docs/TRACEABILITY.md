@@ -193,26 +193,26 @@ backlog item.
 | `WRT-48` | Writing | 5 | 90 | [~] written day 90, not in the ledger |
 | `SND-22` | Sounds and rhythm | 5 | 91 | [~] written day 91, not in the ledger |
 | `GRM-43` | Grammar for writing | 5 | 91 | [~] written day 91, not in the ledger |
-| `SPK-70` | Speaking | 5 | 92 | [ ] open |
-| `WRT-49` | Writing | 5 | 92 | [ ] open |
-| `SPK-71` | Speaking | 5 | 93 | [ ] open |
-| `WRT-50` | Writing | 5 | 93 | [ ] open |
-| `SPK-72` | Speaking | 5 | 94 | [ ] open |
-| `WRT-51` | Writing | 5 | 94 | [ ] open |
-| `SPK-73` | Speaking | 5 | 95 | [ ] open |
-| `WRT-52` | Writing | 5 | 95 | [ ] open |
-| `SPK-74` | Speaking | 5 | 96 | [ ] open |
-| `GRM-44` | Grammar for writing | 5 | 96 | [ ] open |
-| `SND-23` | Sounds and rhythm | 5 | 97 | [ ] open |
-| `WRT-53` | Writing | 5 | 97 | [ ] open |
-| `SPK-75` | Speaking | 5 | 98 | [ ] open |
-| `WRT-54` | Writing | 5 | 98 | [ ] open |
-| `SPK-76` | Speaking | 5 | 99 | [ ] open |
-| `WRT-55` | Writing | 5 | 99 | [ ] open |
-| `SPK-77` | Speaking | 5 | 100 | [ ] open |
-| `WRT-56` | Writing | 5 | 100 | [ ] open |
-| `SPK-78` | Speaking | 6 | 101 | [ ] open |
-| `WRT-57` | Writing | 6 | 101 | [ ] open |
+| `SPK-70` | Speaking | 5 | 92 | [~] written day 92, not in the ledger |
+| `WRT-49` | Writing | 5 | 92 | [~] written day 92, not in the ledger |
+| `SPK-71` | Speaking | 5 | 93 | [~] written day 93, not in the ledger |
+| `WRT-50` | Writing | 5 | 93 | [~] written day 93, not in the ledger |
+| `SPK-72` | Speaking | 5 | 94 | [~] written day 94, not in the ledger |
+| `WRT-51` | Writing | 5 | 94 | [~] written day 94, not in the ledger |
+| `SPK-73` | Speaking | 5 | 95 | [~] written day 95, not in the ledger |
+| `WRT-52` | Writing | 5 | 95 | [~] written day 95, not in the ledger |
+| `SPK-74` | Speaking | 5 | 96 | [~] written day 96, not in the ledger |
+| `GRM-44` | Grammar for writing | 5 | 96 | [~] written day 96, not in the ledger |
+| `SND-23` | Sounds and rhythm | 5 | 97 | [~] written day 97, not in the ledger |
+| `WRT-53` | Writing | 5 | 97 | [~] written day 97, not in the ledger |
+| `SPK-75` | Speaking | 5 | 98 | [~] written day 98, not in the ledger |
+| `WRT-54` | Writing | 5 | 98 | [~] written day 98, not in the ledger |
+| `SPK-76` | Speaking | 5 | 99 | [~] written day 99, not in the ledger |
+| `WRT-55` | Writing | 5 | 99 | [~] written day 99, not in the ledger |
+| `SPK-77` | Speaking | 5 | 100 | [~] written day 100, not in the ledger |
+| `WRT-56` | Writing | 5 | 100 | [~] written day 100, not in the ledger |
+| `SPK-78` | Speaking | 6 | 101 | [~] written day 101, not in the ledger |
+| `WRT-57` | Writing | 6 | 101 | [~] written day 101, not in the ledger |
 | `SPK-79` | Speaking | 6 | 102 | [ ] open |
 | `WRT-58` | Writing | 6 | 102 | [ ] open |
 | `SPK-80` | Speaking | 6 | 103 | [ ] open |

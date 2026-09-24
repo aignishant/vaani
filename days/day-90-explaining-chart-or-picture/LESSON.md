@@ -5,7 +5,7 @@ phase_name: "Formal and at work: interviews, meetings, complaints; formal letter
 title: "Presenting: explaining a chart or a picture · Describing numbers and trends in words"
 ids: [SPK-69, WRT-48]
 kind: concept
-plan_version: "v1.10.0"
+plan_version: "v1.11.0"
 parts: 6
 generated: "2026-09-24"
 status: written

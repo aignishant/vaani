@@ -1,0 +1,1 @@
+Put your question and answer sentence, your brainstorm, the half-page plan with its predict-test table, copy L labelled deliberate with its which-side table, and any repair here as day-99.md, or a photo named day-99.jpg of your notebook page.

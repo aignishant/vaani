@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Talking about your daily routine · Present simple: the -s and always, usually, never"
 ids: [SPK-07, GRM-10]
 kind: concept
-plan_version: "v1.10.0"
+plan_version: "v1.11.0"
 parts: 6
 generated: "2026-09-22"
 status: written

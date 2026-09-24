@@ -1,0 +1,1 @@
+Put your two opening sentences, your term list, the explanation with its circled names and three-question table, copy V labelled deliberate with its count-the-things table, and any repair here as day-98.md, or a photo named day-98.jpg of your notebook page.

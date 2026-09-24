@@ -1,0 +1,1 @@
+Put your four rules, your sorting table, the rules sheet with its mark-it table, copy S labelled deliberate with its skip-test table, and any repair here as day-96.md, or a photo named day-96.jpg of your notebook page.

@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "Question intonation against statement intonation · Comparatives: -er and more"
 ids: [SND-16, GRM-29]
 kind: concept
-plan_version: "v1.10.0"
+plan_version: "v1.11.0"
 parts: 6
 generated: "2026-09-23"
 status: written

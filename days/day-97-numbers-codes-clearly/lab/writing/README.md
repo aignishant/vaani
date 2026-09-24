@@ -1,0 +1,1 @@
+Put your title, warning and first steps, the full instruction sheet with its do-it table and rewrite, copy P labelled deliberate with its first-mistake table, and any repair here as day-97.md, or a photo named day-97.jpg of your notebook page.

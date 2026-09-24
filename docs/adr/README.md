@@ -47,3 +47,6 @@ justification written after the fact, not a decision record.
 | [0008](ADR-0008-fifth-batch-and-the-unfinished-day.md) | A fifth batch of ten, days 47–56, after finishing the day the fourth batch left half-written | 2026-09-23 | accepted |
 | [0009](ADR-0009-sixth-batch-of-fourteen-across-the-phase-3-gate.md) | A sixth batch of fourteen, days 57–70, carrying the phase 3 gate and widening the cap once | 2026-09-23 | accepted |
 | [0010](ADR-0010-seventh-batch-of-ten-to-the-phase-4-gate.md) | A seventh batch of ten, days 71–80, back at the cap and ending on the phase 4 gate | 2026-09-23 | accepted |
+| [0011](ADR-0011-eighth-batch-of-four-opening-phase-5.md) | An eighth batch of four, days 81–84, opening phase 5 | 2026-09-23 | accepted |
+| [0012](ADR-0012-ninth-batch-of-seven-after-finishing-the-eighth.md) | Days 82–84 finished under ADR-0011, then a ninth batch of seven, days 85–91 | 2026-09-24 | accepted |
+| [0013](ADR-0013-tenth-batch-of-ten-across-the-phase-5-gate.md) | A tenth batch of ten, days 92–101, carrying the phase 5 gate as a rehearsal and opening phase 6 | 2026-09-24 | accepted |

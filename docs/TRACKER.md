@@ -9,9 +9,9 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | | Count | Of plan |
 | --- | --- | --- |
 | Days in the plan | **120** | 100% |
-| Days written | **91** | 75.8% |
+| Days written | **101** | 84.2% |
 | Days complete | **1** | 0.8% |
-| Subtopic documents | **547** | — |
+| Subtopic documents | **608** | — |
 | Source documents | **0** | — |
 
 ## Every day
@@ -109,16 +109,16 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 89 | 5 | [Presenting: opening lines and closing lines · However, therefore, altho…](../days/day-89-presenting-opening-closing/LESSON.md) | written | 7 | 0 | `SPK-68`, `GRM-42` |
 | 90 | 5 | [Presenting: explaining a chart or a picture · Describing numbers and tr…](../days/day-90-explaining-chart-or-picture/LESSON.md) | written | 6 | 0 | `SPK-69`, `WRT-48` |
 | 91 | 5 | [Stress in long words: PHOtograph, phoTOgraphy, photoGRAPHic · The passi…](../days/day-91-stress-in-long-words/LESSON.md) | written | 6 | 0 | `SND-22`, `GRM-43` |
-| 92 | 5 | Negotiating and asking for a better deal · A request email that gets a… | not started | 0 | 0 | `SPK-70`, `WRT-49` |
-| 93 | 5 | Saying no politely · Declining in writing | not started | 0 | 0 | `SPK-71`, `WRT-50` |
-| 94 | 5 | Talking to a landlord, a bank or an office · Filling in forms and appli… | not started | 0 | 0 | `SPK-72`, `WRT-51` |
-| 95 | 5 | Dealing with an angry customer · Replying to a complaint | not started | 0 | 0 | `SPK-73`, `WRT-52` |
-| 96 | 5 | Talking about health, safety and rules · Modals of obligation in writte… | not started | 0 | 0 | `SPK-74`, `GRM-44` |
-| 97 | 5 | Numbers, dates and reference codes said clearly · Instructions and rule… | not started | 0 | 0 | `SND-23`, `WRT-53` |
-| 98 | 5 | Explaining a technical thing to a beginner · Explaining a technical thi… | not started | 0 | 0 | `SPK-75`, `WRT-54` |
-| 99 | 5 | A full talk with a structure: opening, three points, close · An essay p… | not started | 0 | 0 | `SPK-76`, `WRT-55` |
-| 100 | 5 | Gate: the recorded interview role-play · Gate: a formal email and a cov… | not started | 0 | 0 | `SPK-77`, `WRT-56` |
-| 101 | 6 | Fluency: speaking without translating in your head · The essay introduc… | not started | 0 | 0 | `SPK-78`, `WRT-57` |
+| 92 | 5 | [Negotiating and asking for a better deal · A request email that gets a…](../days/day-92-negotiating-better-deal/LESSON.md) | written | 6 | 0 | `SPK-70`, `WRT-49` |
+| 93 | 5 | [Saying no politely · Declining in writing](../days/day-93-saying-no-politely/LESSON.md) | written | 6 | 0 | `SPK-71`, `WRT-50` |
+| 94 | 5 | [Talking to a landlord, a bank or an office · Filling in forms and appli…](../days/day-94-landlord-bank-office/LESSON.md) | written | 6 | 0 | `SPK-72`, `WRT-51` |
+| 95 | 5 | [Dealing with an angry customer · Replying to a complaint](../days/day-95-angry-customer/LESSON.md) | written | 6 | 0 | `SPK-73`, `WRT-52` |
+| 96 | 5 | [Talking about health, safety and rules · Modals of obligation in writte…](../days/day-96-health-safety-rules/LESSON.md) | written | 6 | 0 | `SPK-74`, `GRM-44` |
+| 97 | 5 | [Numbers, dates and reference codes said clearly · Instructions and rule…](../days/day-97-numbers-codes-clearly/LESSON.md) | written | 7 | 0 | `SND-23`, `WRT-53` |
+| 98 | 5 | [Explaining a technical thing to a beginner · Explaining a technical thi…](../days/day-98-explaining-technical-thing/LESSON.md) | written | 6 | 0 | `SPK-75`, `WRT-54` |
+| 99 | 5 | [A full talk with a structure: opening, three points, close · An essay p…](../days/day-99-full-talk-structure/LESSON.md) | written | 6 | 0 | `SPK-76`, `WRT-55` |
+| 100 | 5 | [Gate: the recorded interview role-play · Gate: a formal email and a cov…](../days/day-100-gate-interview-and-letter/LESSON.md) | written | 6 | 0 | `SPK-77`, `WRT-56` |
+| 101 | 6 | [Fluency: speaking without translating in your head · The essay introduc…](../days/day-101-speaking-without-translating/LESSON.md) | written | 6 | 0 | `SPK-78`, `WRT-57` |
 | 102 | 6 | Idioms you actually hear, and the ones to leave alone · The body paragr… | not started | 0 | 0 | `SPK-79`, `WRT-58` |
 | 103 | 6 | Telling a joke or an anecdote · The conclusion | not started | 0 | 0 | `SPK-80`, `WRT-59` |
 | 104 | 6 | Connected speech: gonna, wanna, dunno — hearing it and choosing it · Th… | not started | 0 | 0 | `SND-24`, `GRM-45` |
@@ -147,5 +147,5 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 2 | 21–40 | Everyday life: shops, phones, plans; notes, mes… | 20/20 | 0/20 | Speaking: a recorded shop or café role-play, both voice… |
 | 3 | 41–60 | Telling what happened: the past, stories, compa… | 20/20 | 0/20 | Speaking: a recorded story from your life with a beginn… |
 | 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 20/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |
-| 5 | 81–100 | Formal and at work: interviews, meetings, compl… | 11/20 | 0/20 | Speaking: a recorded interview role-play answering five… |
-| 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 0/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |
+| 5 | 81–100 | Formal and at work: interviews, meetings, compl… | 20/20 | 0/20 | Speaking: a recorded interview role-play answering five… |
+| 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 1/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |

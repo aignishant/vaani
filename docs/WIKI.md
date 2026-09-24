@@ -99,3 +99,13 @@ it. Cross-day lookups live in `wiki/ENTITIES.md`.
 | [89](wiki/day-89.md) | Presenting: opening lines and closing lines · However, therefore, although: formal… | SPK-68, GRM-42 | 7 | — |
 | [90](wiki/day-90.md) | Presenting: explaining a chart or a picture · Describing numbers and trends in words | SPK-69, WRT-48 | 6 | — |
 | [91](wiki/day-91.md) | Stress in long words: PHOtograph, phoTOgraphy, photoGRAPHic · The passive in formal… | SND-22, GRM-43 | 6 | — |
+| [92](wiki/day-92.md) | Negotiating and asking for a better deal · A request email that gets a yes | SPK-70, WRT-49 | 6 | — |
+| [93](wiki/day-93.md) | Saying no politely · Declining in writing | SPK-71, WRT-50 | 6 | — |
+| [94](wiki/day-94.md) | Talking to a landlord, a bank or an office · Filling in forms and applications | SPK-72, WRT-51 | 6 | — |
+| [95](wiki/day-95.md) | Dealing with an angry customer · Replying to a complaint | SPK-73, WRT-52 | 6 | — |
+| [96](wiki/day-96.md) | Talking about health, safety and rules · Modals of obligation in written rules | SPK-74, GRM-44 | 6 | — |
+| [97](wiki/day-97.md) | Numbers, dates and reference codes said clearly · Instructions and rules on paper | SND-23, WRT-53 | 7 | — |
+| [98](wiki/day-98.md) | Explaining a technical thing to a beginner · Explaining a technical thing in writing | SPK-75, WRT-54 | 6 | — |
+| [99](wiki/day-99.md) | A full talk with a structure: opening, three points, close · An essay plan | SPK-76, WRT-55 | 6 | — |
+| [100](wiki/day-100.md) | Gate: the recorded interview role-play · Gate: a formal email and a cover letter | SPK-77, WRT-56 | 6 | — |
+| [101](wiki/day-101.md) | Fluency: speaking without translating in your head · The essay introduction | SPK-78, WRT-57 | 6 | — |

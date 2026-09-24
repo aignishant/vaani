@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Numbers, times and dates out loud · Writing the date, the time and a one-line diary entry"
 ids: [SPK-03, WRT-04]
 kind: concept
-plan_version: "v1.10.0"
+plan_version: "v1.11.0"
 parts: 6
 generated: "2026-09-22"
 status: written

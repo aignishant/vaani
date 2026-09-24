@@ -11,7 +11,7 @@
 name         = "Vaani"                # how the project is named in generated documents
 slug         = "vaani"                # lowercase, no spaces; used in skill and folder names
 topic        = "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
-plan_version = "v1.10.0"               # must match every hub's `plan_version` frontmatter
+plan_version = "v1.11.0"               # must match every hub's `plan_version` frontmatter
 driver       = "python granth.py"     # how generated documents tell the reader to run commands
 
 [paths]

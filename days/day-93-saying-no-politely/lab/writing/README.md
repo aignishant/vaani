@@ -1,0 +1,1 @@
+Put your first paragraph, your real decline with its no-sentence-check table, copy H labelled deliberate with its yes-no-maybe table, and any repair here as day-93.md, or a photo named day-93.jpg of your notebook page.

@@ -163,3 +163,18 @@ toolchain — also gets an ADR in `docs/adr/`, and the entry here links it.
   gate, day 100, is not written. Day 92 onward needs a closed day 6 or a further ADR, with the
   question asked again first. Days 71–91 are still uncommitted. `plan_version` in `granth.toml`
   and in every hub moves to v1.10.0. No IDs move.
+- 2026-09-24 — **What moved:** "next 10 days doc" was asked for with the ledger still holding one
+  row. The ninth batch was whole: `depth` passed for each of days 85–91, and the working tree was
+  clean, with days 71–91 committed. The question "is anybody doing the days?" was put to the
+  learner in those words before anything was written. It named the phase 5 gate at day 100 and the
+  phase boundary at day 101. The options were: write nothing and close days, write days 92–96,
+  write days 92–100 ending on the gate, or write days 92–101 as asked. The learner chose 92–101.
+  **What the plan now says (v1.11.0):** §9's writing-ahead rule gains the tenth batch, days
+  92–101, at the cap of ten, carrying the phase 5 gate as a rehearsal and opening phase 6, on every
+  condition ADR-0004 to ADR-0012 set —
+  `docs/adr/ADR-0013-tenth-batch-of-ten-across-the-phase-5-gate.md`. §13 gains the v1.11.0 row.
+  **Cost:** days 92–101 are written with one day of real errors behind them. Day 101 is written a
+  hundred learning days before it is read. The day 100 gate is a rehearsal until its `ERRORS.md`
+  re-read for days 81–99 is ticked. Day 102 onward needs a closed day 6 or a further ADR, with the
+  question asked again first. `plan_version` in `granth.toml` and in every hub moves to v1.11.0.
+  No IDs move.

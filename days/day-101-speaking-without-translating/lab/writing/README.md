@@ -1,0 +1,1 @@
+Put your thesis, your plan, three first-sentence drafts, the introduction with its predict-test table, copy N labelled deliberate with its underline table, and any repair here as day-101.md, or a photo named day-101.jpg of your notebook page.

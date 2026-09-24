@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "Talking about your hobbies and free time · A paragraph about what you enjoy and why"
 ids: [SPK-26, WRT-17]
 kind: concept
-plan_version: "v1.10.0"
+plan_version: "v1.11.0"
 parts: 6
 generated: "2026-09-23"
 status: written

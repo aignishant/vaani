@@ -5,7 +5,7 @@ phase_name: "Opinions, plans and explaining; arguing on the page"
 title: "Dreams and wishes: if I could · A wish paragraph"
 ids: [SPK-53, WRT-34]
 kind: concept
-plan_version: "v1.10.0"
+plan_version: "v1.11.0"
 parts: 6
 generated: "2026-09-23"
 status: written

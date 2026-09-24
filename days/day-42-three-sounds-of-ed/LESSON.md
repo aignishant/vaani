@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "The three sounds of -ed: walked, played, wanted · Past simple: the irregular verbs you cannot avoid"
 ids: [SND-14, GRM-24]
 kind: concept
-plan_version: "v1.10.0"
+plan_version: "v1.11.0"
 parts: 6
 generated: "2026-09-23"
 status: written
