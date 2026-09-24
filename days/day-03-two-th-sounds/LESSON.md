@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "The two th sounds: think and this · The sentence: one capital letter, one full stop"
 ids: [SND-03, GRM-01]
 kind: concept
-plan_version: "v1.11.0"
+plan_version: "v1.12.0"
 parts: 6
 generated: "2026-09-22"
 status: written

@@ -9,9 +9,9 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | | Count | Of plan |
 | --- | --- | --- |
 | Days in the plan | **120** | 100% |
-| Days written | **101** | 84.2% |
+| Days written | **111** | 92.5% |
 | Days complete | **1** | 0.8% |
-| Subtopic documents | **608** | — |
+| Subtopic documents | **668** | — |
 | Source documents | **0** | — |
 
 ## Every day
@@ -119,16 +119,16 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 99 | 5 | [A full talk with a structure: opening, three points, close · An essay p…](../days/day-99-full-talk-structure/LESSON.md) | written | 6 | 0 | `SPK-76`, `WRT-55` |
 | 100 | 5 | [Gate: the recorded interview role-play · Gate: a formal email and a cov…](../days/day-100-gate-interview-and-letter/LESSON.md) | written | 6 | 0 | `SPK-77`, `WRT-56` |
 | 101 | 6 | [Fluency: speaking without translating in your head · The essay introduc…](../days/day-101-speaking-without-translating/LESSON.md) | written | 6 | 0 | `SPK-78`, `WRT-57` |
-| 102 | 6 | Idioms you actually hear, and the ones to leave alone · The body paragr… | not started | 0 | 0 | `SPK-79`, `WRT-58` |
-| 103 | 6 | Telling a joke or an anecdote · The conclusion | not started | 0 | 0 | `SPK-80`, `WRT-59` |
-| 104 | 6 | Connected speech: gonna, wanna, dunno — hearing it and choosing it · Th… | not started | 0 | 0 | `SND-24`, `GRM-45` |
-| 105 | 6 | Debating: making a point and answering one · An argumentative essay | not started | 0 | 0 | `SPK-81`, `WRT-60` |
-| 106 | 6 | Discussing the news and current topics · A summary of an article | not started | 0 | 0 | `SPK-82`, `WRT-61` |
-| 107 | 6 | Describing feelings precisely · A descriptive essay | not started | 0 | 0 | `SPK-83`, `WRT-62` |
-| 108 | 6 | Storytelling with suspense · A narrative essay | not started | 0 | 0 | `SPK-84`, `WRT-63` |
-| 109 | 6 | Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs… | not started | 0 | 0 | `SPK-85`, `GRM-46` |
-| 110 | 6 | Hedging: sort of, I suppose, it depends · Punctuation: commas, colons,… | not started | 0 | 0 | `SPK-86`, `GRM-47` |
-| 111 | 6 | Talking about your own field at length · A report | not started | 0 | 0 | `SPK-87`, `WRT-64` |
+| 102 | 6 | [Idioms you actually hear, and the ones to leave alone · The body paragr…](../days/day-102-idioms-you-hear/LESSON.md) | written | 6 | 0 | `SPK-79`, `WRT-58` |
+| 103 | 6 | [Telling a joke or an anecdote · The conclusion](../days/day-103-joke-or-anecdote/LESSON.md) | written | 6 | 0 | `SPK-80`, `WRT-59` |
+| 104 | 6 | [Connected speech: gonna, wanna, dunno — hearing it and choosing it · Th…](../days/day-104-gonna-wanna-dunno/LESSON.md) | written | 6 | 0 | `SND-24`, `GRM-45` |
+| 105 | 6 | [Debating: making a point and answering one · An argumentative essay](../days/day-105-debating-point-answer/LESSON.md) | written | 6 | 0 | `SPK-81`, `WRT-60` |
+| 106 | 6 | [Discussing the news and current topics · A summary of an article](../days/day-106-discussing-news/LESSON.md) | written | 6 | 0 | `SPK-82`, `WRT-61` |
+| 107 | 6 | [Describing feelings precisely · A descriptive essay](../days/day-107-describing-feelings/LESSON.md) | written | 6 | 0 | `SPK-83`, `WRT-62` |
+| 108 | 6 | [Storytelling with suspense · A narrative essay](../days/day-108-storytelling-with-suspense/LESSON.md) | written | 6 | 0 | `SPK-84`, `WRT-63` |
+| 109 | 6 | [Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs…](../days/day-109-phrasal-verbs/LESSON.md) | written | 6 | 0 | `SPK-85`, `GRM-46` |
+| 110 | 6 | [Hedging: sort of, I suppose, it depends · Punctuation: commas, colons,…](../days/day-110-hedging-sort-of/LESSON.md) | written | 6 | 0 | `SPK-86`, `GRM-47` |
+| 111 | 6 | [Talking about your own field at length · A report](../days/day-111-talking-about-your-field/LESSON.md) | written | 6 | 0 | `SPK-87`, `WRT-64` |
 | 112 | 6 | Answering hard questions on the spot · A review | not started | 0 | 0 | `SPK-88`, `WRT-65` |
 | 113 | 6 | Self-correction while speaking · The proofreading checklist | not started | 0 | 0 | `SPK-89`, `WRT-66` |
 | 114 | 6 | Listening back and fixing your own recording · Rewriting your day 20 pa… | not started | 0 | 0 | `SPK-90`, `WRT-67` |
@@ -148,4 +148,4 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 3 | 41–60 | Telling what happened: the past, stories, compa… | 20/20 | 0/20 | Speaking: a recorded story from your life with a beginn… |
 | 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 20/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |
 | 5 | 81–100 | Formal and at work: interviews, meetings, compl… | 20/20 | 0/20 | Speaking: a recorded interview role-play answering five… |
-| 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 1/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |
+| 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 11/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |

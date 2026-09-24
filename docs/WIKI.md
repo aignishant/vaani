@@ -109,3 +109,13 @@ it. Cross-day lookups live in `wiki/ENTITIES.md`.
 | [99](wiki/day-99.md) | A full talk with a structure: opening, three points, close · An essay plan | SPK-76, WRT-55 | 6 | — |
 | [100](wiki/day-100.md) | Gate: the recorded interview role-play · Gate: a formal email and a cover letter | SPK-77, WRT-56 | 6 | — |
 | [101](wiki/day-101.md) | Fluency: speaking without translating in your head · The essay introduction | SPK-78, WRT-57 | 6 | — |
+| [102](wiki/day-102.md) | Idioms you actually hear, and the ones to leave alone · The body paragraph | SPK-79, WRT-58 | 6 | — |
+| [103](wiki/day-103.md) | Telling a joke or an anecdote · The conclusion | SPK-80, WRT-59 | 6 | — |
+| [104](wiki/day-104.md) | Connected speech: gonna, wanna, dunno — hearing it and choosing it · Third and mixe… | SND-24, GRM-45 | 6 | — |
+| [105](wiki/day-105.md) | Debating: making a point and answering one · An argumentative essay | SPK-81, WRT-60 | 6 | — |
+| [106](wiki/day-106.md) | Discussing the news and current topics · A summary of an article | SPK-82, WRT-61 | 6 | — |
+| [107](wiki/day-107.md) | Describing feelings precisely · A descriptive essay | SPK-83, WRT-62 | 6 | — |
+| [108](wiki/day-108.md) | Storytelling with suspense · A narrative essay | SPK-84, WRT-63 | 6 | — |
+| [109](wiki/day-109.md) | Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs in writing,… | SPK-85, GRM-46 | 6 | — |
+| [110](wiki/day-110.md) | Hedging: sort of, I suppose, it depends · Punctuation: commas, colons, semicolons | SPK-86, GRM-47 | 6 | — |
+| [111](wiki/day-111.md) | Talking about your own field at length · A report | SPK-87, WRT-64 | 6 | — |

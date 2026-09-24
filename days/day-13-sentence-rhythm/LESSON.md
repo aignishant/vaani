@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Sentence rhythm: the stressed words and the weak ones · Describing a person in one paragraph"
 ids: [SND-08, WRT-05]
 kind: concept
-plan_version: "v1.11.0"
+plan_version: "v1.12.0"
 parts: 6
 generated: "2026-09-22"
 status: written

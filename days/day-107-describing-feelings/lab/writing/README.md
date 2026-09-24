@@ -1,0 +1,1 @@
+Put your impression and sense notes, the sense table, the essay with its three-things table, copy A labelled deliberate with its recall table, and any repair here as day-107.md, or a photo named day-107.jpg of your notebook page.

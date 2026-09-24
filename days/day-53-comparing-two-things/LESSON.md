@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "Comparing two things you know · Superlatives: the -est and the most"
 ids: [SPK-37, GRM-30]
 kind: concept
-plan_version: "v1.11.0"
+plan_version: "v1.12.0"
 parts: 6
 generated: "2026-09-23"
 status: written

@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Describing where things are in your room · Describing your room on paper"
 ids: [SPK-09, WRT-07]
 kind: concept
-plan_version: "v1.11.0"
+plan_version: "v1.12.0"
 parts: 6
 generated: "2026-09-22"
 status: written

@@ -1,0 +1,1 @@
+Put your turning point and change, the plan card, the essay with its tense marking and what-and-change table, copy N labelled deliberate with its why-and-when table, and any repair here as day-108.md, or a photo named day-108.jpg of your notebook page.

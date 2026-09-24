@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "Making plans: shall we, let's, how about · Present continuous: what is happening now"
 ids: [SPK-16, GRM-15]
 kind: concept
-plan_version: "v1.11.0"
+plan_version: "v1.12.0"
 parts: 6
 generated: "2026-09-22"
 status: written

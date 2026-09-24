@@ -1,0 +1,1 @@
+Put your thesis in new words, your conclusion notes, the conclusion with its so-what table, copy N labelled deliberate with its unproved-sentence table, and any repair here as day-103.md, or a photo named day-103.jpg of your notebook page.

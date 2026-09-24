@@ -1,0 +1,1 @@
+Put your claim and the other side's point, the essay plan, your opponent's reason, paragraph four with its fair-statement table, copy S labelled deliberate with its fairness scores, and any repair here as day-105.md, or a photo named day-105.jpg of your notebook page.

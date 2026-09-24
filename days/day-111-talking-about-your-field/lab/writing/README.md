@@ -1,0 +1,1 @@
+Put your purpose and first finding, the checks table, the report under four headings with its summary-alone table, copy O labelled deliberate with its arrow-test table, and any repair here as day-111.md, or a photo named day-111.jpg of your notebook page.

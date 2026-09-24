@@ -60,6 +60,9 @@ questions a long curriculum makes expensive to answer by reading.
 | `GRM-42` | [day 89](day-89.md) |
 | `GRM-43` | [day 91](day-91.md) |
 | `GRM-44` | [day 96](day-96.md) |
+| `GRM-45` | [day 104](day-104.md) |
+| `GRM-46` | [day 109](day-109.md) |
+| `GRM-47` | [day 110](day-110.md) |
 | `SND-01` | [day 1](day-01.md) |
 | `SND-02` | [day 2](day-02.md) |
 | `SND-03` | [day 3](day-03.md) |
@@ -83,6 +86,7 @@ questions a long curriculum makes expensive to answer by reading.
 | `SND-21` | [day 85](day-85.md) |
 | `SND-22` | [day 91](day-91.md) |
 | `SND-23` | [day 97](day-97.md) |
+| `SND-24` | [day 104](day-104.md) |
 | `SPK-01` | [day 8](day-08.md) |
 | `SPK-02` | [day 9](day-09.md) |
 | `SPK-03` | [day 10](day-10.md) |
@@ -161,6 +165,15 @@ questions a long curriculum makes expensive to answer by reading.
 | `SPK-76` | [day 99](day-99.md) |
 | `SPK-77` | [day 100](day-100.md) |
 | `SPK-78` | [day 101](day-101.md) |
+| `SPK-79` | [day 102](day-102.md) |
+| `SPK-80` | [day 103](day-103.md) |
+| `SPK-81` | [day 105](day-105.md) |
+| `SPK-82` | [day 106](day-106.md) |
+| `SPK-83` | [day 107](day-107.md) |
+| `SPK-84` | [day 108](day-108.md) |
+| `SPK-85` | [day 109](day-109.md) |
+| `SPK-86` | [day 110](day-110.md) |
+| `SPK-87` | [day 111](day-111.md) |
 | `WRT-01` | [day 1](day-01.md) |
 | `WRT-02` | [day 2](day-02.md) |
 | `WRT-03` | [day 7](day-07.md) |
@@ -218,3 +231,10 @@ questions a long curriculum makes expensive to answer by reading.
 | `WRT-55` | [day 99](day-99.md) |
 | `WRT-56` | [day 100](day-100.md) |
 | `WRT-57` | [day 101](day-101.md) |
+| `WRT-58` | [day 102](day-102.md) |
+| `WRT-59` | [day 103](day-103.md) |
+| `WRT-60` | [day 105](day-105.md) |
+| `WRT-61` | [day 106](day-106.md) |
+| `WRT-62` | [day 107](day-107.md) |
+| `WRT-63` | [day 108](day-108.md) |
+| `WRT-64` | [day 111](day-111.md) |

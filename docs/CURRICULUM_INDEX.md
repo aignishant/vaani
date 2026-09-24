@@ -34,7 +34,7 @@ bug.
 | `SND-21` | [85](../days/day-85-sounding-confident/LESSON.md) | Sounding confident: volume, pace and the pause · Present perfect against past simple: which one… |
 | `SND-22` | [91](../days/day-91-stress-in-long-words/LESSON.md) | Stress in long words: PHOtograph, phoTOgraphy, photoGRAPHic · The passive in formal writing |
 | `SND-23` | [97](../days/day-97-numbers-codes-clearly/LESSON.md) | Numbers, dates and reference codes said clearly · Instructions and rules on paper |
-| `SND-24` | [104](../days/day-104/LESSON.md) | Connected speech: gonna, wanna, dunno — hearing it and choosing it · Third and mixed conditiona… |
+| `SND-24` | [104](../days/day-104-gonna-wanna-dunno/LESSON.md) | Connected speech: gonna, wanna, dunno — hearing it and choosing it · Third and mixed conditiona… |
 
 ## Speaking (`SPK-`) — 96 IDs
 
@@ -118,15 +118,15 @@ bug.
 | `SPK-76` | [99](../days/day-99-full-talk-structure/LESSON.md) | A full talk with a structure: opening, three points, close · An essay plan |
 | `SPK-77` | [100](../days/day-100-gate-interview-and-letter/LESSON.md) | Gate: the recorded interview role-play · Gate: a formal email and a cover letter |
 | `SPK-78` | [101](../days/day-101-speaking-without-translating/LESSON.md) | Fluency: speaking without translating in your head · The essay introduction |
-| `SPK-79` | [102](../days/day-102/LESSON.md) | Idioms you actually hear, and the ones to leave alone · The body paragraph |
-| `SPK-80` | [103](../days/day-103/LESSON.md) | Telling a joke or an anecdote · The conclusion |
-| `SPK-81` | [105](../days/day-105/LESSON.md) | Debating: making a point and answering one · An argumentative essay |
-| `SPK-82` | [106](../days/day-106/LESSON.md) | Discussing the news and current topics · A summary of an article |
-| `SPK-83` | [107](../days/day-107/LESSON.md) | Describing feelings precisely · A descriptive essay |
-| `SPK-84` | [108](../days/day-108/LESSON.md) | Storytelling with suspense · A narrative essay |
-| `SPK-85` | [109](../days/day-109/LESSON.md) | Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs in writing, and when to… |
-| `SPK-86` | [110](../days/day-110/LESSON.md) | Hedging: sort of, I suppose, it depends · Punctuation: commas, colons, semicolons |
-| `SPK-87` | [111](../days/day-111/LESSON.md) | Talking about your own field at length · A report |
+| `SPK-79` | [102](../days/day-102-idioms-you-hear/LESSON.md) | Idioms you actually hear, and the ones to leave alone · The body paragraph |
+| `SPK-80` | [103](../days/day-103-joke-or-anecdote/LESSON.md) | Telling a joke or an anecdote · The conclusion |
+| `SPK-81` | [105](../days/day-105-debating-point-answer/LESSON.md) | Debating: making a point and answering one · An argumentative essay |
+| `SPK-82` | [106](../days/day-106-discussing-news/LESSON.md) | Discussing the news and current topics · A summary of an article |
+| `SPK-83` | [107](../days/day-107-describing-feelings/LESSON.md) | Describing feelings precisely · A descriptive essay |
+| `SPK-84` | [108](../days/day-108-storytelling-with-suspense/LESSON.md) | Storytelling with suspense · A narrative essay |
+| `SPK-85` | [109](../days/day-109-phrasal-verbs/LESSON.md) | Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs in writing, and when to… |
+| `SPK-86` | [110](../days/day-110-hedging-sort-of/LESSON.md) | Hedging: sort of, I suppose, it depends · Punctuation: commas, colons, semicolons |
+| `SPK-87` | [111](../days/day-111-talking-about-your-field/LESSON.md) | Talking about your own field at length · A report |
 | `SPK-88` | [112](../days/day-112/LESSON.md) | Answering hard questions on the spot · A review |
 | `SPK-89` | [113](../days/day-113/LESSON.md) | Self-correction while speaking · The proofreading checklist |
 | `SPK-90` | [114](../days/day-114/LESSON.md) | Listening back and fixing your own recording · Rewriting your day 20 page |
@@ -185,9 +185,9 @@ bug.
 | `GRM-42` | [89](../days/day-89-presenting-opening-closing/LESSON.md) | Presenting: opening lines and closing lines · However, therefore, although: formal linking words |
 | `GRM-43` | [91](../days/day-91-stress-in-long-words/LESSON.md) | Stress in long words: PHOtograph, phoTOgraphy, photoGRAPHic · The passive in formal writing |
 | `GRM-44` | [96](../days/day-96-health-safety-rules/LESSON.md) | Talking about health, safety and rules · Modals of obligation in written rules |
-| `GRM-45` | [104](../days/day-104/LESSON.md) | Connected speech: gonna, wanna, dunno — hearing it and choosing it · Third and mixed conditiona… |
-| `GRM-46` | [109](../days/day-109/LESSON.md) | Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs in writing, and when to… |
-| `GRM-47` | [110](../days/day-110/LESSON.md) | Hedging: sort of, I suppose, it depends · Punctuation: commas, colons, semicolons |
+| `GRM-45` | [104](../days/day-104-gonna-wanna-dunno/LESSON.md) | Connected speech: gonna, wanna, dunno — hearing it and choosing it · Third and mixed conditiona… |
+| `GRM-46` | [109](../days/day-109-phrasal-verbs/LESSON.md) | Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs in writing, and when to… |
+| `GRM-47` | [110](../days/day-110-hedging-sort-of/LESSON.md) | Hedging: sort of, I suppose, it depends · Punctuation: commas, colons, semicolons |
 
 ## Writing (`WRT-`) — 73 IDs
 
@@ -250,13 +250,13 @@ bug.
 | `WRT-55` | [99](../days/day-99-full-talk-structure/LESSON.md) | A full talk with a structure: opening, three points, close · An essay plan |
 | `WRT-56` | [100](../days/day-100-gate-interview-and-letter/LESSON.md) | Gate: the recorded interview role-play · Gate: a formal email and a cover letter |
 | `WRT-57` | [101](../days/day-101-speaking-without-translating/LESSON.md) | Fluency: speaking without translating in your head · The essay introduction |
-| `WRT-58` | [102](../days/day-102/LESSON.md) | Idioms you actually hear, and the ones to leave alone · The body paragraph |
-| `WRT-59` | [103](../days/day-103/LESSON.md) | Telling a joke or an anecdote · The conclusion |
-| `WRT-60` | [105](../days/day-105/LESSON.md) | Debating: making a point and answering one · An argumentative essay |
-| `WRT-61` | [106](../days/day-106/LESSON.md) | Discussing the news and current topics · A summary of an article |
-| `WRT-62` | [107](../days/day-107/LESSON.md) | Describing feelings precisely · A descriptive essay |
-| `WRT-63` | [108](../days/day-108/LESSON.md) | Storytelling with suspense · A narrative essay |
-| `WRT-64` | [111](../days/day-111/LESSON.md) | Talking about your own field at length · A report |
+| `WRT-58` | [102](../days/day-102-idioms-you-hear/LESSON.md) | Idioms you actually hear, and the ones to leave alone · The body paragraph |
+| `WRT-59` | [103](../days/day-103-joke-or-anecdote/LESSON.md) | Telling a joke or an anecdote · The conclusion |
+| `WRT-60` | [105](../days/day-105-debating-point-answer/LESSON.md) | Debating: making a point and answering one · An argumentative essay |
+| `WRT-61` | [106](../days/day-106-discussing-news/LESSON.md) | Discussing the news and current topics · A summary of an article |
+| `WRT-62` | [107](../days/day-107-describing-feelings/LESSON.md) | Describing feelings precisely · A descriptive essay |
+| `WRT-63` | [108](../days/day-108-storytelling-with-suspense/LESSON.md) | Storytelling with suspense · A narrative essay |
+| `WRT-64` | [111](../days/day-111-talking-about-your-field/LESSON.md) | Talking about your own field at length · A report |
 | `WRT-65` | [112](../days/day-112/LESSON.md) | Answering hard questions on the spot · A review |
 | `WRT-66` | [113](../days/day-113/LESSON.md) | Self-correction while speaking · The proofreading checklist |
 | `WRT-67` | [114](../days/day-114/LESSON.md) | Listening back and fixing your own recording · Rewriting your day 20 page |

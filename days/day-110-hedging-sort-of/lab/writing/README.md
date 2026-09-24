@@ -1,0 +1,1 @@
+Put your three job sentences, the note with its jobs table and question table, copy B labelled deliberate with its count-test table, and any repair here as day-110.md, or a photo named day-110.jpg of your notebook page.

@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "V and W: very, wet — teeth on the lip or not · One and many: the plural -s and the ones that break it"
 ids: [SND-04, GRM-02]
 kind: concept
-plan_version: "v1.11.0"
+plan_version: "v1.12.0"
 parts: 6
 generated: "2026-09-22"
 status: written

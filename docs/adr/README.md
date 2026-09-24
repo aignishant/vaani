@@ -50,3 +50,4 @@ justification written after the fact, not a decision record.
 | [0011](ADR-0011-eighth-batch-of-four-opening-phase-5.md) | An eighth batch of four, days 81–84, opening phase 5 | 2026-09-23 | accepted |
 | [0012](ADR-0012-ninth-batch-of-seven-after-finishing-the-eighth.md) | Days 82–84 finished under ADR-0011, then a ninth batch of seven, days 85–91 | 2026-09-24 | accepted |
 | [0013](ADR-0013-tenth-batch-of-ten-across-the-phase-5-gate.md) | A tenth batch of ten, days 92–101, carrying the phase 5 gate as a rehearsal and opening phase 6 | 2026-09-24 | accepted |
+| [0014](ADR-0014-eleventh-batch-of-ten-inside-phase-6.md) | An eleventh batch of ten, days 102–111, inside phase 6 and crossing no gate | 2026-09-24 | accepted |

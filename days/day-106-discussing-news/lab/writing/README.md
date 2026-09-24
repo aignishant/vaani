@@ -1,0 +1,1 @@
+Put the article's main point, your notes, the summary with its check table, copy O labelled deliberate with its opinion-hunt table, and any repair here as day-106.md, or a photo named day-106.jpg of your notebook page.

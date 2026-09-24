@@ -1,0 +1,1 @@
+Put your two versions of one delay, message F and email O with the verb-check table, copy T labelled deliberate with its formality scores, and any repair here as day-109.md, or a photo named day-109.jpg of your notebook page.
