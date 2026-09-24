@@ -237,10 +237,10 @@ backlog item.
 | `WRT-65` | Writing | 6 | 112 | [~] written day 112, not in the ledger |
 | `SPK-89` | Speaking | 6 | 113 | [~] written day 113, not in the ledger |
 | `WRT-66` | Writing | 6 | 113 | [~] written day 113, not in the ledger |
-| `SPK-90` | Speaking | 6 | 114 | [ ] open |
-| `WRT-67` | Writing | 6 | 114 | [ ] open |
-| `SPK-91` | Speaking | 6 | 115 | [ ] open |
-| `WRT-68` | Writing | 6 | 115 | [ ] open |
+| `SPK-90` | Speaking | 6 | 114 | [~] written day 114, not in the ledger |
+| `WRT-67` | Writing | 6 | 114 | [~] written day 114, not in the ledger |
+| `SPK-91` | Speaking | 6 | 115 | [~] written day 115, not in the ledger |
+| `WRT-68` | Writing | 6 | 115 | [~] written day 115, not in the ledger |
 | `SPK-92` | Speaking | 6 | 116 | [ ] open |
 | `WRT-69` | Writing | 6 | 116 | [ ] open |
 | `SPK-93` | Speaking | 6 | 117 | [ ] open |

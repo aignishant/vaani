@@ -5,7 +5,7 @@ phase_name: "Formal and at work: interviews, meetings, complaints; formal letter
 title: "Dealing with an angry customer · Replying to a complaint"
 ids: [SPK-73, WRT-52]
 kind: concept
-plan_version: "v1.13.0"
+plan_version: "v1.14.0"
 parts: 6
 generated: "2026-09-24"
 status: written

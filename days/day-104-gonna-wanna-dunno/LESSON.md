@@ -5,7 +5,7 @@ phase_name: "Fluency and the portfolio: long turns, essays, rehearsals, retakes"
 title: "Connected speech: gonna, wanna, dunno — hearing it and choosing it · Third and mixed conditionals: if I had known"
 ids: [SND-24, GRM-45]
 kind: concept
-plan_version: "v1.13.0"
+plan_version: "v1.14.0"
 parts: 6
 generated: "2026-09-24"
 status: written

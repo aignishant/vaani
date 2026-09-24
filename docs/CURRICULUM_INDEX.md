@@ -129,8 +129,8 @@ bug.
 | `SPK-87` | [111](../days/day-111-talking-about-your-field/LESSON.md) | Talking about your own field at length · A report |
 | `SPK-88` | [112](../days/day-112-hard-questions-on-spot/LESSON.md) | Answering hard questions on the spot · A review |
 | `SPK-89` | [113](../days/day-113-self-correction-while-speaking/LESSON.md) | Self-correction while speaking · The proofreading checklist |
-| `SPK-90` | [114](../days/day-114/LESSON.md) | Listening back and fixing your own recording · Rewriting your day 20 page |
-| `SPK-91` | [115](../days/day-115/LESSON.md) | The long conversation: first rehearsal · The essay: first draft |
+| `SPK-90` | [114](../days/day-114-listening-back-own-recording/LESSON.md) | Listening back and fixing your own recording · Rewriting your day 20 page |
+| `SPK-91` | [115](../days/day-115-long-conversation-first-rehearsal/LESSON.md) | The long conversation: first rehearsal · The essay: first draft |
 | `SPK-92` | [116](../days/day-116/LESSON.md) | The long conversation: second rehearsal · The essay: second draft |
 | `SPK-93` | [117](../days/day-117/LESSON.md) | Recording the portfolio: retake the weakest piece · Assembling the writing portfolio |
 | `SPK-94` | [118](../days/day-118/LESSON.md) | The unscripted talk, no notes · The one-sitting page: write without stopping |
@@ -259,8 +259,8 @@ bug.
 | `WRT-64` | [111](../days/day-111-talking-about-your-field/LESSON.md) | Talking about your own field at length · A report |
 | `WRT-65` | [112](../days/day-112-hard-questions-on-spot/LESSON.md) | Answering hard questions on the spot · A review |
 | `WRT-66` | [113](../days/day-113-self-correction-while-speaking/LESSON.md) | Self-correction while speaking · The proofreading checklist |
-| `WRT-67` | [114](../days/day-114/LESSON.md) | Listening back and fixing your own recording · Rewriting your day 20 page |
-| `WRT-68` | [115](../days/day-115/LESSON.md) | The long conversation: first rehearsal · The essay: first draft |
+| `WRT-67` | [114](../days/day-114-listening-back-own-recording/LESSON.md) | Listening back and fixing your own recording · Rewriting your day 20 page |
+| `WRT-68` | [115](../days/day-115-long-conversation-first-rehearsal/LESSON.md) | The long conversation: first rehearsal · The essay: first draft |
 | `WRT-69` | [116](../days/day-116/LESSON.md) | The long conversation: second rehearsal · The essay: second draft |
 | `WRT-70` | [117](../days/day-117/LESSON.md) | Recording the portfolio: retake the weakest piece · Assembling the writing portfolio |
 | `WRT-71` | [118](../days/day-118/LESSON.md) | The unscripted talk, no notes · The one-sitting page: write without stopping |

@@ -9,9 +9,9 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | | Count | Of plan |
 | --- | --- | --- |
 | Days in the plan | **120** | 100% |
-| Days written | **113** | 94.2% |
+| Days written | **115** | 95.8% |
 | Days complete | **1** | 0.8% |
-| Subtopic documents | **680** | — |
+| Subtopic documents | **692** | — |
 | Source documents | **0** | — |
 
 ## Every day
@@ -131,8 +131,8 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 111 | 6 | [Talking about your own field at length · A report](../days/day-111-talking-about-your-field/LESSON.md) | written | 6 | 0 | `SPK-87`, `WRT-64` |
 | 112 | 6 | [Answering hard questions on the spot · A review](../days/day-112-hard-questions-on-spot/LESSON.md) | written | 6 | 0 | `SPK-88`, `WRT-65` |
 | 113 | 6 | [Self-correction while speaking · The proofreading checklist](../days/day-113-self-correction-while-speaking/LESSON.md) | written | 6 | 0 | `SPK-89`, `WRT-66` |
-| 114 | 6 | Listening back and fixing your own recording · Rewriting your day 20 pa… | not started | 0 | 0 | `SPK-90`, `WRT-67` |
-| 115 | 6 | The long conversation: first rehearsal · The essay: first draft | not started | 0 | 0 | `SPK-91`, `WRT-68` |
+| 114 | 6 | [Listening back and fixing your own recording · Rewriting your day 20 pa…](../days/day-114-listening-back-own-recording/LESSON.md) | written | 6 | 0 | `SPK-90`, `WRT-67` |
+| 115 | 6 | [The long conversation: first rehearsal · The essay: first draft](../days/day-115-long-conversation-first-rehearsal/LESSON.md) | written | 6 | 0 | `SPK-91`, `WRT-68` |
 | 116 | 6 | The long conversation: second rehearsal · The essay: second draft | not started | 0 | 0 | `SPK-92`, `WRT-69` |
 | 117 | 6 | Recording the portfolio: retake the weakest piece · Assembling the writ… | not started | 0 | 0 | `SPK-93`, `WRT-70` |
 | 118 | 6 | The unscripted talk, no notes · The one-sitting page: write without sto… | not started | 0 | 0 | `SPK-94`, `WRT-71` |
@@ -148,4 +148,4 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 3 | 41–60 | Telling what happened: the past, stories, compa… | 20/20 | 0/20 | Speaking: a recorded story from your life with a beginn… |
 | 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 20/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |
 | 5 | 81–100 | Formal and at work: interviews, meetings, compl… | 20/20 | 0/20 | Speaking: a recorded interview role-play answering five… |
-| 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 13/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |
+| 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 15/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |

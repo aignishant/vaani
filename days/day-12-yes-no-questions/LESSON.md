@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Yes/no questions and short answers · Not: making a sentence negative"
 ids: [SPK-05, GRM-08]
 kind: concept
-plan_version: "v1.13.0"
+plan_version: "v1.14.0"
 parts: 6
 generated: "2026-09-22"
 status: written

@@ -5,7 +5,7 @@ phase_name: "Formal and at work: interviews, meetings, complaints; formal letter
 title: "Explaining a technical thing to a beginner · Explaining a technical thing in writing"
 ids: [SPK-75, WRT-54]
 kind: concept
-plan_version: "v1.13.0"
+plan_version: "v1.14.0"
 parts: 6
 generated: "2026-09-24"
 status: written

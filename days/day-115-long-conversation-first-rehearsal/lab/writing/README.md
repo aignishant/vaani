@@ -1,0 +1,1 @@
+Put your forward-only paragraph, your essay plan, Draft 1 with its count table, copy T labelled deliberate with the blind-read table, and any repair here as day-115.md, or a photo named day-115.jpg of your notebook page. Do not fix Draft 1 here; it stays as it is.

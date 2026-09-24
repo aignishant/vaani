@@ -121,3 +121,5 @@ it. Cross-day lookups live in `wiki/ENTITIES.md`.
 | [111](wiki/day-111.md) | Talking about your own field at length · A report | SPK-87, WRT-64 | 6 | — |
 | [112](wiki/day-112.md) | Answering hard questions on the spot · A review | SPK-88, WRT-65 | 6 | — |
 | [113](wiki/day-113.md) | Self-correction while speaking · The proofreading checklist | SPK-89, WRT-66 | 6 | — |
+| [114](wiki/day-114.md) | Listening back and fixing your own recording · Rewriting your day 20 page | SPK-90, WRT-67 | 6 | — |
+| [115](wiki/day-115.md) | The long conversation: first rehearsal · The essay: first draft | SPK-91, WRT-68 | 6 | — |

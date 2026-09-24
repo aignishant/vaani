@@ -5,7 +5,7 @@ phase_name: "Fluency and the portfolio: long turns, essays, rehearsals, retakes"
 title: "Idioms you actually hear, and the ones to leave alone · The body paragraph"
 ids: [SPK-79, WRT-58]
 kind: concept
-plan_version: "v1.13.0"
+plan_version: "v1.14.0"
 parts: 6
 generated: "2026-09-24"
 status: written

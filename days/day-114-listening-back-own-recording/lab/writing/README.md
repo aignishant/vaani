@@ -1,0 +1,1 @@
+Put your fact list and new paragraph, the day 20 fact table, your new page with its counts table, copy E labelled deliberate with the blind-read table, and any repair here as day-114.md, or a photo named day-114.jpg of your notebook page. Never change the day 20 page; it stays in its own folder.

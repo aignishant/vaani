@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Can and can't: ability and permission aloud · Can and can't on paper, and the question form"
 ids: [SPK-10, GRM-12]
 kind: concept
-plan_version: "v1.13.0"
+plan_version: "v1.14.0"
 parts: 6
 generated: "2026-09-22"
 status: written

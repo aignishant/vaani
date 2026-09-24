@@ -207,3 +207,18 @@ toolchain — also gets an ADR in `docs/adr/`, and the entry here links it.
   row. **Cost:** days 112–113 are written with one day of real errors behind them. Day 114 onward
   needs a closed day 6 or a further ADR, with the question asked again first. `plan_version` in
   `granth.toml` and in every hub moves to v1.13.0. No IDs move.
+- 2026-09-24 — **What moved:** "next 2 days doc" was asked for again with the ledger still holding
+  one row. Days 112–113 passed `depth` and `check` but were on disk uncommitted. The question "is
+  anybody doing the days?" was put to the learner in those words before anything was written. It
+  said that days 2–113 are written and not done, that day 111 alone has twenty unticked boxes, that
+  days 112–113 were uncommitted, and that no gate falls inside days 114–115. The options were:
+  commit days 112–113 and write nothing new (recommended), commit and then write days 114–115, or
+  leave everything uncommitted. The learner chose to commit and then write, and days 112–113 were
+  committed before this batch was written. **What the plan now says (v1.14.0):** §9's
+  writing-ahead rule gains the thirteenth batch, days 114–115, inside phase 6 and crossing no gate,
+  on every condition ADR-0004 to ADR-0015 set —
+  `docs/adr/ADR-0016-thirteenth-batch-of-two-first-rehearsal-and-draft.md`. §13 gains the v1.14.0
+  row. **Cost:** days 114–115 are written with one day of real errors behind them, and day 114
+  works on a recording and a page that do not exist yet. Day 116 onward needs a closed day 6 or a
+  further ADR, with the question asked again first. `plan_version` in `granth.toml` and in every
+  hub moves to v1.14.0. No IDs move.

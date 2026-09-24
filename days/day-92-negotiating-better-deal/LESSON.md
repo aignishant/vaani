@@ -5,7 +5,7 @@ phase_name: "Formal and at work: interviews, meetings, complaints; formal letter
 title: "Negotiating and asking for a better deal · A request email that gets a yes"
 ids: [SPK-70, WRT-49]
 kind: concept
-plan_version: "v1.13.0"
+plan_version: "v1.14.0"
 parts: 6
 generated: "2026-09-24"
 status: written

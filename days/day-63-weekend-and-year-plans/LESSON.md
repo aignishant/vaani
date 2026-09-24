@@ -5,7 +5,7 @@ phase_name: "Opinions, plans and explaining; arguing on the page"
 title: "Plans for the weekend and plans for the year · Present perfect: have you ever"
 ids: [SPK-46, GRM-34]
 kind: concept
-plan_version: "v1.13.0"
+plan_version: "v1.14.0"
 parts: 6
 generated: "2026-09-23"
 status: written

@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "Intonation: the voice going up and going down · Much, many, a lot of, a few, a little"
 ids: [SND-10, GRM-14]
 kind: concept
-plan_version: "v1.13.0"
+plan_version: "v1.14.0"
 parts: 6
 generated: "2026-09-22"
 status: written
