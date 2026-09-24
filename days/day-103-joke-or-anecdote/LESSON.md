@@ -5,7 +5,7 @@ phase_name: "Fluency and the portfolio: long turns, essays, rehearsals, retakes"
 title: "Telling a joke or an anecdote · The conclusion"
 ids: [SPK-80, WRT-59]
 kind: concept
-plan_version: "v1.12.0"
+plan_version: "v1.13.0"
 parts: 6
 generated: "2026-09-24"
 status: written

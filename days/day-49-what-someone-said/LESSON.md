@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "Saying what someone said to you · Writing a conversation with speech marks"
 ids: [SPK-34, WRT-22]
 kind: concept
-plan_version: "v1.12.0"
+plan_version: "v1.13.0"
 parts: 6
 generated: "2026-09-23"
 status: written

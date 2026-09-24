@@ -9,9 +9,9 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | | Count | Of plan |
 | --- | --- | --- |
 | Days in the plan | **120** | 100% |
-| Days written | **111** | 92.5% |
+| Days written | **113** | 94.2% |
 | Days complete | **1** | 0.8% |
-| Subtopic documents | **668** | — |
+| Subtopic documents | **680** | — |
 | Source documents | **0** | — |
 
 ## Every day
@@ -129,8 +129,8 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 109 | 6 | [Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs…](../days/day-109-phrasal-verbs/LESSON.md) | written | 6 | 0 | `SPK-85`, `GRM-46` |
 | 110 | 6 | [Hedging: sort of, I suppose, it depends · Punctuation: commas, colons,…](../days/day-110-hedging-sort-of/LESSON.md) | written | 6 | 0 | `SPK-86`, `GRM-47` |
 | 111 | 6 | [Talking about your own field at length · A report](../days/day-111-talking-about-your-field/LESSON.md) | written | 6 | 0 | `SPK-87`, `WRT-64` |
-| 112 | 6 | Answering hard questions on the spot · A review | not started | 0 | 0 | `SPK-88`, `WRT-65` |
-| 113 | 6 | Self-correction while speaking · The proofreading checklist | not started | 0 | 0 | `SPK-89`, `WRT-66` |
+| 112 | 6 | [Answering hard questions on the spot · A review](../days/day-112-hard-questions-on-spot/LESSON.md) | written | 6 | 0 | `SPK-88`, `WRT-65` |
+| 113 | 6 | [Self-correction while speaking · The proofreading checklist](../days/day-113-self-correction-while-speaking/LESSON.md) | written | 6 | 0 | `SPK-89`, `WRT-66` |
 | 114 | 6 | Listening back and fixing your own recording · Rewriting your day 20 pa… | not started | 0 | 0 | `SPK-90`, `WRT-67` |
 | 115 | 6 | The long conversation: first rehearsal · The essay: first draft | not started | 0 | 0 | `SPK-91`, `WRT-68` |
 | 116 | 6 | The long conversation: second rehearsal · The essay: second draft | not started | 0 | 0 | `SPK-92`, `WRT-69` |
@@ -148,4 +148,4 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 3 | 41–60 | Telling what happened: the past, stories, compa… | 20/20 | 0/20 | Speaking: a recorded story from your life with a beginn… |
 | 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 20/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |
 | 5 | 81–100 | Formal and at work: interviews, meetings, compl… | 20/20 | 0/20 | Speaking: a recorded interview role-play answering five… |
-| 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 11/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |
+| 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 13/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |

@@ -5,7 +5,7 @@ phase_name: "Fluency and the portfolio: long turns, essays, rehearsals, retakes"
 title: "Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs in writing, and when to avoid them"
 ids: [SPK-85, GRM-46]
 kind: concept
-plan_version: "v1.12.0"
+plan_version: "v1.13.0"
 parts: 6
 generated: "2026-09-24"
 status: written

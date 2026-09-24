@@ -5,7 +5,7 @@ phase_name: "Formal and at work: interviews, meetings, complaints; formal letter
 title: "Saying no politely · Declining in writing"
 ids: [SPK-71, WRT-50]
 kind: concept
-plan_version: "v1.12.0"
+plan_version: "v1.13.0"
 parts: 6
 generated: "2026-09-24"
 status: written

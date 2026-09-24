@@ -119,3 +119,5 @@ it. Cross-day lookups live in `wiki/ENTITIES.md`.
 | [109](wiki/day-109.md) | Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs in writing,… | SPK-85, GRM-46 | 6 | — |
 | [110](wiki/day-110.md) | Hedging: sort of, I suppose, it depends · Punctuation: commas, colons, semicolons | SPK-86, GRM-47 | 6 | — |
 | [111](wiki/day-111.md) | Talking about your own field at length · A report | SPK-87, WRT-64 | 6 | — |
+| [112](wiki/day-112.md) | Answering hard questions on the spot · A review | SPK-88, WRT-65 | 6 | — |
+| [113](wiki/day-113.md) | Self-correction while speaking · The proofreading checklist | SPK-89, WRT-66 | 6 | — |

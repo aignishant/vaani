@@ -5,7 +5,7 @@ phase_name: "Formal and at work: interviews, meetings, complaints; formal letter
 title: "Talking to a landlord, a bank or an office · Filling in forms and applications"
 ids: [SPK-72, WRT-51]
 kind: concept
-plan_version: "v1.12.0"
+plan_version: "v1.13.0"
 parts: 6
 generated: "2026-09-24"
 status: written

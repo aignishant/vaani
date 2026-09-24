@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "Apologising and thanking, and answering both · A thank-you note and an apology note"
 ids: [SPK-24, WRT-16]
 kind: concept
-plan_version: "v1.12.0"
+plan_version: "v1.13.0"
 parts: 6
 generated: "2026-09-22"
 status: written

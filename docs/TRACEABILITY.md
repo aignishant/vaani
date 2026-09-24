@@ -233,10 +233,10 @@ backlog item.
 | `GRM-47` | Grammar for writing | 6 | 110 | [~] written day 110, not in the ledger |
 | `SPK-87` | Speaking | 6 | 111 | [~] written day 111, not in the ledger |
 | `WRT-64` | Writing | 6 | 111 | [~] written day 111, not in the ledger |
-| `SPK-88` | Speaking | 6 | 112 | [ ] open |
-| `WRT-65` | Writing | 6 | 112 | [ ] open |
-| `SPK-89` | Speaking | 6 | 113 | [ ] open |
-| `WRT-66` | Writing | 6 | 113 | [ ] open |
+| `SPK-88` | Speaking | 6 | 112 | [~] written day 112, not in the ledger |
+| `WRT-65` | Writing | 6 | 112 | [~] written day 112, not in the ledger |
+| `SPK-89` | Speaking | 6 | 113 | [~] written day 113, not in the ledger |
+| `WRT-66` | Writing | 6 | 113 | [~] written day 113, not in the ledger |
 | `SPK-90` | Speaking | 6 | 114 | [ ] open |
 | `WRT-67` | Writing | 6 | 114 | [ ] open |
 | `SPK-91` | Speaking | 6 | 115 | [ ] open |

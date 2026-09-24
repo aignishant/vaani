@@ -5,7 +5,7 @@ phase_name: "Opinions, plans and explaining; arguing on the page"
 title: "Problems in your city and what should change · Relative clauses: who, which, that"
 ids: [SPK-55, GRM-39]
 kind: concept
-plan_version: "v1.12.0"
+plan_version: "v1.13.0"
 parts: 6
 generated: "2026-09-23"
 status: written

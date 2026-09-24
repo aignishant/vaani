@@ -1,0 +1,1 @@
+Put your first three checklist items, the full checklist and its mark-count table, version 2 of the checklist, copy Q labelled deliberate and copy K with the planted-mistake table, and any repair here as day-113.md, or a photo named day-113.jpg of your notebook page. Keep the checklist itself here too; the phase 6 gate essay is proofread against it.

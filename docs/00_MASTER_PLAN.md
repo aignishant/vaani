@@ -1,6 +1,6 @@
 ---
 plan: vaani
-version: "v1.12.0"
+version: "v1.13.0"
 topic: "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
 tracks: 4
 ids: 240
@@ -10,7 +10,7 @@ doc_architecture: "hub + parts/ (see §11)"
 amended: "2026-09-24"
 ---
 
-# MASTER PLAN v1.12.0 — Vaani
+# MASTER PLAN v1.13.0 — Vaani
 
 ## Speaking and writing English from zero, one hour a day, with a recording and a written piece every day
 
@@ -516,7 +516,9 @@ ninth is days 85–91, seven days written only after days 82–84 were finished 
 92–101, at the cap of ten, carrying the phase 5 gate as a rehearsal and opening phase 6
 (`docs/adr/ADR-0013-tenth-batch-of-ten-across-the-phase-5-gate.md`); the eleventh is days
 102–111, at the cap of ten, inside phase 6 and crossing no gate
-(`docs/adr/ADR-0014-eleventh-batch-of-ten-inside-phase-6.md`). A batch
+(`docs/adr/ADR-0014-eleventh-batch-of-ten-inside-phase-6.md`); the twelfth is days
+112–113, two days inside phase 6 and crossing no gate, written from a clean tree
+(`docs/adr/ADR-0015-twelfth-batch-of-two-to-the-proofreading-checklist.md`). A batch
 under the cap is argued for like any other: its own ADR, and the question asked first.
 
 **The one exception to the cap.** The sixth batch is fourteen days, not ten. It is a named,
@@ -981,3 +983,4 @@ before any day or any code changes, and anything structural gets an ADR in `docs
 | v1.10.0 | 2026-09-24 | §9: the eighth batch's unfinished days 82–84 finished under ADR-0011, then a ninth batch of seven, days 85–91, crossing no gate (ADR-0012). See `docs/CHANGELOG_PLAN.md`. |
 | v1.11.0 | 2026-09-24 | §9: a tenth batch, days 92–101, at the cap of ten, carrying the phase 5 gate as a rehearsal and opening phase 6 (ADR-0013). See `docs/CHANGELOG_PLAN.md`. |
 | v1.12.0 | 2026-09-24 | §9: an eleventh batch, days 102–111, at the cap of ten, inside phase 6 and crossing no gate (ADR-0014). See `docs/CHANGELOG_PLAN.md`. |
+| v1.13.0 | 2026-09-24 | §9: a twelfth batch, days 112–113, two days inside phase 6 and crossing no gate, written only after the eleventh batch was committed; a batch starts from a clean tree (ADR-0015). See `docs/CHANGELOG_PLAN.md`. |

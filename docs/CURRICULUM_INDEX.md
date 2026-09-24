@@ -127,8 +127,8 @@ bug.
 | `SPK-85` | [109](../days/day-109-phrasal-verbs/LESSON.md) | Phrasal verbs in speech: put off, get over, run out of · Phrasal verbs in writing, and when to… |
 | `SPK-86` | [110](../days/day-110-hedging-sort-of/LESSON.md) | Hedging: sort of, I suppose, it depends · Punctuation: commas, colons, semicolons |
 | `SPK-87` | [111](../days/day-111-talking-about-your-field/LESSON.md) | Talking about your own field at length · A report |
-| `SPK-88` | [112](../days/day-112/LESSON.md) | Answering hard questions on the spot · A review |
-| `SPK-89` | [113](../days/day-113/LESSON.md) | Self-correction while speaking · The proofreading checklist |
+| `SPK-88` | [112](../days/day-112-hard-questions-on-spot/LESSON.md) | Answering hard questions on the spot · A review |
+| `SPK-89` | [113](../days/day-113-self-correction-while-speaking/LESSON.md) | Self-correction while speaking · The proofreading checklist |
 | `SPK-90` | [114](../days/day-114/LESSON.md) | Listening back and fixing your own recording · Rewriting your day 20 page |
 | `SPK-91` | [115](../days/day-115/LESSON.md) | The long conversation: first rehearsal · The essay: first draft |
 | `SPK-92` | [116](../days/day-116/LESSON.md) | The long conversation: second rehearsal · The essay: second draft |
@@ -257,8 +257,8 @@ bug.
 | `WRT-62` | [107](../days/day-107-describing-feelings/LESSON.md) | Describing feelings precisely · A descriptive essay |
 | `WRT-63` | [108](../days/day-108-storytelling-with-suspense/LESSON.md) | Storytelling with suspense · A narrative essay |
 | `WRT-64` | [111](../days/day-111-talking-about-your-field/LESSON.md) | Talking about your own field at length · A report |
-| `WRT-65` | [112](../days/day-112/LESSON.md) | Answering hard questions on the spot · A review |
-| `WRT-66` | [113](../days/day-113/LESSON.md) | Self-correction while speaking · The proofreading checklist |
+| `WRT-65` | [112](../days/day-112-hard-questions-on-spot/LESSON.md) | Answering hard questions on the spot · A review |
+| `WRT-66` | [113](../days/day-113-self-correction-while-speaking/LESSON.md) | Self-correction while speaking · The proofreading checklist |
 | `WRT-67` | [114](../days/day-114/LESSON.md) | Listening back and fixing your own recording · Rewriting your day 20 page |
 | `WRT-68` | [115](../days/day-115/LESSON.md) | The long conversation: first rehearsal · The essay: first draft |
 | `WRT-69` | [116](../days/day-116/LESSON.md) | The long conversation: second rehearsal · The essay: second draft |

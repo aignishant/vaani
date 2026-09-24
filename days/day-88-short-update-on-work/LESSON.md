@@ -5,7 +5,7 @@ phase_name: "Formal and at work: interviews, meetings, complaints; formal letter
 title: "Giving a short update on your work · A status update email"
 ids: [SPK-67, WRT-47]
 kind: concept
-plan_version: "v1.12.0"
+plan_version: "v1.13.0"
 parts: 6
 generated: "2026-09-24"
 status: written

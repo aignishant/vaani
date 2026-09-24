@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Gate: the recorded self-introduction · Gate: a ten-sentence page about you"
 ids: [SPK-11, WRT-08]
 kind: gate
-plan_version: "v1.12.0"
+plan_version: "v1.13.0"
 parts: 6
 generated: "2026-09-22"
 status: written

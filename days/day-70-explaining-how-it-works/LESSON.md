@@ -5,7 +5,7 @@ phase_name: "Opinions, plans and explaining; arguing on the page"
 title: "Explaining how something works to someone who doesn't know · Explaining a process in writing"
 ids: [SPK-52, WRT-33]
 kind: concept
-plan_version: "v1.12.0"
+plan_version: "v1.13.0"
 parts: 6
 generated: "2026-09-23"
 status: written

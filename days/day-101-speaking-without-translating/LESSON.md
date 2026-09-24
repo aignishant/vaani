@@ -5,7 +5,7 @@ phase_name: "Fluency and the portfolio: long turns, essays, rehearsals, retakes"
 title: "Fluency: speaking without translating in your head · The essay introduction"
 ids: [SPK-78, WRT-57]
 kind: concept
-plan_version: "v1.12.0"
+plan_version: "v1.13.0"
 parts: 6
 generated: "2026-09-24"
 status: written
