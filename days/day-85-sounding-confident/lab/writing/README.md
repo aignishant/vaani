@@ -1,0 +1,1 @@
+Put your four labelled sentences, your history table and labelled paragraph with the still-doing-it test, copy F labelled deliberate with its test table, the since-and-for check and any repair here as day-85.md, or a photo named day-85.jpg of your notebook page.

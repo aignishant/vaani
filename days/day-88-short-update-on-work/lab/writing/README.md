@@ -1,0 +1,1 @@
+Put your subject, status and Needs lines, your full status update with its tense check and two-line test, copies H (labelled deliberate) and T with their test table, and any repair here as day-88.md, or a photo named day-88.jpg of your notebook page.

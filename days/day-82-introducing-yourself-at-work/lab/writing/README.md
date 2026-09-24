@@ -1,0 +1,1 @@
+Put your labelled frame, your real formal email with its tick table and subject-line test, copy B labelled deliberate with its inbox-test table, and any repair here as day-82.md, or a photo named day-82.jpg of your notebook page.

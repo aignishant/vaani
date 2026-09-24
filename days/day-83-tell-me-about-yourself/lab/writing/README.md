@@ -1,0 +1,1 @@
+Put your five blocks, your one-page CV with its plain-sentence and picture-test tables, copy X labelled deliberate with its one-thing-test table, the circled empty words and any repair here as day-83.md, or a photo named day-83.jpg of your notebook page.

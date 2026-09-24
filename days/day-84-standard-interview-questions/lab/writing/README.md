@@ -1,0 +1,1 @@
+Put your paragraph 1, your full cover letter with its matches table, frame check and two-reasons test, copy G labelled deliberate with its swap-test table, and any repair here as day-84.md, or a photo named day-84.jpg of your notebook page.

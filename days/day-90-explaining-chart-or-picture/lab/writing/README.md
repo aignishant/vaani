@@ -1,0 +1,1 @@
+Put your three trend sentences, your data table and trend paragraph with the small-word check and sketch test, copy W labelled deliberate with its test table, the real-page check and any repair here as day-90.md, or a photo named day-90.jpg of your notebook page.

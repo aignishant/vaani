@@ -1,0 +1,1 @@
+Put your three sentences with circled marks, your facts table and formal paragraph with the read-aloud test, copy J labelled deliberate with its test table, the real-page check and any repair here as day-89.md, or a photo named day-89.jpg of your notebook page.

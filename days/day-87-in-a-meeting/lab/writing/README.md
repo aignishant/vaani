@@ -1,0 +1,1 @@
+Put your header and actions table, your live and full notes with the absent-reader test, copy P labelled deliberate with its test table, and any repair here as day-87.md, or a photo named day-87.jpg of your notebook page.
