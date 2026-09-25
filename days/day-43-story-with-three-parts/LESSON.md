@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "A short story with a beginning, a middle and an end · A story in six sentences"
 ids: [SPK-29, WRT-19]
 kind: concept
-plan_version: "v1.14.0"
+plan_version: "v1.15.0"
 parts: 6
 generated: "2026-09-23"
 status: written

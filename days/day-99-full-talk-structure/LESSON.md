@@ -5,7 +5,7 @@ phase_name: "Formal and at work: interviews, meetings, complaints; formal letter
 title: "A full talk with a structure: opening, three points, close · An essay plan"
 ids: [SPK-76, WRT-55]
 kind: concept
-plan_version: "v1.14.0"
+plan_version: "v1.15.0"
 parts: 6
 generated: "2026-09-24"
 status: written

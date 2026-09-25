@@ -1,0 +1,1 @@
+Put your margin notes on an old page, Draft 2 with its margin-note and counts tables, copy V labelled deliberate with the blind-read table, and any repair here as day-116.md, or a photo named day-116.jpg of your notebook page. Draft 1 stays unchanged in day 115's lab.

@@ -5,7 +5,7 @@ phase_name: "Fluency and the portfolio: long turns, essays, rehearsals, retakes"
 title: "The long conversation: first rehearsal · The essay: first draft"
 ids: [SPK-91, WRT-68]
 kind: concept
-plan_version: "v1.14.0"
+plan_version: "v1.15.0"
 parts: 6
 generated: "2026-09-24"
 status: written

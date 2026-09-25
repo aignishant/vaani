@@ -53,3 +53,4 @@ justification written after the fact, not a decision record.
 | [0014](ADR-0014-eleventh-batch-of-ten-inside-phase-6.md) | An eleventh batch of ten, days 102–111, inside phase 6 and crossing no gate | 2026-09-24 | accepted |
 | [0015](ADR-0015-twelfth-batch-of-two-to-the-proofreading-checklist.md) | A twelfth batch of two, days 112–113, inside phase 6 and crossing no gate | 2026-09-24 | accepted |
 | [0016](ADR-0016-thirteenth-batch-of-two-first-rehearsal-and-draft.md) | A thirteenth batch of two, days 114–115, inside phase 6 and crossing no gate | 2026-09-24 | accepted |
+| [0017](ADR-0017-fourteenth-batch-of-two-second-rehearsal-and-portfolio.md) | A fourteenth batch of two, days 116–117, inside phase 6 and crossing no gate | 2026-09-24 | accepted |

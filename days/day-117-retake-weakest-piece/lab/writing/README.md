@@ -1,0 +1,1 @@
+Put your two lines and one row, the audit table, your reader's note, copy B labelled deliberate with the finding-test table, and any repair here as day-117.md, or a photo named day-117.jpg of your notebook page. Never move or change an old portfolio piece.

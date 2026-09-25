@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "At the doctor: saying how you feel and where it hurts · Adjectives and their order: a small red car"
 ids: [SPK-18, GRM-16]
 kind: concept
-plan_version: "v1.14.0"
+plan_version: "v1.15.0"
 parts: 6
 generated: "2026-09-22"
 status: written

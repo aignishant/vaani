@@ -131,8 +131,8 @@ bug.
 | `SPK-89` | [113](../days/day-113-self-correction-while-speaking/LESSON.md) | Self-correction while speaking · The proofreading checklist |
 | `SPK-90` | [114](../days/day-114-listening-back-own-recording/LESSON.md) | Listening back and fixing your own recording · Rewriting your day 20 page |
 | `SPK-91` | [115](../days/day-115-long-conversation-first-rehearsal/LESSON.md) | The long conversation: first rehearsal · The essay: first draft |
-| `SPK-92` | [116](../days/day-116/LESSON.md) | The long conversation: second rehearsal · The essay: second draft |
-| `SPK-93` | [117](../days/day-117/LESSON.md) | Recording the portfolio: retake the weakest piece · Assembling the writing portfolio |
+| `SPK-92` | [116](../days/day-116-long-conversation-second-rehearsal/LESSON.md) | The long conversation: second rehearsal · The essay: second draft |
+| `SPK-93` | [117](../days/day-117-retake-weakest-piece/LESSON.md) | Recording the portfolio: retake the weakest piece · Assembling the writing portfolio |
 | `SPK-94` | [118](../days/day-118/LESSON.md) | The unscripted talk, no notes · The one-sitting page: write without stopping |
 | `SPK-95` | [119](../days/day-119/LESSON.md) | The final recorded conversation · The final essay |
 | `SPK-96` | [120](../days/day-120/LESSON.md) | Gate: the speaking portfolio review · Gate: the writing portfolio review |
@@ -261,8 +261,8 @@ bug.
 | `WRT-66` | [113](../days/day-113-self-correction-while-speaking/LESSON.md) | Self-correction while speaking · The proofreading checklist |
 | `WRT-67` | [114](../days/day-114-listening-back-own-recording/LESSON.md) | Listening back and fixing your own recording · Rewriting your day 20 page |
 | `WRT-68` | [115](../days/day-115-long-conversation-first-rehearsal/LESSON.md) | The long conversation: first rehearsal · The essay: first draft |
-| `WRT-69` | [116](../days/day-116/LESSON.md) | The long conversation: second rehearsal · The essay: second draft |
-| `WRT-70` | [117](../days/day-117/LESSON.md) | Recording the portfolio: retake the weakest piece · Assembling the writing portfolio |
+| `WRT-69` | [116](../days/day-116-long-conversation-second-rehearsal/LESSON.md) | The long conversation: second rehearsal · The essay: second draft |
+| `WRT-70` | [117](../days/day-117-retake-weakest-piece/LESSON.md) | Recording the portfolio: retake the weakest piece · Assembling the writing portfolio |
 | `WRT-71` | [118](../days/day-118/LESSON.md) | The unscripted talk, no notes · The one-sitting page: write without stopping |
 | `WRT-72` | [119](../days/day-119/LESSON.md) | The final recorded conversation · The final essay |
 | `WRT-73` | [120](../days/day-120/LESSON.md) | Gate: the speaking portfolio review · Gate: the writing portfolio review |

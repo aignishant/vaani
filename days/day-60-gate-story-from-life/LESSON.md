@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "Gate: the recorded story from your life · Gate: a one-page story in the past"
 ids: [SPK-43, WRT-28]
 kind: gate
-plan_version: "v1.14.0"
+plan_version: "v1.15.0"
 parts: 6
 generated: "2026-09-23"
 status: written
