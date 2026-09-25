@@ -5,7 +5,7 @@ phase_name: "Opinions, plans and explaining; arguing on the page"
 title: "Talking about what might happen · Writing a plan step by step"
 ids: [SPK-50, WRT-32]
 kind: concept
-plan_version: "v1.15.0"
+plan_version: "v1.16.0"
 parts: 6
 generated: "2026-09-23"
 status: written

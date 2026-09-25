@@ -1,0 +1,1 @@
+Put the frozen Draft 2 with its marks, the checklist sheet, the final essay with its compare and count tables, copy L labelled deliberate, copy F, the checklist-reader table and any repair here as day-119.md, or photos named day-119-*.jpg. Draft 1 and Draft 2 stay unchanged in their own days.

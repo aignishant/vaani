@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "Giving instructions aloud: how to make tea · Imperatives and first, next, then, finally"
 ids: [SPK-21, GRM-18]
 kind: concept
-plan_version: "v1.15.0"
+plan_version: "v1.16.0"
 parts: 6
 generated: "2026-09-22"
 status: written

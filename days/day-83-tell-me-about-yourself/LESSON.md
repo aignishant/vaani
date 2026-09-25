@@ -5,7 +5,7 @@ phase_name: "Formal and at work: interviews, meetings, complaints; formal letter
 title: "The job interview: tell me about yourself · A CV in plain sentences"
 ids: [SPK-63, WRT-43]
 kind: concept
-plan_version: "v1.15.0"
+plan_version: "v1.16.0"
 parts: 6
 generated: "2026-09-24"
 status: written

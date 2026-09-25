@@ -5,7 +5,7 @@ phase_name: "Fluency and the portfolio: long turns, essays, rehearsals, retakes"
 title: "Debating: making a point and answering one · An argumentative essay"
 ids: [SPK-81, WRT-60]
 kind: concept
-plan_version: "v1.15.0"
+plan_version: "v1.16.0"
 parts: 6
 generated: "2026-09-24"
 status: written

@@ -9,9 +9,9 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | | Count | Of plan |
 | --- | --- | --- |
 | Days in the plan | **120** | 100% |
-| Days written | **117** | 97.5% |
+| Days written | **120** | 100.0% |
 | Days complete | **1** | 0.8% |
-| Subtopic documents | **704** | — |
+| Subtopic documents | **722** | — |
 | Source documents | **0** | — |
 
 ## Every day
@@ -135,9 +135,9 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 115 | 6 | [The long conversation: first rehearsal · The essay: first draft](../days/day-115-long-conversation-first-rehearsal/LESSON.md) | written | 6 | 0 | `SPK-91`, `WRT-68` |
 | 116 | 6 | [The long conversation: second rehearsal · The essay: second draft](../days/day-116-long-conversation-second-rehearsal/LESSON.md) | written | 6 | 0 | `SPK-92`, `WRT-69` |
 | 117 | 6 | [Recording the portfolio: retake the weakest piece · Assembling the writ…](../days/day-117-retake-weakest-piece/LESSON.md) | written | 6 | 0 | `SPK-93`, `WRT-70` |
-| 118 | 6 | The unscripted talk, no notes · The one-sitting page: write without sto… | not started | 0 | 0 | `SPK-94`, `WRT-71` |
-| 119 | 6 | The final recorded conversation · The final essay | not started | 0 | 0 | `SPK-95`, `WRT-72` |
-| 120 | 6 | Gate: the speaking portfolio review · Gate: the writing portfolio review | not started | 0 | 0 | `SPK-96`, `WRT-73` |
+| 118 | 6 | [The unscripted talk, no notes · The one-sitting page: write without sto…](../days/day-118-unscripted-talk-no-notes/LESSON.md) | written | 6 | 0 | `SPK-94`, `WRT-71` |
+| 119 | 6 | [The final recorded conversation · The final essay](../days/day-119-final-recorded-conversation/LESSON.md) | written | 6 | 0 | `SPK-95`, `WRT-72` |
+| 120 | 6 | [Gate: the speaking portfolio review · Gate: the writing portfolio review](../days/day-120-gate-portfolio-review/LESSON.md) | written | 6 | 0 | `SPK-96`, `WRT-73` |
 
 ## Phases
 
@@ -148,4 +148,4 @@ only when it also has a ledger row. A thin day is visible from the parts column.
 | 3 | 41–60 | Telling what happened: the past, stories, compa… | 20/20 | 0/20 | Speaking: a recorded story from your life with a beginn… |
 | 4 | 61–80 | Opinions, plans and explaining; arguing on the… | 20/20 | 0/20 | Speaking: a recorded opinion with three reasons and one… |
 | 5 | 81–100 | Formal and at work: interviews, meetings, compl… | 20/20 | 0/20 | Speaking: a recorded interview role-play answering five… |
-| 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 17/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |
+| 6 | 101–120 | Fluency and the portfolio: long turns, essays,… | 20/20 | 0/20 | Speaking: an unscripted talk of at least four hundred s… |

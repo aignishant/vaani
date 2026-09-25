@@ -5,7 +5,7 @@ phase_name: "Telling what happened: the past, stories, comparing; paragraphs tha
 title: "Talking about a mistake you made · Used to: things that were true and are not now"
 ids: [SPK-42, GRM-32]
 kind: concept
-plan_version: "v1.15.0"
+plan_version: "v1.16.0"
 parts: 6
 generated: "2026-09-23"
 status: written

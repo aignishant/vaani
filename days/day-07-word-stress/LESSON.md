@@ -5,7 +5,7 @@ phase_name: "Foundations: sounds and first sentences; letters and the sentence"
 title: "Word stress: PHOto, phoTOgrapher — the loud syllable · Five sentences about yourself, each one true"
 ids: [SND-07, WRT-03]
 kind: concept
-plan_version: "v1.15.0"
+plan_version: "v1.16.0"
 parts: 6
 generated: "2026-09-22"
 status: written

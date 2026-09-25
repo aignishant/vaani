@@ -5,7 +5,7 @@ phase_name: "Formal and at work: interviews, meetings, complaints; formal letter
 title: "Numbers, dates and reference codes said clearly · Instructions and rules on paper"
 ids: [SND-23, WRT-53]
 kind: concept
-plan_version: "v1.15.0"
+plan_version: "v1.16.0"
 parts: 7
 generated: "2026-09-24"
 status: written

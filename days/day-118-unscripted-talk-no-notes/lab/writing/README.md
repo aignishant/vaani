@@ -1,0 +1,1 @@
+Put your margin plan, the one-sitting page with its counts and reader's-test tables, page N labelled deliberate, page M, the first-and-last table and any repair here as day-118.md, or a photo named day-118.jpg of your notebook page.

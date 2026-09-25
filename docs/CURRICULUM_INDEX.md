@@ -133,9 +133,9 @@ bug.
 | `SPK-91` | [115](../days/day-115-long-conversation-first-rehearsal/LESSON.md) | The long conversation: first rehearsal · The essay: first draft |
 | `SPK-92` | [116](../days/day-116-long-conversation-second-rehearsal/LESSON.md) | The long conversation: second rehearsal · The essay: second draft |
 | `SPK-93` | [117](../days/day-117-retake-weakest-piece/LESSON.md) | Recording the portfolio: retake the weakest piece · Assembling the writing portfolio |
-| `SPK-94` | [118](../days/day-118/LESSON.md) | The unscripted talk, no notes · The one-sitting page: write without stopping |
-| `SPK-95` | [119](../days/day-119/LESSON.md) | The final recorded conversation · The final essay |
-| `SPK-96` | [120](../days/day-120/LESSON.md) | Gate: the speaking portfolio review · Gate: the writing portfolio review |
+| `SPK-94` | [118](../days/day-118-unscripted-talk-no-notes/LESSON.md) | The unscripted talk, no notes · The one-sitting page: write without stopping |
+| `SPK-95` | [119](../days/day-119-final-recorded-conversation/LESSON.md) | The final recorded conversation · The final essay |
+| `SPK-96` | [120](../days/day-120-gate-portfolio-review/LESSON.md) | Gate: the speaking portfolio review · Gate: the writing portfolio review |
 
 ## Grammar for writing (`GRM-`) — 47 IDs
 
@@ -263,6 +263,6 @@ bug.
 | `WRT-68` | [115](../days/day-115-long-conversation-first-rehearsal/LESSON.md) | The long conversation: first rehearsal · The essay: first draft |
 | `WRT-69` | [116](../days/day-116-long-conversation-second-rehearsal/LESSON.md) | The long conversation: second rehearsal · The essay: second draft |
 | `WRT-70` | [117](../days/day-117-retake-weakest-piece/LESSON.md) | Recording the portfolio: retake the weakest piece · Assembling the writing portfolio |
-| `WRT-71` | [118](../days/day-118/LESSON.md) | The unscripted talk, no notes · The one-sitting page: write without stopping |
-| `WRT-72` | [119](../days/day-119/LESSON.md) | The final recorded conversation · The final essay |
-| `WRT-73` | [120](../days/day-120/LESSON.md) | Gate: the speaking portfolio review · Gate: the writing portfolio review |
+| `WRT-71` | [118](../days/day-118-unscripted-talk-no-notes/LESSON.md) | The unscripted talk, no notes · The one-sitting page: write without stopping |
+| `WRT-72` | [119](../days/day-119-final-recorded-conversation/LESSON.md) | The final recorded conversation · The final essay |
+| `WRT-73` | [120](../days/day-120-gate-portfolio-review/LESSON.md) | Gate: the speaking portfolio review · Gate: the writing portfolio review |

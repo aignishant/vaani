@@ -1,0 +1,1 @@
+Put the gate wording with your evidence list, the essay-review and index-audit tables, the closing line, copy B labelled deliberate with the gate-check table, and any repair here as day-120.md, or a photo named day-120.jpg. The final essay stays in day 119's lab and gets no new sentence.

@@ -5,7 +5,7 @@ phase_name: "Everyday life: shops, phones, plans; notes, messages, short emails"
 title: "At the shop: asking for things politely · A shopping list and a note for the fridge"
 ids: [SPK-12, WRT-09]
 kind: concept
-plan_version: "v1.15.0"
+plan_version: "v1.16.0"
 parts: 6
 generated: "2026-09-22"
 status: written

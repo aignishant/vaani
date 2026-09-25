@@ -125,3 +125,6 @@ it. Cross-day lookups live in `wiki/ENTITIES.md`.
 | [115](wiki/day-115.md) | The long conversation: first rehearsal · The essay: first draft | SPK-91, WRT-68 | 6 | — |
 | [116](wiki/day-116.md) | The long conversation: second rehearsal · The essay: second draft | SPK-92, WRT-69 | 6 | — |
 | [117](wiki/day-117.md) | Recording the portfolio: retake the weakest piece · Assembling the writing portfolio | SPK-93, WRT-70 | 6 | — |
+| [118](wiki/day-118.md) | The unscripted talk, no notes · The one-sitting page: write without stopping | SPK-94, WRT-71 | 6 | — |
+| [119](wiki/day-119.md) | The final recorded conversation · The final essay | SPK-95, WRT-72 | 6 | — |
+| [120](wiki/day-120.md) | Gate: the speaking portfolio review · Gate: the writing portfolio review | SPK-96, WRT-73 | 6 | — |

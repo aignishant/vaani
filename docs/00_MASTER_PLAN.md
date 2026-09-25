@@ -1,6 +1,6 @@
 ---
 plan: vaani
-version: "v1.15.0"
+version: "v1.16.0"
 topic: "Speaking and writing English from zero, one hour a day, with a recording and a written piece every day"
 tracks: 4
 ids: 240
@@ -10,7 +10,7 @@ doc_architecture: "hub + parts/ (see §11)"
 amended: "2026-09-24"
 ---
 
-# MASTER PLAN v1.15.0 — Vaani
+# MASTER PLAN v1.16.0 — Vaani
 
 ## Speaking and writing English from zero, one hour a day, with a recording and a written piece every day
 
@@ -522,7 +522,10 @@ ninth is days 85–91, seven days written only after days 82–84 were finished 
 days 114–115, two days inside phase 6 and crossing no gate
 (`docs/adr/ADR-0016-thirteenth-batch-of-two-first-rehearsal-and-draft.md`); the fourteenth is
 days 116–117, two days inside phase 6 and crossing no gate
-(`docs/adr/ADR-0017-fourteenth-batch-of-two-second-rehearsal-and-portfolio.md`). A batch
+(`docs/adr/ADR-0017-fourteenth-batch-of-two-second-rehearsal-and-portfolio.md`); the fifteenth
+and last is days 118–120, three days ending on the phase 6 gate as a rehearsal, after which the plan
+is written to its last day and there is no further batch
+(`docs/adr/ADR-0018-fifteenth-batch-of-three-to-the-phase-6-gate.md`). A batch
 under the cap is argued for like any other: its own ADR, and the question asked first.
 
 **The one exception to the cap.** The sixth batch is fourteen days, not ten. It is a named,
@@ -990,3 +993,4 @@ before any day or any code changes, and anything structural gets an ADR in `docs
 | v1.13.0 | 2026-09-24 | §9: a twelfth batch, days 112–113, two days inside phase 6 and crossing no gate, written only after the eleventh batch was committed; a batch starts from a clean tree (ADR-0015). See `docs/CHANGELOG_PLAN.md`. |
 | v1.14.0 | 2026-09-24 | §9: a thirteenth batch, days 114–115, two days inside phase 6 and crossing no gate, written only after the twelfth batch was committed (ADR-0016). See `docs/CHANGELOG_PLAN.md`. |
 | v1.15.0 | 2026-09-24 | §9: a fourteenth batch, days 116–117, two days inside phase 6 and crossing no gate, written from a clean tree (ADR-0017). See `docs/CHANGELOG_PLAN.md`. |
+| v1.16.0 | 2026-09-25 | §9: a fifteenth and last batch, days 118–120, three days ending on the phase 6 gate as a rehearsal, written from a clean tree; the plan is now written to day 120 (ADR-0018). See `docs/CHANGELOG_PLAN.md`. |

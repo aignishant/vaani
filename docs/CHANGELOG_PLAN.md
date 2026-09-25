@@ -235,3 +235,20 @@ toolchain — also gets an ADR in `docs/adr/`, and the entry here links it.
   exist yet. Day 118 onward needs a closed day 6 or a further ADR, with the question asked again
   first, and any batch reaching day 120 writes the gate day inside it as a rehearsal.
   `plan_version` in `granth.toml` and in every hub moves to v1.15.0. No IDs move.
+- 2026-09-25 — **What moved:** "next 10 days doc" was asked for with the ledger still holding one
+  row and only three days left in the plan. Days 116–117 passed `depth`; `check` passed once the
+  indexes were regenerated; the tree was not clean. The question "is anybody doing the days?" was
+  put to the learner in those words before anything was written. It said that the course ends at
+  day 120, so only days 118–120 remain, that days 2–117 are written and not done, that days 116–117
+  were uncommitted, and that day 120 is the phase 6 gate and would be written as a rehearsal. The
+  options were: commit days 116–117 and write nothing new (recommended), commit and then write days
+  118–120, or leave everything as it is. The learner chose to commit and then write, and days
+  116–117 were committed (`33149e6`) before this batch was written. **What the plan now says
+  (v1.16.0):** §9's writing-ahead rule gains the fifteenth and last batch, days 118–120, ending on
+  the phase 6 gate as a rehearsal, on every condition ADR-0004 to ADR-0017 set —
+  `docs/adr/ADR-0018-fifteenth-batch-of-three-to-the-phase-6-gate.md`. §13 gains the v1.16.0 row.
+  **Cost:** the last gate of the course is written with one day of real errors behind it; its check
+  lists stay generic until its `ERRORS.md` re-read is ticked. Day 120 reviews the conversation and
+  the essay that day 119 makes, and never makes them late. The plan is now written to its last day;
+  any further change is an amendment to a written day, not a new batch. `plan_version` in
+  `granth.toml` and in every hub moves to v1.16.0. No IDs move.

@@ -180,6 +180,9 @@ questions a long curriculum makes expensive to answer by reading.
 | `SPK-91` | [day 115](day-115.md) |
 | `SPK-92` | [day 116](day-116.md) |
 | `SPK-93` | [day 117](day-117.md) |
+| `SPK-94` | [day 118](day-118.md) |
+| `SPK-95` | [day 119](day-119.md) |
+| `SPK-96` | [day 120](day-120.md) |
 | `WRT-01` | [day 1](day-01.md) |
 | `WRT-02` | [day 2](day-02.md) |
 | `WRT-03` | [day 7](day-07.md) |
@@ -250,3 +253,6 @@ questions a long curriculum makes expensive to answer by reading.
 | `WRT-68` | [day 115](day-115.md) |
 | `WRT-69` | [day 116](day-116.md) |
 | `WRT-70` | [day 117](day-117.md) |
+| `WRT-71` | [day 118](day-118.md) |
+| `WRT-72` | [day 119](day-119.md) |
+| `WRT-73` | [day 120](day-120.md) |
